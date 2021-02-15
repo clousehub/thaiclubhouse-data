@@ -1208,6 +1208,19 @@
       },
       "metadataUpdated": "2021-02-15T19:00:17.832Z",
       "date": "2021-02-15T19:30:00.000+07:00"
+    },
+    "xXggb2J3": {
+      "sources": {
+        "https://www.facebook.com/groups/clubhousethailandcommunity/permalink/434351917618637/": {
+          "created_time": "2021-02-15T19:15:21+0000"
+        }
+      },
+      "metadata": {
+        "description": "Saturday, February 20 at 8:00pm +07 with Sirinat Paphatsirinatthi, Saritrat Jirakulpornchai. Cloud Native Bangkok และ KubeOps Skills จะมาแชร์เรื่อง challenge ต่างๆ ในการ design และ การออกแบบระบบให้ scale",
+        "title": "Architecture Design Challenge for Cloud Native"
+      },
+      "metadataUpdated": "2021-02-15T19:30:10.890Z",
+      "date": "2021-02-20T20:00:00.000+07:00"
     }
   }
 }
