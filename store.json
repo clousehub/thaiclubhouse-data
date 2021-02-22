@@ -6267,6 +6267,19 @@
       },
       "metadataUpdated": "2021-02-22T09:36:12.204Z",
       "date": "2021-02-22T23:55:00.000+07:00"
+    },
+    "xkj7eBJP": {
+      "sources": {
+        "https://thaiclubhouse.web.app/submit.html": {
+          "created_time": "2021-02-22T09:45:01.000Z"
+        }
+      },
+      "metadata": {
+        "description": "Sunday, February 28 at 8:00pm +07 with Sirinat Paphatsirinatthi, JoJo. มาเล่า หรือ แบ่งปันประสบการณ์ระบบ cloud ล่ม บน production รวมถึงวิธีการแก้ปัญหา การออกแบบเพื่อป้องกันปัญหาในอนาคต",
+        "title": "ระบบล่มทำไง เรื่องเล่า Cloud Production Issues"
+      },
+      "metadataUpdated": "2021-02-22T09:48:06.645Z",
+      "date": "2021-02-28T20:00:00.000+07:00"
     }
   }
 }
