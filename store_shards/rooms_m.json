@@ -1,0 +1,42 @@
+{
+  "rooms": {
+    "mZBLrndm": {
+      "sources": {
+        "https://www.facebook.com/groups/clubhousethailandcommunity/permalink/433230277730801/": {
+          "created_time": "2021-02-13T17:34:01+0000"
+        }
+      }
+    },
+    "xoX2Ey8M": {
+      "sources": {
+        "https://twitter.com/COINDY_/status/1364151072822947844": {
+          "created_time": "2021-02-23T09:52:15.000Z"
+        }
+      }
+    },
+    "xp5Q705M": {
+      "sources": {
+        "https://twitter.com/KhummeeYoongii/status/1364156838321655814": {
+          "created_time": "2021-02-23T10:15:09.000Z"
+        }
+      }
+    },
+    "m21oAEzM": {
+      "sources": {
+        "https://twitter.com/Ppimddd/status/1364185154663501827": {
+          "created_time": "2021-02-23T12:07:40.000Z"
+        }
+      }
+    },
+    "MEBB97ym": {
+      "sources": {
+        "https://twitter.com/yolossdb/status/1364197265770913792": {
+          "created_time": "2021-02-23T12:55:48.000Z"
+        },
+        "https://twitter.com/yolossdb/status/1364207467597426691": {
+          "created_time": "2021-02-23T13:36:20.000Z"
+        }
+      }
+    }
+  }
+}
