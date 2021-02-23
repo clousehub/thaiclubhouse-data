@@ -1075,6 +1075,27 @@
           "created_time": "2021-02-23T13:15:19.000Z"
         }
       }
+    },
+    "M5GeKbvl": {
+      "sources": {
+        "https://twitter.com/cherryzi01/status/1364206977983782918": {
+          "created_time": "2021-02-23T13:34:23.000Z"
+        }
+      }
+    },
+    "PY7BAr9w": {
+      "sources": {
+        "https://twitter.com/khawjaoo_/status/1364205749673422851": {
+          "created_time": "2021-02-23T13:29:31.000Z"
+        }
+      }
+    },
+    "xlN3a26J": {
+      "sources": {
+        "https://twitter.com/mademayday__/status/1364205149665644545": {
+          "created_time": "2021-02-23T13:27:08.000Z"
+        }
+      }
     }
   },
   "events": {
@@ -7520,6 +7541,9 @@
         },
         "https://twitter.com/ClubhouseTh/status/1364113896605290505": {
           "created_time": "2021-02-23T07:24:31.000Z"
+        },
+        "https://twitter.com/ClubhouseTh/status/1364206430371258375": {
+          "created_time": "2021-02-23T13:32:13.000Z"
         }
       },
       "metadata": {
@@ -8368,6 +8392,32 @@
       },
       "metadataUpdated": "2021-02-23T13:24:13.834Z",
       "date": "2021-02-23T20:30:00.000+07:00"
+    },
+    "my2yrXlP": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1364207018286845954": {
+          "created_time": "2021-02-23T13:34:33.000Z"
+        }
+      },
+      "metadata": {
+        "description": "Tuesday, February 23 at 9:00pm +07 with Pattaratape Reepairoj, Ananda Obchoey, Teerachai Lohapansomboon, Nattawut Saewang, Sasis Wichiencharoen. ดูไพ่ทาโรต์ : ปรึกษาปัญหาชีวิต โดย หมอธีร์ FB : Hope you get well 🗓 ทุกวันอังคาร 22:00 น. (วันนี้ 21:00)",
+        "title": "ดูไพ่ทาโรต์ : ปรึกษาปัญหาชีวิต"
+      },
+      "metadataUpdated": "2021-02-23T13:36:09.043Z",
+      "date": "2021-02-23T21:00:00.000+07:00"
+    },
+    "PGz1W21k": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1364206883263811585": {
+          "created_time": "2021-02-23T13:34:01.000Z"
+        }
+      },
+      "metadata": {
+        "description": "Tuesday, February 23 at 9:00pm +07 with kafaak, MENG เหม็ง, jetboat, Nui Wiri. พวกเราก็เล่น clubhouse มาพักใหญ่แล้ว มุมมอง IT, Startip, Digital marketing ฯลฯ คิดว่ามันจะไปยังไงต่อในไทยจะยังฮิตอยู่ไหม เราจะพยายามให้จบในไม่เกิน 60 นาที",
+        "title": "คนมาเล่น clubhouse เยอะแล้ว มองว่ามันจะไปยังไงต่อ"
+      },
+      "metadataUpdated": "2021-02-23T13:36:09.105Z",
+      "date": "2021-02-23T21:00:00.000+07:00"
     }
   }
 }
