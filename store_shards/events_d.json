@@ -467,6 +467,17 @@
       },
       "metadataUpdated": "2021-02-27T13:06:08.523Z",
       "date": "2021-03-01T22:30:00.000+07:00"
+    },
+    "xkbZBd": {
+      "sources": {
+        "https://twitter.com/ThaiPBS/status/1365665739332415494": {
+          "created_time": "2021-02-27T14:10:59.000Z"
+        },
+        "https://twitter.com/MynameTai/status/1365665641508704256": {
+          "created_time": "2021-02-27T14:10:36.000Z"
+        }
+      },
+      "metadataUpdated": "2021-02-27T14:12:09.246Z"
     }
   }
 }
