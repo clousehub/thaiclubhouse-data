@@ -198,10 +198,14 @@
     "M5zKJ8Y4": {
       "sources": {
         "https://twitter.com/pdd____/status/1366035642593906692": {
-          "created_time": "2021-02-28T14:40:51.000Z"
+          "created_time": "2021-02-28T14:40:51.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         },
         "https://twitter.com/pdd____/status/1366035187205767176": {
-          "created_time": "2021-02-28T14:39:02.000Z"
+          "created_time": "2021-02-28T14:39:02.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }

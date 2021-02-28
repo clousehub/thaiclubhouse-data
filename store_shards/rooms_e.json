@@ -372,7 +372,9 @@
     "PAakd5Ne": {
       "sources": {
         "https://twitter.com/nonopyy/status/1366054200300331009": {
-          "created_time": "2021-02-28T15:54:36.000Z"
+          "created_time": "2021-02-28T15:54:36.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }

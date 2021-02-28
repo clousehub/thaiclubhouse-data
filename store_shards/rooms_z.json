@@ -276,7 +276,9 @@
     "m7z773gz": {
       "sources": {
         "https://twitter.com/topazine/status/1366036372667031554": {
-          "created_time": "2021-02-28T14:43:45.000Z"
+          "created_time": "2021-02-28T14:43:45.000Z",
+          "retweet_count": 315,
+          "favorite_count": 38
         }
       }
     }

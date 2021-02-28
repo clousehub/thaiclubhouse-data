@@ -258,22 +258,34 @@
           "created_time": "2021-02-28T13:26:54.000Z"
         },
         "https://twitter.com/ivaderer/status/1366021581395300354": {
-          "created_time": "2021-02-28T13:44:59.000Z"
+          "created_time": "2021-02-28T13:44:59.000Z",
+          "retweet_count": 5,
+          "favorite_count": 1
         },
         "https://twitter.com/Wan_nie14/status/1366023750194397187": {
-          "created_time": "2021-02-28T13:53:36.000Z"
+          "created_time": "2021-02-28T13:53:36.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         },
         "https://twitter.com/Finny_Finfin/status/1366022879507189764": {
-          "created_time": "2021-02-28T13:50:08.000Z"
+          "created_time": "2021-02-28T13:50:08.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
         },
         "https://twitter.com/ywmitn/status/1366024762669998081": {
-          "created_time": "2021-02-28T13:57:37.000Z"
+          "created_time": "2021-02-28T13:57:37.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
         },
         "https://twitter.com/pink_btf/status/1366048284276518913": {
-          "created_time": "2021-02-28T15:31:05.000Z"
+          "created_time": "2021-02-28T15:31:05.000Z",
+          "retweet_count": 3,
+          "favorite_count": 1
         },
         "https://twitter.com/jasesyrubyjase/status/1366050369567031297": {
-          "created_time": "2021-02-28T15:39:22.000Z"
+          "created_time": "2021-02-28T15:39:22.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     },
@@ -287,31 +299,41 @@
     "xnKk8N9a": {
       "sources": {
         "https://twitter.com/f_ffame_f/status/1366033780843024384": {
-          "created_time": "2021-02-28T14:33:27.000Z"
+          "created_time": "2021-02-28T14:33:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         },
         "https://twitter.com/f_ffame_f/status/1366046726222540800": {
-          "created_time": "2021-02-28T15:24:54.000Z"
+          "created_time": "2021-02-28T15:24:54.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     },
     "xeLNgv2A": {
       "sources": {
         "https://twitter.com/Berbad3/status/1366037955643498500": {
-          "created_time": "2021-02-28T14:50:03.000Z"
+          "created_time": "2021-02-28T14:50:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     },
     "M8NLEoKA": {
       "sources": {
         "https://twitter.com/Kingkeela/status/1366046378795827205": {
-          "created_time": "2021-02-28T15:23:31.000Z"
+          "created_time": "2021-02-28T15:23:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     },
     "myXYj03a": {
       "sources": {
         "https://twitter.com/the2ec/status/1366056838429507586": {
-          "created_time": "2021-02-28T16:05:05.000Z"
+          "created_time": "2021-02-28T16:05:05.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }

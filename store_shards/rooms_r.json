@@ -518,17 +518,23 @@
     "xnnG2yaR": {
       "sources": {
         "https://twitter.com/npsr_d/status/1366033177299460103": {
-          "created_time": "2021-02-28T14:31:03.000Z"
+          "created_time": "2021-02-28T14:31:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     },
     "xXDBaolR": {
       "sources": {
         "https://twitter.com/itSunShine_s/status/1366055296439754758": {
-          "created_time": "2021-02-28T15:58:57.000Z"
+          "created_time": "2021-02-28T15:58:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         },
         "https://twitter.com/itSunShine_s/status/1366056521583325190": {
-          "created_time": "2021-02-28T16:03:49.000Z"
+          "created_time": "2021-02-28T16:03:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
