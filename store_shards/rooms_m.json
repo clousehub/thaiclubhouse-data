@@ -285,8 +285,8 @@
       "sources": {
         "https://twitter.com/ivaderer/status/1366105387003351042": {
           "created_time": "2021-02-28T19:17:59.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
