@@ -365,6 +365,11 @@
           "created_time": "2021-03-01T12:00:35.000Z",
           "retweet_count": 2,
           "favorite_count": 2
+        },
+        "https://twitter.com/nxngjenokub/status/1366358079814602754": {
+          "created_time": "2021-03-01T12:02:06.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }
