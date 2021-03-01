@@ -449,8 +449,8 @@
       "sources": {
         "https://twitter.com/jomquan/status/1366370742649032707": {
           "created_time": "2021-03-01T12:52:25.000Z",
-          "retweet_count": 156,
-          "favorite_count": 147
+          "retweet_count": 161,
+          "favorite_count": 153
         }
       },
       "metadata": {
@@ -459,6 +459,21 @@
       },
       "metadataUpdated": "2021-03-01T12:54:08.193Z",
       "date": "2021-03-01T20:00:00.000+07:00"
+    },
+    "mJwgg7dr": {
+      "sources": {
+        "https://twitter.com/Thai_SuperHero/status/1366392554564898816": {
+          "created_time": "2021-03-01T14:19:06.000Z",
+          "retweet_count": 19,
+          "favorite_count": 9
+        }
+      },
+      "metadata": {
+        "description": "Monday, March 1 at 9:15pm +07 with Varit Vasanasiri, Good Joe | voeten, Khun Minho. คุณคิดว่าตัวละครใดที่น่าสงสารที่สุดใน MCU เข้ามาแชร์กันได้นะคนับ",
+        "title": "ใครระทมสุดใน MCU ? THOR หรือ WANDA ?"
+      },
+      "metadataUpdated": "2021-03-01T14:24:14.272Z",
+      "date": "2021-03-01T21:15:00.000+07:00"
     }
   }
 }
