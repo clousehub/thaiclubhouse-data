@@ -542,6 +542,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "Md04VGXR": {
+      "sources": {
+        "https://twitter.com/TB_141994/status/1366352007653548039": {
+          "created_time": "2021-03-01T11:37:58.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
