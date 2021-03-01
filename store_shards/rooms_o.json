@@ -423,6 +423,11 @@
           "created_time": "2021-03-01T13:48:00.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/sfhadavin/status/1366385035050315782": {
+          "created_time": "2021-03-01T13:49:13.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
