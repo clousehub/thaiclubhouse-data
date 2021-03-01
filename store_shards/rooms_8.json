@@ -213,6 +213,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PAA4Zn08": {
+      "sources": {
+        "https://twitter.com/moohouseCH/status/1366419147886759940": {
+          "created_time": "2021-03-01T16:04:46.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/JakkritTomTom/status/1366418884669050881": {
+          "created_time": "2021-03-01T16:03:43.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
