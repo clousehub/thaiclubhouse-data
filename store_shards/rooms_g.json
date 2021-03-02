@@ -305,6 +305,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "xVKgLqnG": {
+      "sources": {
+        "https://twitter.com/qorgus614/status/1366765288771837961": {
+          "created_time": "2021-03-02T15:00:12.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/qorgus614/status/1366771007726346243": {
+          "created_time": "2021-03-02T15:22:56.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

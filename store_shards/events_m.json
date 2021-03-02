@@ -555,6 +555,11 @@
           "created_time": "2021-03-02T04:17:04.000Z",
           "retweet_count": 1,
           "favorite_count": 2
+        },
+        "https://twitter.com/prswrs/status/1366773006454824960": {
+          "created_time": "2021-03-02T15:30:52.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       },
       "metadata": {
