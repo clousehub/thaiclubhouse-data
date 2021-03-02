@@ -458,6 +458,15 @@
           "favorite_count": 2
         }
       }
+    },
+    "xLBvnook": {
+      "sources": {
+        "https://twitter.com/chanpony_/status/1366845797862531073": {
+          "created_time": "2021-03-02T20:20:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
