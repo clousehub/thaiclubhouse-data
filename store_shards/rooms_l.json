@@ -432,6 +432,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "myokjarl": {
+      "sources": {
+        "https://twitter.com/mknwpsx/status/1366596882043084801": {
+          "created_time": "2021-03-02T03:51:01.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
