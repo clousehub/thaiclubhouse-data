@@ -593,6 +593,21 @@
       },
       "metadataUpdated": "2021-02-28T11:12:11.347Z",
       "date": "2021-03-02T20:30:00.000+07:00"
+    },
+    "xpoBy32Y": {
+      "sources": {
+        "https://twitter.com/tejash_24/status/1366656433165541378": {
+          "created_time": "2021-03-02T07:47:39.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Tuesday, March 2 at 6:30pm +08 with Dhana Bala. Angel/Seed Investors sharing funding insights & challenges in Indian Startup Eco-System",
+        "title": "India Angel/Seed Funding Insights & Challenges - India US Venture Ecosystem"
+      },
+      "metadataUpdated": "2021-03-02T07:48:10.739Z",
+      "date": "2021-03-02T17:30:00.000+07:00"
     }
   }
 }

@@ -99,6 +99,20 @@
       },
       "metadataUpdated": "2021-02-26T08:00:13.365Z",
       "date": "2021-02-26T19:00:00.000+07:00"
+    },
+    "m22gE0O9": {
+      "sources": {
+        "https://twitter.com/tejash_24/status/1366656539323367424": {
+          "created_time": "2021-03-02T07:48:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Tuesday, March 2 at 8:00pm IST with Mannan Amroliwala, Kuldeep Dhankar, Osborne Saldanha, Deepak Abbot, Amit B, Dinesh Vernekar. Covering the credit scoring landscape in India and need for its disruption.",
+        "title": "Um, so what’s a credit score again? - The Indian Startup Club"
+      },
+      "metadataUpdated": "2021-03-02T07:48:09.647Z"
     }
   }
 }
