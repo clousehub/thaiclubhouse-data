@@ -488,6 +488,33 @@
           "favorite_count": 0
         }
       }
+    },
+    "PA6Jv59O": {
+      "sources": {
+        "https://twitter.com/pinkaholicsweet/status/1366743943640014851": {
+          "created_time": "2021-03-02T13:35:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "xkoBRQKo": {
+      "sources": {
+        "https://twitter.com/wilysmf/status/1366748674106163205": {
+          "created_time": "2021-03-02T13:54:11.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "MwrbwjKO": {
+      "sources": {
+        "https://twitter.com/May_scap/status/1366751276545974273": {
+          "created_time": "2021-03-02T14:04:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
