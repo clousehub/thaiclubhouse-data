@@ -475,6 +475,36 @@
       },
       "metadataUpdated": "2021-03-01T06:30:10.930Z",
       "date": "2021-03-01T17:00:00.000+07:00"
+    },
+    "PADzV26Z": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1366703927706624000": {
+          "created_time": "2021-03-02T10:56:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Tuesday, March 2 at 7:00pm +07 with Mimee Lerdsuwankij, Rada Lapatrada, Ktaya B.. Techsauce Clubhouse ชวนคุณมาร่วมกันแชร์ไอเดีย ในหัวข้อ อากาศประเทศไทยจะดีกว่านี้ได้ไหม?",
+        "title": "อากาศประเทศไทยจะดีกว่านี้ได้ไหม? มาแชร์ไอเดียกัน"
+      },
+      "metadataUpdated": "2021-03-02T11:00:20.563Z",
+      "date": "2021-03-02T19:00:00.000+07:00"
+    },
+    "MR0Wg3qz": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1366706186624458754": {
+          "created_time": "2021-03-02T11:05:21.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Tuesday, March 2 at 8:00pm +07 with Atidthan Sawanakittiworn, Seetala Chanvised. สมายชวนเพื่อนรักคุณส้ม เจ้าพ่อแห่งการสื่อสาร - Communication Manager แห่ง Kerry- ชุดคำถามที่ส้มไม่เคยตอบที่ไหน 555 ที่นี้จะเป็นที่แรกของส้ม การมีจุดยืนของตัวเองจะสร้างความสุขในการแต่งตัวของส้มในทุกวันได้ยังไง แล้วเจอกัน…",
+        "title": "Fashion and Identity : แต่งตัวเพื่อบอกตัวเองหรือบอกสังคม"
+      },
+      "metadataUpdated": "2021-03-02T11:06:18.788Z",
+      "date": "2021-03-02T20:00:00.000+07:00"
     }
   }
 }
