@@ -675,7 +675,17 @@
         "https://twitter.com/fanpjohnny/status/1366691475845640196": {
           "created_time": "2021-03-02T10:06:54.000Z",
           "retweet_count": 19,
-          "favorite_count": 7
+          "favorite_count": 8
+        },
+        "https://twitter.com/fanpjohnny/status/1366734486977744897": {
+          "created_time": "2021-03-02T12:57:49.000Z",
+          "retweet_count": 12,
+          "favorite_count": 0
+        },
+        "https://twitter.com/wnz_ch/status/1366734387904081923": {
+          "created_time": "2021-03-02T12:57:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {
