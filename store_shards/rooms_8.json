@@ -300,6 +300,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PQ4GD698": {
+      "sources": {
+        "https://twitter.com/newfornews1/status/1367070809844371456": {
+          "created_time": "2021-03-03T11:14:14.000Z",
+          "retweet_count": 1,
+          "favorite_count": 3
+        },
+        "https://twitter.com/Topatimmm/status/1367074078666809347": {
+          "created_time": "2021-03-03T11:27:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
