@@ -691,6 +691,21 @@
       },
       "metadataUpdated": "2021-03-03T08:36:09.198Z",
       "date": "2021-03-03T18:00:00.000+07:00"
+    },
+    "PA1L0BeP": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1367089687668559874": {
+          "created_time": "2021-03-03T12:29:15.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 3 at 8:00pm +07 with Pearadet Mukyangkoon, sorakon adunyanon. Career Fact ร่วมพูดคุยกับ ‘หนุ่มเมืองจันท์’ สรกล อดุลยานนท์ มาถอดบทเรียนจากการพูดคุยผู้บริหารตลอด 30 ปี ห้ามพลาดครับ",
+        "title": "Career Fact: ถอดบทเรียนผู้บริหารกับ ‘หนุ่มเมืองจันท์’"
+      },
+      "metadataUpdated": "2021-03-03T12:30:09.307Z",
+      "date": "2021-03-03T20:00:00.000+07:00"
     }
   }
 }

@@ -606,8 +606,8 @@
       "sources": {
         "https://twitter.com/adriennepcoach/status/1367069519089446913": {
           "created_time": "2021-03-03T11:09:06.000Z",
-          "retweet_count": 1,
-          "favorite_count": 0
+          "retweet_count": 2,
+          "favorite_count": 1
         }
       },
       "metadata": {
@@ -616,6 +616,21 @@
       },
       "metadataUpdated": "2021-03-03T11:12:09.403Z",
       "date": "2021-03-07T18:00:00.000+07:00"
+    },
+    "PGo1aWKD": {
+      "sources": {
+        "https://twitter.com/nottyhero/status/1367090465850286085": {
+          "created_time": "2021-03-03T12:32:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 3 at 10:30pm +07 with Piyasu Komaradat, nipat n_, Panjavit Tangtongjit, Aaron Udomlarp. มาลองสำรวจเพลงอินดี้เอเชียใหม่ๆ ที่น่าสนใจ กับทีมงาน Seen Scene Space กำลังชอบวงไหน อยากให้พาใครมาไทย มาคุยกันตรงนี้ [22.30-0.00 น.]",
+        "title": "สำรวจเพลงอินดี้เอเชียใหม่ๆ กับทีม SeenSceneSpace"
+      },
+      "metadataUpdated": "2021-03-03T12:36:09.681Z",
+      "date": "2021-03-03T22:30:00.000+07:00"
     }
   }
 }

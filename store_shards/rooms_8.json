@@ -312,6 +312,26 @@
           "created_time": "2021-03-03T11:27:14.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/ichbinliberty/status/1367078946500567050": {
+          "created_time": "2021-03-03T11:46:34.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/george_thedoys/status/1367082087451303937": {
+          "created_time": "2021-03-03T11:59:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/newfornews1/status/1367081948670173186": {
+          "created_time": "2021-03-03T11:58:30.000Z",
+          "retweet_count": 3,
+          "favorite_count": 10
+        },
+        "https://twitter.com/newfornews1/status/1367080146692280321": {
+          "created_time": "2021-03-03T11:51:20.000Z",
+          "retweet_count": 5,
+          "favorite_count": 3
         }
       }
     }
