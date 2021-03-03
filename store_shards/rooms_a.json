@@ -470,6 +470,25 @@
           "favorite_count": 0
         }
       }
+    },
+    "myXKXnBa": {
+      "sources": {
+        "https://twitter.com/rosemiyuke/status/1367099993690042368": {
+          "created_time": "2021-03-03T13:10:12.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/bbubutyong01/status/1367099119232147465": {
+          "created_time": "2021-03-03T13:06:44.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/haneul22_/status/1367101213884387330": {
+          "created_time": "2021-03-03T13:15:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }

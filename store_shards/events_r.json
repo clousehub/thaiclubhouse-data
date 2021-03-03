@@ -527,8 +527,8 @@
       "sources": {
         "https://twitter.com/ClubhouseTh/status/1367091383966724096": {
           "created_time": "2021-03-03T12:35:59.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       },
       "metadata": {
@@ -536,6 +536,21 @@
         "title": "รวมพลตัวกินหมูVSตัวกินไก่ กินอะไรอร่อยยืนหนึ่ง By Chester’s"
       },
       "metadataUpdated": "2021-03-03T12:36:14.880Z",
+      "date": "2021-03-03T20:00:00.000+07:00"
+    },
+    "m3No7Vqr": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1367094427064225792": {
+          "created_time": "2021-03-03T12:48:05.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 3 at 8:00pm +07 with The Reporters, varatthaya p., thapanee eadsrichai, Johnparot Wongthes, Kuakul Mornkum, Jess Salathong, Dhanabara Kohkaew, Chayapon Malaniyom, Wilaiwan Jongwilaikasaem.",
+        "title": "#สื่อมีไว้ทำไม คุยกับ ภาคีนักเรียนสื่อ by The Reporters"
+      },
+      "metadataUpdated": "2021-03-03T12:48:13.286Z",
       "date": "2021-03-03T20:00:00.000+07:00"
     }
   }

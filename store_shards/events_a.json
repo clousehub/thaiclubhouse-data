@@ -549,6 +549,11 @@
           "created_time": "2021-03-02T11:30:01.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/enuntr/status/1367098790893748227": {
+          "created_time": "2021-03-03T13:05:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {
@@ -592,8 +597,8 @@
       "sources": {
         "https://twitter.com/ClubhouseTh/status/1367089546643431428": {
           "created_time": "2021-03-03T12:28:41.000Z",
-          "retweet_count": 8,
-          "favorite_count": 8
+          "retweet_count": 18,
+          "favorite_count": 14
         }
       },
       "metadata": {

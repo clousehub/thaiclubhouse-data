@@ -391,7 +391,7 @@
         "https://twitter.com/ClubhouseTh/status/1367091117481627648": {
           "created_time": "2021-03-03T12:34:56.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         }
       },
       "metadata": {
@@ -399,6 +399,21 @@
         "title": "Nitihub: ม็อบปลอดภัย? เมื่อชุมนุมโดยสงบไม่ได้รับการคุ้มครอง"
       },
       "metadataUpdated": "2021-03-03T12:36:13.900Z",
+      "date": "2021-03-03T20:00:00.000+07:00"
+    },
+    "M59Oy2dq": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1367094143143436291": {
+          "created_time": "2021-03-03T12:46:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 3 at 8:00pm +07 with Dr.Jeab Anjali, Dr Kathy, Amp Thanyavuthi, Dr.Som Napassaree, Pen Quin. รวมคุณหมอเจ้าของคลินิกความงามชื่อดัง ทั้งศัลยกรรม ไม่ศัลยกรรม เข้ามาช่วยให้สาวๆเข้าคลินิกสวยแบบปลอดภัย เข้ามาคุยกันเยอะไปนะคะ 20.00 เจอกันค่า",
+        "title": "เข้าคลินิกความงามอย่างไร ไม่ให้โดนหลอก ตอบหมดไม่มีกั๊ก"
+      },
+      "metadataUpdated": "2021-03-03T12:48:12.256Z",
       "date": "2021-03-03T20:00:00.000+07:00"
     }
   }

@@ -174,6 +174,21 @@
       },
       "metadataUpdated": "2021-03-02T15:12:10.149Z",
       "date": "2021-03-02T23:00:00.000+07:00"
+    },
+    "MEAdGRX0": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1367091628301717505": {
+          "created_time": "2021-03-03T12:36:58.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 3 at 8:00pm +07 with Jarika Makkoch, Halley Patthanapitoon, Monsicha Rungchawannont. ชวนคุยเรื่อง DNA กับเบื้องหลังประวัติราชวงศ์ยุโรป ตั้งแต่โรคเลือดไหลไม่หยุด (ฮีโมฟิเลีย) และพระนางเจ้าวิคตอเรีย สมเด็จย่าแห่งยุโรป ลากยาวได้จนถึงการล่มสลายของซาร์แห่งรัสเซีย รัสปูตินและโครงหน้าบิดเบ…",
+        "title": "DNA ในประวัติศาสตร์: ราชวงศ์ยุโรป"
+      },
+      "metadataUpdated": "2021-03-03T12:42:08.500Z",
+      "date": "2021-03-03T20:00:00.000+07:00"
     }
   }
 }
