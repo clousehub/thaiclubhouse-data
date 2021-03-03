@@ -334,7 +334,12 @@
         "https://twitter.com/WSongnoo/status/1367129515256778754": {
           "created_time": "2021-03-03T15:07:31.000Z",
           "retweet_count": 1,
-          "favorite_count": 1
+          "favorite_count": 0
+        },
+        "https://twitter.com/ReiSpecialOne/status/1367145703059845121": {
+          "created_time": "2021-03-03T16:11:50.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
         }
       }
     }
