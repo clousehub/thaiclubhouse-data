@@ -530,6 +530,11 @@
           "created_time": "2021-03-03T13:31:59.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/EmmaxxQ/status/1367111222768717828": {
+          "created_time": "2021-03-03T13:54:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     },
@@ -538,7 +543,7 @@
         "https://twitter.com/IGOTBLEU/status/1367107642292772872": {
           "created_time": "2021-03-03T13:40:36.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         }
       }
     }

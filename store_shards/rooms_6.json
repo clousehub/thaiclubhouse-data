@@ -324,6 +324,11 @@
           "created_time": "2021-03-03T12:37:57.000Z",
           "retweet_count": 2,
           "favorite_count": 2
+        },
+        "https://twitter.com/gamflamingam/status/1367108694564077569": {
+          "created_time": "2021-03-03T13:44:47.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
