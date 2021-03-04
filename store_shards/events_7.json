@@ -353,6 +353,21 @@
       },
       "metadataUpdated": "2021-03-03T12:42:08.556Z",
       "date": "2021-03-03T20:00:00.000+07:00"
+    },
+    "PAX1k877": {
+      "sources": {
+        "https://twitter.com/ThaiArmedForce/status/1367461838577831947": {
+          "created_time": "2021-03-04T13:08:03.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 5 at 9:00pm +07 with Analayo Korsakul, Wizaro, Tanan Tangpradabkul, Nut Thephuttee, thaiarmedforce TAF. จากดราม่าครูทำลายความฝันเด็ก วันนี้เรามาคุยเรื่องวิธีการไปเป็นทหารอเมริกันของคนไทย และประสบการณ์ในกองทัพอเมริกัน กับคนไทยที่เคยเป็นทหารอเมริกันตังจริง และเรื่องอื่น ๆ เกี่ยวกับกองทัพ…",
+        "title": "MilTalk ทำยังไงคนไทยถึงไปเป็นทหารอเมริกันได้&เรื่องอื่นๆ"
+      },
+      "metadataUpdated": "2021-03-04T13:12:08.534Z",
+      "date": "2021-03-05T21:00:00.000+07:00"
     }
   }
 }
