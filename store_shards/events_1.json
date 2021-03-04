@@ -285,6 +285,52 @@
       },
       "metadataUpdated": "2021-03-04T07:42:10.580Z",
       "date": "2021-03-04T16:00:00.000+07:00"
+    },
+    "PA0kB8Y1": {
+      "sources": {
+        "https://thaiclubhouse.web.app/submit.html": {
+          "created_time": "2021-03-04T10:58:47.000Z"
+        },
+        "https://twitter.com/ClubhouseTh/status/1367428932782424066": {
+          "created_time": "2021-03-04T10:57:17.000Z",
+          "retweet_count": 4,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Thursday, March 4 at 7:00pm +07 with Chai Somchart, Namsom Narumon, MadamFinney. ✏️ รู้แหละว่าเป็นคนชอบเขียน ชอบจดบันทึก จะดีกว่ามั้ยถ้าเรามาร่วมแลกเปลี่ยนประสบการณ์กันว่าการเขียนไดอารี่นั้นมันส่งผลดีต่อเรายังไง ใครมีเทคนิคดีๆ ล้ำๆ ที่ช่วยทำให้ความจำดี งานออกมาดี และมีชีวิตดี๊ดี แวะมาคุยกันนะครับ",
+        "title": "รวมพลคนชอบเขียน ตอน “ยังเขียนไดอารี่กันอยู่เหรอ?”"
+      },
+      "metadataUpdated": "2021-03-04T11:00:09.954Z",
+      "date": "2021-03-04T19:00:00.000+07:00"
+    },
+    "m2nbElN1": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1367428828256104450": {
+          "created_time": "2021-03-04T10:56:52.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Thursday, March 4 at 7:00pm +07 with KruSeen, Fia Fia, Neung Sirasit, Petchompoo Theppipidh, Apinya Wongwattanasilp. คนธรรมดาๆ ไม่ใช่ start up ไม่มีความรู้เรื่องเทคโนโลยี แต่อยากจะมีแอปเป็นของตัวเองในตอนนี้ จะทันมั้ยนะ? มาคุยกันกับเจ้าของแอป ที่สร้างแอปโดยไม่มีความรู้เรื่องแอปมาก่อนเลย!!! เขาทำได้ยั…",
+        "title": "สายไปไหมที่คนธรรมดาๆ จะมีแอปเป็นของตัวเองตอนนี้?"
+      },
+      "metadataUpdated": "2021-03-04T11:00:10.997Z",
+      "date": "2021-03-04T19:00:00.000+07:00"
+    },
+    "m7rNKOV1": {
+      "sources": {
+        "https://thaiclubhouse.web.app/submit.html": {
+          "created_time": "2021-03-04T11:03:29.000Z"
+        }
+      },
+      "metadata": {
+        "description": "Thursday, March 4 at 9:00pm +07 with Dark_Warm, Kulawat Wongsaroj, ปอนด์ ชาวไร่. ชวนคุยโดยคุณเป็นคน “ชง” คำถาม หรือ เรื่องราว แล้วเรามานั่งจิปไปคุยไปกันครับ",
+        "title": "Agile Coffee ClubTH☕️ ตอน “Agile team หน้าตาเป็นยังไง?”"
+      },
+      "metadataUpdated": "2021-03-04T11:06:10.258Z",
+      "date": "2021-03-04T21:00:00.000+07:00"
     }
   }
 }
