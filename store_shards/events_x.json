@@ -701,10 +701,15 @@
         "https://twitter.com/mamajiaogaotian/status/1367749768001114112": {
           "created_time": "2021-03-05T08:12:10.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/mamajiaogaotian/status/1367751326126333952": {
           "created_time": "2021-03-05T08:18:22.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mamajiaogaotian/status/1367752885379862528": {
+          "created_time": "2021-03-05T08:24:34.000Z",
           "retweet_count": 1,
           "favorite_count": 0
         }
