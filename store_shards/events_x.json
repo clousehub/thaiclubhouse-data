@@ -697,6 +697,16 @@
           "created_time": "2021-03-05T06:50:33.000Z",
           "retweet_count": 0,
           "favorite_count": 3
+        },
+        "https://twitter.com/mamajiaogaotian/status/1367749768001114112": {
+          "created_time": "2021-03-05T08:12:10.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mamajiaogaotian/status/1367751326126333952": {
+          "created_time": "2021-03-05T08:18:22.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       },
       "metadata": {
