@@ -539,6 +539,29 @@
           "favorite_count": 3
         }
       }
+    },
+    "xeRgVy8Q": {
+      "sources": {
+        "https://twitter.com/real90s_/status/1367839925329043466": {
+          "created_time": "2021-03-05T14:10:26.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/real90s_/status/1367847371279757315": {
+          "created_time": "2021-03-05T14:40:01.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "P9vy3N5Q": {
+      "sources": {
+        "https://twitter.com/ssnowmoon/status/1367839703693598721": {
+          "created_time": "2021-03-05T14:09:33.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
