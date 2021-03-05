@@ -561,6 +561,29 @@
           "favorite_count": 0
         }
       }
+    },
+    "MzDR9qAw": {
+      "sources": {
+        "https://twitter.com/khunnanarak/status/1367879764023767043": {
+          "created_time": "2021-03-05T16:48:44.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/goodgirlzmi/status/1367879805341855745": {
+          "created_time": "2021-03-05T16:48:54.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "PQNEk4vw": {
+      "sources": {
+        "https://twitter.com/khunnanarak/status/1367884653114232834": {
+          "created_time": "2021-03-05T17:08:10.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

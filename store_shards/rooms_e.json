@@ -600,6 +600,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "MRQrJ1vE": {
+      "sources": {
+        "https://twitter.com/pnchqz/status/1367874557558747142": {
+          "created_time": "2021-03-05T16:28:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "MKjkOkqe": {
+      "sources": {
+        "https://twitter.com/dtinth/status/1367877096614232065": {
+          "created_time": "2021-03-05T16:38:08.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

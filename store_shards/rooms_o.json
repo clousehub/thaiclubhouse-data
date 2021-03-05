@@ -631,7 +631,7 @@
         "https://twitter.com/jaejayje/status/1367846724794863628": {
           "created_time": "2021-03-05T14:37:27.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         }
       }
     },
@@ -649,6 +649,15 @@
         "https://twitter.com/dayindayoutpeck/status/1367862365325205506": {
           "created_time": "2021-03-05T15:39:36.000Z",
           "retweet_count": 6,
+          "favorite_count": 2
+        }
+      }
+    },
+    "P9g0oayo": {
+      "sources": {
+        "https://twitter.com/HalyYoonGi/status/1367869007924129794": {
+          "created_time": "2021-03-05T16:05:59.000Z",
+          "retweet_count": 0,
           "favorite_count": 1
         }
       }

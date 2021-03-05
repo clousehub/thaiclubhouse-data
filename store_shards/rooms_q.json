@@ -576,6 +576,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "xlOvvnwq": {
+      "sources": {
+        "https://twitter.com/yob1622/status/1367874593747333120": {
+          "created_time": "2021-03-05T16:28:11.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "M1K9pb1q": {
+      "sources": {
+        "https://twitter.com/f_ffame_f/status/1367881358601646081": {
+          "created_time": "2021-03-05T16:55:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

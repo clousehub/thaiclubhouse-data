@@ -570,8 +570,8 @@
       "sources": {
         "https://twitter.com/topazine/status/1367829411593003017": {
           "created_time": "2021-03-05T13:28:39.000Z",
-          "retweet_count": 461,
-          "favorite_count": 64
+          "retweet_count": 462,
+          "favorite_count": 65
         }
       }
     },
@@ -581,6 +581,24 @@
           "created_time": "2021-03-05T15:19:21.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        }
+      }
+    },
+    "xp9E12QK": {
+      "sources": {
+        "https://twitter.com/Meawnam7/status/1367870777719025665": {
+          "created_time": "2021-03-05T16:13:01.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "PQ4O2VyK": {
+      "sources": {
+        "https://twitter.com/sippapas6/status/1367875337476997121": {
+          "created_time": "2021-03-05T16:31:09.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
