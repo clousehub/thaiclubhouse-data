@@ -551,6 +551,11 @@
           "created_time": "2021-03-05T14:40:01.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/flukcaf/status/1367868046270812165": {
+          "created_time": "2021-03-05T16:02:10.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     },
@@ -559,6 +564,15 @@
         "https://twitter.com/ssnowmoon/status/1367839703693598721": {
           "created_time": "2021-03-05T14:09:33.000Z",
           "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
+    },
+    "MdjN9vXq": {
+      "sources": {
+        "https://twitter.com/spwannacry/status/1367868221223706626": {
+          "created_time": "2021-03-05T16:02:52.000Z",
+          "retweet_count": 0,
           "favorite_count": 0
         }
       }

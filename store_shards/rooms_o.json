@@ -634,6 +634,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "xke0nQ1o": {
+      "sources": {
+        "https://twitter.com/kipkikak/status/1367862386217021440": {
+          "created_time": "2021-03-05T15:39:41.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "M6z3GW6o": {
+      "sources": {
+        "https://twitter.com/dayindayoutpeck/status/1367862365325205506": {
+          "created_time": "2021-03-05T15:39:36.000Z",
+          "retweet_count": 6,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
