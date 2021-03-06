@@ -632,6 +632,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "M8NGVVOL": {
+      "sources": {
+        "https://twitter.com/ppoisonhoney/status/1368018411058462725": {
+          "created_time": "2021-03-06T01:59:40.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
