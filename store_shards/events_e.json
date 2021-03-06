@@ -639,6 +639,11 @@
           "created_time": "2021-03-06T07:04:26.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/happybusyday/status/1368182034305323020": {
+          "created_time": "2021-03-06T12:49:51.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       },
       "metadata": {
