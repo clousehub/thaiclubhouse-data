@@ -748,6 +748,11 @@
           "created_time": "2021-03-05T23:36:02.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/dxerup/status/1367993539137740805": {
+          "created_time": "2021-03-06T00:20:50.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }

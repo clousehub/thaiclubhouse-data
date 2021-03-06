@@ -763,6 +763,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "PD58XOWR": {
+      "sources": {
+        "https://twitter.com/ff_fai12/status/1367990835778781184": {
+          "created_time": "2021-03-06T00:10:05.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
