@@ -688,6 +688,25 @@
           "favorite_count": 0
         }
       }
+    },
+    "xjXwyW4o": {
+      "sources": {
+        "https://twitter.com/mindmnsw/status/1368287215898390528": {
+          "created_time": "2021-03-06T19:47:48.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mindmnsw/status/1368289387386081281": {
+          "created_time": "2021-03-06T19:56:26.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mindmnsw/status/1368300390186291206": {
+          "created_time": "2021-03-06T20:40:09.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
