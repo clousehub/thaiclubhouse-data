@@ -443,7 +443,21 @@
         "https://twitter.com/wilysmf/status/1368195478597361664": {
           "created_time": "2021-03-06T13:43:16.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
+        },
+        "https://twitter.com/wilysmf/status/1368194791528275970": {
+          "created_time": "2021-03-06T13:40:32.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "MRly7gj8": {
+      "sources": {
+        "https://twitter.com/poennotep/status/1368195613750267904": {
+          "created_time": "2021-03-06T13:43:48.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }

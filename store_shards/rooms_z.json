@@ -371,6 +371,43 @@
           "favorite_count": 0
         }
       }
+    },
+    "xqYvKdGZ": {
+      "sources": {
+        "https://twitter.com/imyourmaika/status/1368203763425550338": {
+          "created_time": "2021-03-06T14:16:11.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Meawnam7/status/1368203551793504256": {
+          "created_time": "2021-03-06T14:15:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "m3G6XqlZ": {
+      "sources": {
+        "https://twitter.com/hoonie2205/status/1368203397250248714": {
+          "created_time": "2021-03-06T14:14:44.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/hoonie2205/status/1368208025576607745": {
+          "created_time": "2021-03-06T14:33:08.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        }
+      }
+    },
+    "xq7dJEvZ": {
+      "sources": {
+        "https://twitter.com/phope_ndumpling/status/1368212336809414660": {
+          "created_time": "2021-03-06T14:50:15.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

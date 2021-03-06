@@ -510,6 +510,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "xj6LeJNN": {
+      "sources": {
+        "https://twitter.com/kikjtrdps/status/1368176960283828226": {
+          "created_time": "2021-03-06T12:29:41.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "MRy98bON": {
+      "sources": {
+        "https://twitter.com/Saisaii_13/status/1368206323217657858": {
+          "created_time": "2021-03-06T14:26:22.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }

@@ -643,15 +643,35 @@
         "https://twitter.com/happybusyday/status/1368182034305323020": {
           "created_time": "2021-03-06T12:49:51.000Z",
           "retweet_count": 1,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/happybusyday/status/1368192909175103493": {
           "created_time": "2021-03-06T13:33:03.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 1
         },
         "https://twitter.com/happybusyday/status/1368195499036008458": {
           "created_time": "2021-03-06T13:43:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/happybusyday/status/1368205648735838208": {
+          "created_time": "2021-03-06T14:23:41.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/happybusyday/status/1368208151531593731": {
+          "created_time": "2021-03-06T14:33:38.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/happybusyday/status/1368210584383025152": {
+          "created_time": "2021-03-06T14:43:18.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/happybusyday/status/1368216066464215045": {
+          "created_time": "2021-03-06T15:05:05.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }

@@ -392,6 +392,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "M8YD5Nl1": {
+      "sources": {
+        "https://twitter.com/x_mmiii_x/status/1368200475569397762": {
+          "created_time": "2021-03-06T14:03:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "xkeXdKg1": {
+      "sources": {
+        "https://twitter.com/maryychi__st/status/1368181661939163143": {
+          "created_time": "2021-03-06T12:48:22.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
