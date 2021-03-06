@@ -404,6 +404,15 @@
       "sources": {
         "https://twitter.com/phope_ndumpling/status/1368212336809414660": {
           "created_time": "2021-03-06T14:50:15.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
+    },
+    "xB42V04Z": {
+      "sources": {
+        "https://twitter.com/littlestarx_/status/1368220114559012866": {
+          "created_time": "2021-03-06T15:21:10.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
