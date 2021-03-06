@@ -660,6 +660,21 @@
       },
       "metadataUpdated": "2021-03-06T14:06:09.220Z",
       "date": "2021-03-06T21:00:00.000+07:00"
+    },
+    "PADR22nn": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1368268372203302913": {
+          "created_time": "2021-03-06T18:32:55.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Sunday, March 7 at 7:00am +07 with อารยัน Yellowman, ว.วชิรเมธี V.Vajiramedhi. หลักคิด เพื่อชีวิตคนทำงาน",
+        "title": "หลักคิด เพื่อชีวิตคนทำงาน กับท่าน ว.วชิรเมธี ep.7"
+      },
+      "metadataUpdated": "2021-03-06T18:36:12.481Z",
+      "date": "2021-03-07T07:00:00.000+07:00"
     }
   }
 }
