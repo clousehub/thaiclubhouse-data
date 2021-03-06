@@ -377,6 +377,11 @@
           "created_time": "2021-03-02T19:17:00.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/Charlot84755075/status/1368004910063570945": {
+          "created_time": "2021-03-06T01:06:01.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       },
       "metadata": {
