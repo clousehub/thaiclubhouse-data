@@ -605,6 +605,11 @@
           "created_time": "2021-03-06T10:24:45.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/littlestarx_/status/1368156140731731968": {
+          "created_time": "2021-03-06T11:06:57.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
         }
       }
     }
