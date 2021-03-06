@@ -255,8 +255,13 @@
       "sources": {
         "https://twitter.com/mknwpsx/status/1368009390524076035": {
           "created_time": "2021-03-06T01:23:49.000Z",
-          "retweet_count": 1,
+          "retweet_count": 2,
           "favorite_count": 1
+        },
+        "https://twitter.com/rosemiyuke/status/1368018730974728199": {
+          "created_time": "2021-03-06T02:00:56.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       }
     }
