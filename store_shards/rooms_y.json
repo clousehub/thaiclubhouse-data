@@ -807,7 +807,7 @@
         "https://twitter.com/iamkoyjung/status/1368548320503689217": {
           "created_time": "2021-03-07T13:05:20.000Z",
           "retweet_count": 7,
-          "favorite_count": 27
+          "favorite_count": 30
         }
       }
     },
@@ -824,6 +824,20 @@
       "sources": {
         "https://twitter.com/CSingbig/status/1368581488057315333": {
           "created_time": "2021-03-07T15:17:08.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "xoQQLZXY": {
+      "sources": {
+        "https://twitter.com/xxfiggifoggixby/status/1368590378123821059": {
+          "created_time": "2021-03-07T15:52:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/xxfiggifoggixby/status/1368597880869634048": {
+          "created_time": "2021-03-07T16:22:16.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
