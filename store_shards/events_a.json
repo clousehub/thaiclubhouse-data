@@ -650,6 +650,36 @@
       },
       "metadataUpdated": "2021-03-07T05:00:14.243Z",
       "date": "2021-03-07T14:00:00.000+07:00"
+    },
+    "MwVLp98A": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1368636054387920896": {
+          "created_time": "2021-03-07T18:53:58.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Monday, March 8 at 7:55am +07 with Champ Preedee. เมื่อทุกอย่างไม่ดีเหมือนเดิมเราต้อวทำยังไง",
+        "title": "SME onLINE : ทำยังไงเมื่อธุรกิจไม่ดีเหมือนเคย - LINE Marketing Talk"
+      },
+      "metadataUpdated": "2021-03-07T18:54:12.086Z",
+      "date": "2021-03-08T07:55:00.000+07:00"
+    },
+    "M4LwVvBA": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1368636964509904897": {
+          "created_time": "2021-03-07T18:57:35.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        }
+      },
+      "metadata": {
+        "description": "Sunday, March 7 at 7:00pm PST with Kritsada Akkhapracha, Napat Karnsakultorn. เชิญชวนคนตาสว่างในแคนาดา มาทำความรู้จัก สร้าง Network กัน เพื่อต่อยอดไปสู่กิจกรรมสนับสนุนการเคลื่อนไหวเพื่อประชาธิปไตย ของน้องๆ นักเรียน นักศึกษา เด็กรุ่นใหม่ ในประเทศไทย",
+        "title": "เปิด Club คนไทยตาสว่าง ในแคนาดา - คนไทยตาสว่างในแคนาดา"
+      },
+      "metadataUpdated": "2021-03-07T19:00:11.201Z",
+      "date": "2021-03-08T10:00:00.000+07:00"
     }
   }
 }
