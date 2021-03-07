@@ -806,8 +806,26 @@
       "sources": {
         "https://twitter.com/iamkoyjung/status/1368548320503689217": {
           "created_time": "2021-03-07T13:05:20.000Z",
-          "retweet_count": 5,
-          "favorite_count": 19
+          "retweet_count": 7,
+          "favorite_count": 27
+        }
+      }
+    },
+    "MR03X6WY": {
+      "sources": {
+        "https://twitter.com/KKANWAA/status/1368575400050257923": {
+          "created_time": "2021-03-07T14:52:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "mWKRQK9y": {
+      "sources": {
+        "https://twitter.com/CSingbig/status/1368581488057315333": {
+          "created_time": "2021-03-07T15:17:08.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
