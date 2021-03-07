@@ -958,6 +958,26 @@
       },
       "metadataUpdated": "2021-03-07T05:06:13.145Z",
       "date": "2021-03-07T16:00:00.000+07:00"
+    },
+    "PAA85EnO": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1368504762178531333": {
+          "created_time": "2021-03-07T10:12:15.000Z",
+          "retweet_count": 32,
+          "favorite_count": 18
+        },
+        "https://twitter.com/th_influencers/status/1368504410905579526": {
+          "created_time": "2021-03-07T10:10:51.000Z",
+          "retweet_count": 30,
+          "favorite_count": 20
+        }
+      },
+      "metadata": {
+        "description": "Sunday, March 7 at 5:45pm +07 with fluke phachara, Eric Sayompoo, Patcha A., LadyM, CNEW Viewer 4k, Mook Krittaphorn.",
+        "title": "EP.8 ภาคีศิลปิน live#ม็อบ7มีนา - ภาคีศิลปิน TIfP"
+      },
+      "metadataUpdated": "2021-03-07T10:18:09.133Z",
+      "date": "2021-03-07T17:45:00.000+07:00"
     }
   }
 }
