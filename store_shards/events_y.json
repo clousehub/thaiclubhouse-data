@@ -822,6 +822,21 @@
       },
       "metadataUpdated": "2021-03-09T13:12:22.422Z",
       "date": "2021-03-09T21:00:00.000+07:00"
+    },
+    "m3GLD5WY": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1369315759579484162": {
+          "created_time": "2021-03-09T15:54:52.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 10 at 9:30am +07 with Chanintorn Pensute. เรื่องราวของชาวเชียงใหม่และการเลือกตั้ง พบกับผู้สมัครนายกเล็กเชียงใหม่ทั้ง 6 คน พุธที่ 10 มีนาคม 2564 เวลา 9.30 - 12.00 น.",
+        "title": "ซาวแปดมีนา...จะก๋าเบอร์ไหน - Politix"
+      },
+      "metadataUpdated": "2021-03-09T16:00:17.311Z",
+      "date": "2021-03-10T09:30:00.000+07:00"
     }
   }
 }

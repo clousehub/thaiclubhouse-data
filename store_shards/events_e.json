@@ -766,6 +766,36 @@
       },
       "metadataUpdated": "2021-03-09T13:12:12.719Z",
       "date": "2021-03-09T21:00:00.000+07:00"
+    },
+    "P90KA5Le": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1369317377758752768": {
+          "created_time": "2021-03-09T16:01:18.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 10 at 1:00pm +07 with Jirawat War, Tota N., Chanchai Neuschwanstein, อยู่กันด้วยความรัก, Kathy Lapthaweesuksan. ฟังบรรยายธรรม คู่มือมนุษย์ พุทธทาสภิกขุ",
+        "title": "คู่มือมนุษย์ - Buddha Club"
+      },
+      "metadataUpdated": "2021-03-09T16:06:11.917Z",
+      "date": "2021-03-10T13:00:00.000+07:00"
+    },
+    "xlklVOKE": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1369317233063649280": {
+          "created_time": "2021-03-09T16:00:43.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 10 at 1:00pm +07 with Monthon Sorakraikitikul, Somboon Kulvisaechana. ถ่ายทอด CONC Thammasat Forum x Transform to Perform\nโดย🔹คุณจรัสพักตร์ การปลื้มจิตต์\nบ.แฟลช เอ็กซ์เพรส🔹คุณอริยะ พนมยงค์\nบ.ทรานส์ฟอเมชันแนล พูดคุยโดย\n🔹ผศ.ดร.สมบูรณ์ กุลวิเศษชนะ\nมหาวิทยาลัยธรรมศาสตร์",
+        "title": "CONC Thammasat Forum x Transform to Perform -sound overflow"
+      },
+      "metadataUpdated": "2021-03-09T16:06:12.983Z",
+      "date": "2021-03-10T13:00:00.000+07:00"
     }
   }
 }
