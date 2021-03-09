@@ -824,8 +824,8 @@
       "sources": {
         "https://twitter.com/ClubhouseTh/status/1369316551975837697": {
           "created_time": "2021-03-09T15:58:01.000Z",
-          "retweet_count": 0,
-          "favorite_count": 1
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       },
       "metadata": {
@@ -839,8 +839,8 @@
       "sources": {
         "https://twitter.com/ClubhouseTh/status/1369317936100298752": {
           "created_time": "2021-03-09T16:03:31.000Z",
-          "retweet_count": 1,
-          "favorite_count": 1
+          "retweet_count": 2,
+          "favorite_count": 3
         }
       },
       "metadata": {
@@ -854,8 +854,8 @@
       "sources": {
         "https://twitter.com/ClubhouseTh/status/1369317728754966528": {
           "created_time": "2021-03-09T16:02:41.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 2,
+          "favorite_count": 2
         }
       },
       "metadata": {

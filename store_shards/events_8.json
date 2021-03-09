@@ -590,8 +590,8 @@
       "sources": {
         "https://twitter.com/ClubhouseTh/status/1369315045440585735": {
           "created_time": "2021-03-09T15:52:02.000Z",
-          "retweet_count": 0,
-          "favorite_count": 1
+          "retweet_count": 1,
+          "favorite_count": 3
         }
       },
       "metadata": {
