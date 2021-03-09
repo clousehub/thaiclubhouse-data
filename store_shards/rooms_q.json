@@ -742,6 +742,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "M5Ywe0Kq": {
+      "sources": {
+        "https://twitter.com/iseayoun/status/1369296739056820224": {
+          "created_time": "2021-03-09T14:39:17.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "PNzLNejq": {
+      "sources": {
+        "https://twitter.com/wilysmf/status/1369302199851958279": {
+          "created_time": "2021-03-09T15:00:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
