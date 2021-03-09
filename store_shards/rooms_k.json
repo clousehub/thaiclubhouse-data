@@ -660,6 +660,25 @@
           "favorite_count": 0
         }
       }
+    },
+    "Pb5BAy7k": {
+      "sources": {
+        "https://twitter.com/butternmq/status/1369274599985147905": {
+          "created_time": "2021-03-09T13:11:19.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nxngjenokub/status/1369275307081961474": {
+          "created_time": "2021-03-09T13:14:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nxngjenokub/status/1369274954345181188": {
+          "created_time": "2021-03-09T13:12:43.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
