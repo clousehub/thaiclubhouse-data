@@ -729,6 +729,11 @@
         "https://twitter.com/rosemiyuke/status/1369211726072217600": {
           "created_time": "2021-03-09T09:01:28.000Z",
           "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Karrypx_/status/1369245074186526725": {
+          "created_time": "2021-03-09T11:13:59.000Z",
+          "retweet_count": 0,
           "favorite_count": 0
         }
       }
