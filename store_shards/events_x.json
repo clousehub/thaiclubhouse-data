@@ -854,8 +854,13 @@
       "sources": {
         "https://twitter.com/ClubhouseTh/status/1369317728754966528": {
           "created_time": "2021-03-09T16:02:41.000Z",
+          "retweet_count": 3,
+          "favorite_count": 3
+        },
+        "https://twitter.com/ClubhouseTh/status/1369529846552875017": {
+          "created_time": "2021-03-10T06:05:34.000Z",
           "retweet_count": 2,
-          "favorite_count": 2
+          "favorite_count": 4
         }
       },
       "metadata": {
@@ -863,6 +868,21 @@
         "title": "🌏ตามรอยธรรมที่เปลี่ยนไปตามกาล🌎"
       },
       "metadataUpdated": "2021-03-09T16:06:15.100Z",
+      "date": "2021-03-10T15:00:00.000+07:00"
+    },
+    "P011pbZX": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1369531153053405190": {
+          "created_time": "2021-03-10T06:10:46.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, March 10 at 3:00pm +07 with Nita younjt, NaviforSuccess, อนุพร อัมพุช, ไลฟ์สาระ.",
+        "title": "BeBetter: อยากให้โรงเรียนสอนวิชาใช้ชีวิต"
+      },
+      "metadataUpdated": "2021-03-10T06:12:13.724Z",
       "date": "2021-03-10T15:00:00.000+07:00"
     }
   }
