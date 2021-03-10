@@ -470,6 +470,25 @@
           "favorite_count": 1
         }
       }
+    },
+    "mWg3Dkam": {
+      "sources": {
+        "https://twitter.com/seonminxqstorex/status/1369697283860668418": {
+          "created_time": "2021-03-10T17:10:54.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/seonminxqstorex/status/1369696514520408065": {
+          "created_time": "2021-03-10T17:07:51.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nameraimairu/status/1369696681227288576": {
+          "created_time": "2021-03-10T17:08:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }

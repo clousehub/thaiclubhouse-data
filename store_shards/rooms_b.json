@@ -789,6 +789,24 @@
           "favorite_count": 4
         }
       }
+    },
+    "MwWzD79B": {
+      "sources": {
+        "https://twitter.com/cyanyomie/status/1369697611184103426": {
+          "created_time": "2021-03-10T17:12:12.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "MwEQ620b": {
+      "sources": {
+        "https://twitter.com/Jazztinzz/status/1369700788939882500": {
+          "created_time": "2021-03-10T17:24:50.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
