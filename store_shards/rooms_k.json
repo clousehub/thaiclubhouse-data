@@ -694,6 +694,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "PNj3KyDK": {
+      "sources": {
+        "https://twitter.com/Topatimmm/status/1369578279603212290": {
+          "created_time": "2021-03-10T09:18:02.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/rosemiyuke/status/1369577532056510466": {
+          "created_time": "2021-03-10T09:15:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
