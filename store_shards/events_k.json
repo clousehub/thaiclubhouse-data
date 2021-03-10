@@ -731,6 +731,11 @@
           "created_time": "2021-03-10T00:00:00.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/creativetalkTH/status/1369507810673852421": {
+          "created_time": "2021-03-10T04:38:00.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       },
       "metadata": {
