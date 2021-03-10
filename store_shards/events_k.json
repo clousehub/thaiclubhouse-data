@@ -736,6 +736,11 @@
           "created_time": "2021-03-10T04:38:00.000Z",
           "retweet_count": 1,
           "favorite_count": 0
+        },
+        "https://twitter.com/ClubhouseTh/status/1369619365327343618": {
+          "created_time": "2021-03-10T12:01:17.000Z",
+          "retweet_count": 3,
+          "favorite_count": 5
         }
       },
       "metadata": {
