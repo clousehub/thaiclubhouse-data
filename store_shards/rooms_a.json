@@ -740,6 +740,11 @@
           "created_time": "2021-03-10T15:04:11.000Z",
           "retweet_count": 2,
           "favorite_count": 0
+        },
+        "https://twitter.com/_2bynnfh/status/1369673393537052673": {
+          "created_time": "2021-03-10T15:35:58.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     },
@@ -761,8 +766,8 @@
       "sources": {
         "https://twitter.com/konaknup/status/1369674228040036356": {
           "created_time": "2021-03-10T15:39:17.000Z",
-          "retweet_count": 2,
-          "favorite_count": 5
+          "retweet_count": 5,
+          "favorite_count": 8
         }
       }
     }

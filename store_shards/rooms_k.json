@@ -713,6 +713,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PNjEp4LK": {
+      "sources": {
+        "https://twitter.com/pppizz/status/1369683271647301633": {
+          "created_time": "2021-03-10T16:15:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/sat_wai/status/1369684899012079620": {
+          "created_time": "2021-03-10T16:21:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }

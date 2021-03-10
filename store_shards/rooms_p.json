@@ -684,6 +684,11 @@
           "created_time": "2021-03-10T14:19:49.000Z",
           "retweet_count": 1,
           "favorite_count": 0
+        },
+        "https://twitter.com/sat_wai/status/1369676552485490689": {
+          "created_time": "2021-03-10T15:48:32.000Z",
+          "retweet_count": 3,
+          "favorite_count": 2
         }
       }
     }
