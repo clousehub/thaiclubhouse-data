@@ -844,6 +844,11 @@
           "created_time": "2021-03-10T09:17:43.000Z",
           "retweet_count": 4,
           "favorite_count": 0
+        },
+        "https://twitter.com/ClubhouseTh/status/1369611400868286468": {
+          "created_time": "2021-03-10T11:29:38.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       },
       "metadata": {
