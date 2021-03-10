@@ -735,6 +735,11 @@
           "created_time": "2021-03-10T14:07:46.000Z",
           "retweet_count": 2,
           "favorite_count": 1
+        },
+        "https://twitter.com/_2bynnfh/status/1369665392159780864": {
+          "created_time": "2021-03-10T15:04:11.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
         }
       }
     },
@@ -749,6 +754,15 @@
           "created_time": "2021-03-10T14:27:02.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        }
+      }
+    },
+    "mZ0ErG2A": {
+      "sources": {
+        "https://twitter.com/konaknup/status/1369674228040036356": {
+          "created_time": "2021-03-10T15:39:17.000Z",
+          "retweet_count": 2,
+          "favorite_count": 5
         }
       }
     }
