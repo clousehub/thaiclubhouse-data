@@ -1092,6 +1092,11 @@
           "created_time": "2021-03-10T06:04:00.000Z",
           "retweet_count": 20,
           "favorite_count": 17
+        },
+        "https://twitter.com/ClubhouseTh/status/1369964720719949824": {
+          "created_time": "2021-03-11T10:53:36.000Z",
+          "retweet_count": 4,
+          "favorite_count": 7
         }
       },
       "metadata": {
@@ -1145,6 +1150,36 @@
       },
       "metadataUpdated": "2021-03-11T09:30:11.249Z",
       "date": "2021-03-11T21:00:00.000+07:00"
+    },
+    "M17KKN8v": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1369964301490876416": {
+          "created_time": "2021-03-11T10:51:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Thursday, March 11 at 7:00pm +07 with Laura Sasitorn, Siraporn Sawasdivorn. อ๋อ สบายมาก แก้ไขได้เจ็บหัวนม/ลูกเข้าเต้าไม่ได้ 3 สัปดาห์แรก ✅วิทยากร :ผศ.นพ.เกษม เรืองรองมรกต (สูติแพทย์ คณะแพทย์ศาสตร์ มศว.) / คุณนงเยาว์ ลาวิณห์ (พยาบาลหัวหน้าคลินิกนมแม่ คณะแพทย์ศาสตร์ มศว.)✅mod:ลอร่า/ พญ.ศิราภรณ์ สวัสดิ…",
+        "title": "นมแม่:แก้ไขได้เจ็บหัวนม / ลูกเข้าเต้าไม่ได้3สัปดาหาแรก - นมแม่"
+      },
+      "metadataUpdated": "2021-03-11T10:54:14.395Z",
+      "date": "2021-03-11T19:00:00.000+07:00"
+    },
+    "xXOaG2Yv": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1369967716832997379": {
+          "created_time": "2021-03-11T11:05:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Thursday, March 11 at 8:00pm +07 with Tuangthw W., Nita younjt, Sidney, kan kantathavorn, Sudarat Keyurapan, Jeffy Nachapim, Boyd Songthaveepol, Znooker Thipala. Exclusive Talks w/ K.เจฟฟี่-ณัฐชพิมพ์ ศุภนิมิตตระกูล “มาดามเหมืองทอง” CEO บ. TAICHIGA ธุรกิจให้คำปรึกษาเกี่ยวกับการลงทุนในแอฟริกา “หญิงแกร…",
+        "title": "CEO Talks w/ K.เจฟฟี่ มาดามเหมืองทอง"
+      },
+      "metadataUpdated": "2021-03-11T11:06:17.486Z",
+      "date": "2021-03-11T20:00:00.000+07:00"
     }
   }
 }
