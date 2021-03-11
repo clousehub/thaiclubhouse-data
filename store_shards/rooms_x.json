@@ -720,6 +720,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "MK364WRX": {
+      "sources": {
+        "https://twitter.com/neuiwa/status/1370013275002261505": {
+          "created_time": "2021-03-11T14:06:33.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }

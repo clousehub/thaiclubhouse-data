@@ -612,7 +612,16 @@
         "https://twitter.com/rosemiyuke/status/1370021062960836614": {
           "created_time": "2021-03-11T14:37:29.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
+        }
+      }
+    },
+    "P9zRrdlG": {
+      "sources": {
+        "https://twitter.com/rosemiyuke/status/1370032402303610881": {
+          "created_time": "2021-03-11T15:22:33.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
