@@ -505,6 +505,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "PNRBpoXZ": {
+      "sources": {
+        "https://twitter.com/kakkirk_/status/1369904194040123395": {
+          "created_time": "2021-03-11T06:53:06.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
