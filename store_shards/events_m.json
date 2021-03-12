@@ -723,7 +723,7 @@
         "https://twitter.com/ClubhouseTh/status/1370322167401910275": {
           "created_time": "2021-03-12T10:33:58.000Z",
           "retweet_count": 0,
-          "favorite_count": 2
+          "favorite_count": 3
         }
       },
       "metadata": {
@@ -758,6 +758,36 @@
       },
       "metadataUpdated": "2021-03-12T10:36:19.867Z",
       "date": "2021-03-12T21:00:00.000+07:00"
+    },
+    "xpB9DYvm": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1370324990055227397": {
+          "created_time": "2021-03-12T10:45:11.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 12 at 7:30pm +07 with Charng Berny, Ekalak Promchart, Natthawit Poonnual, เทพกระบี่ เวรตะลัย, Charng Berny. ลองทดสอบสร้างห้องครั้งแรกนะครับ มแลกเปลี่ยนได้ตามหัวข้อด้านบนนะจ๊ะ เกี่ยวกับลำโพง bluetooth ที่คนตาบอดชอบ/ถูกใจ/น่าใช้/น่าซื้อมาเก็บไว้",
+        "title": "BT Speaker ที่ถูกใจพี่น้องตาบอดไทยคือ… - SMBLTDV"
+      },
+      "metadataUpdated": "2021-03-12T10:48:12.359Z",
+      "date": "2021-03-12T19:30:00.000+07:00"
+    },
+    "mJQX9VOM": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1370324802318204933": {
+          "created_time": "2021-03-12T10:44:26.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 12 at 7:00pm +07 with Pachy (พัชชี่), Raberd Thung, Pim Chaipoon, Jam Sirapatch, Yuu Titima. แบ่งปันเรื่องราว สร้างแรงบันดาลใจ",
+        "title": "TheFriends: 🏳️‍🌈 Room ความรักเป็นเรื่องธรรมชาติ - TheFriends"
+      },
+      "metadataUpdated": "2021-03-12T10:48:13.380Z",
+      "date": "2021-03-12T19:00:00.000+07:00"
     }
   }
 }

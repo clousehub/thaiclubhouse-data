@@ -670,6 +670,11 @@
           "created_time": "2021-03-10T09:01:09.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/ClubhouseTh/status/1370326141278375937": {
+          "created_time": "2021-03-12T10:49:46.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       },
       "metadata": {
@@ -728,6 +733,36 @@
       },
       "metadataUpdated": "2021-03-11T11:36:10.215Z",
       "date": "2021-03-11T22:00:00.000+07:00"
+    },
+    "mJXRNRqr": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1370325378158403587": {
+          "created_time": "2021-03-12T10:46:44.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 12 at 7:30pm +07 with Unique Chitlada, Matt. ทุกการ Diet ทั้ง Keto LC CD และการออกกำลังกายค่ะ",
+        "title": "FAQs : คำถามที่พบบ่อยในการลดน้ำหนัก - Keto Lifestyle TH"
+      },
+      "metadataUpdated": "2021-03-12T10:48:14.423Z",
+      "date": "2021-03-12T19:30:00.000+07:00"
+    },
+    "mJ5pywDr": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1370326707983421441": {
+          "created_time": "2021-03-12T10:52:01.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 12 at 1:00pm GMT with Chayuth Chamnanseth, Mukei Reporter, Ktaya B., LinJin MinMint, PP Mook, Tosaporn Sererak, Eak Tanakorn, Wasinee Pabuprapap. มาฟังวิธีการล้างแก๊สน้ำตาที่ถูกต้อง, การใส่หน้ากากกันแก๊สอย่างถูกวิธี, การจัดการกับเสื้อผ้าที่ถูกแก๊ส ฯลฯ จากคนหน้างานที่ผ่านการฝึกฝนมาโดยตร…",
+        "title": "วิธีรับมือกับแก๊สน้ำตา: ประสบการณ์จากคนหน้างาน"
+      },
+      "metadataUpdated": "2021-03-12T10:54:13.240Z",
+      "date": "2021-03-12T20:00:00.000+07:00"
     }
   }
 }

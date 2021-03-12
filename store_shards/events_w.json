@@ -949,6 +949,11 @@
       "sources": {
         "https://thaiclubhouse.web.app/submit.html": {
           "created_time": "2021-03-12T10:26:08.000Z"
+        },
+        "https://twitter.com/ClubhouseTh/status/1370325602222309378": {
+          "created_time": "2021-03-12T10:47:37.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       },
       "metadata": {
@@ -956,6 +961,21 @@
         "title": "ใครไม่แคร์ Skin Cares✨ รักษา “สิว” อย่างไรไม่ให้เกิดแผลเป็น - ใครไม่แคร์ Skin Cares"
       },
       "metadataUpdated": "2021-03-12T10:30:28.783Z",
+      "date": "2021-03-12T20:00:00.000+07:00"
+    },
+    "mZ0lWXgw": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1370326278855827456": {
+          "created_time": "2021-03-12T10:50:18.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 12 at 8:00pm +07 with Panu Aree, Dome Sukvong, Chanchana Pap, KD Jaturanrasmee, Apichatpong W., Prawit T., Kong Rithdee. การเมืองกับหนังไทยมักเกี่ยวข้องสอดคล้องกันตลอดเวลา มาร่วมกันย้อนศึกษาถึงการเมืองในหนังไทยตั้งแต่ยุคเสรีภาพเบ่งบาน จนถึงช่วงเวลาแห่งความคลุมเครือ ผ่านมุมมองที่หลากหลา…",
+        "title": "การเมืองในหนังไทย : จากเขาชื่อกานต์ถึงตั้งวง - กาลครั้งหนึ่ง...หนังไทย"
+      },
+      "metadataUpdated": "2021-03-12T10:54:15.279Z",
       "date": "2021-03-12T20:00:00.000+07:00"
     }
   }

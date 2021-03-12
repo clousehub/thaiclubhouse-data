@@ -224,6 +224,11 @@
       "sources": {
         "https://thaiclubhouse.web.app/submit.html": {
           "created_time": "2021-03-12T10:26:08.000Z"
+        },
+        "https://twitter.com/ClubhouseTh/status/1370323596917141504": {
+          "created_time": "2021-03-12T10:39:39.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
         }
       },
       "metadata": {
@@ -237,6 +242,11 @@
       "sources": {
         "https://thaiclubhouse.web.app/submit.html": {
           "created_time": "2021-03-12T10:28:53.000Z"
+        },
+        "https://twitter.com/ClubhouseTh/status/1370327562904166401": {
+          "created_time": "2021-03-12T10:55:25.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
         }
       },
       "metadata": {
@@ -244,6 +254,21 @@
         "title": "ทำอย่างไรให้รอดในโลกคริปโต พร้อมสาระอัดแน่นแบบexclusive - Bitcoin Addict Thailand"
       },
       "metadataUpdated": "2021-03-12T10:30:10.880Z",
+      "date": "2021-03-12T20:00:00.000+07:00"
+    },
+    "MEjyRbn0": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1370326010244165634": {
+          "created_time": "2021-03-12T10:49:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 12 at 8:00pm +07 with Tena Jetthaveekij, boonCHINA Peak, Verapong Tam, Arm Tungnirun, อิอิ อิ. ThaiVI GO ep.4 ชวนคุยหุ้นจีน! โอกาส(หาหุ้น) VS ความท้าทาย(ภาพใหญ่) | จังหวะความผันผวนแบบนี้ เอายังไงกันต่อดี | ep.นี้ ได้รับเกียรติจาก ดร.อาร์ม คุณเปี๊ยก เซียนมี่ และ พี่หลิน นายก ThaiVI มาร่…",
+        "title": "ThaiVI GO : ep.4 หุ้นจีนจะยังไงต่อดี ในความผันผวนแบบนี้🧑‍🚒"
+      },
+      "metadataUpdated": "2021-03-12T10:54:11.129Z",
       "date": "2021-03-12T20:00:00.000+07:00"
     }
   }

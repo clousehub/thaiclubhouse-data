@@ -769,6 +769,11 @@
       "sources": {
         "https://thaiclubhouse.web.app/submit.html": {
           "created_time": "2021-03-12T10:26:08.000Z"
+        },
+        "https://twitter.com/ClubhouseTh/status/1370323131722723329": {
+          "created_time": "2021-03-12T10:37:48.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       },
       "metadata": {
@@ -777,6 +782,36 @@
       },
       "metadataUpdated": "2021-03-12T10:30:19.347Z",
       "date": "2021-03-12T19:00:00.000+07:00"
+    },
+    "mZJjz8Qk": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1370325489353515014": {
+          "created_time": "2021-03-12T10:47:10.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 12 at 7:55pm +07 with อารยัน Yellowman, ว.วชิรเมธี V.Vajiramedhi. Clubhouseวนาราม by ไร่เชิญตะวัน คืนนี้",
+        "title": "กุศโลบายคลายหัวร้อน Q&A กับท่าน ว.วชิรเมธี CHวนาราม ep17"
+      },
+      "metadataUpdated": "2021-03-12T10:48:11.285Z",
+      "date": "2021-03-12T19:55:00.000+07:00"
+    },
+    "mgN01WdK": {
+      "sources": {
+        "https://twitter.com/ClubhouseTh/status/1370326816976564225": {
+          "created_time": "2021-03-12T10:52:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 12 at 8:00pm +07 with Aum Supakorn, Mission To The Moon Media, Rawit Hanutsaha, Teerawat Ngamvitayasiri, Pun Putimahatama. Mission To The Moon สรุปความน่าสนใจของ Chat Commerce ในการเพิ่มยอดขายธุรกิจ และประเด็นที่น่าสนใจจากงาน THAILAND NOW AND NEXT : REBUILD & GROW WITH CHAT COMMERCE แล…",
+        "title": "Chat Commerce เพิ่มยอดขายให้ธุรกิจ Powered by LINE Thailand - Mission Club"
+      },
+      "metadataUpdated": "2021-03-12T10:54:12.207Z",
+      "date": "2021-03-12T20:00:00.000+07:00"
     }
   }
 }
