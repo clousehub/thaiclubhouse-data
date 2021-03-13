@@ -786,7 +786,16 @@
       "sources": {
         "https://twitter.com/knownor/status/1370749972002447364": {
           "created_time": "2021-03-13T14:53:55.000Z",
-          "retweet_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "MOvyVgLX": {
+      "sources": {
+        "https://twitter.com/nam_grhnew/status/1370767703078694912": {
+          "created_time": "2021-03-13T16:04:22.000Z",
+          "retweet_count": 0,
           "favorite_count": 0
         }
       }
