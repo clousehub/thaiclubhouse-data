@@ -967,6 +967,11 @@
           "created_time": "2021-03-10T17:22:11.000Z",
           "retweet_count": 5,
           "favorite_count": 2
+        },
+        "https://twitter.com/ThaiPolitica/status/1370637707207147523": {
+          "created_time": "2021-03-13T07:27:49.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
         }
       },
       "metadata": {
