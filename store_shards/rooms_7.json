@@ -344,6 +344,11 @@
           "created_time": "2021-03-13T15:30:12.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/betterisee/status/1370773385077272584": {
+          "created_time": "2021-03-13T16:26:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
