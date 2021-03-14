@@ -574,6 +574,11 @@
           "created_time": "2021-03-14T14:38:04.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/Orrism/status/1371124479154298880": {
+          "created_time": "2021-03-14T15:42:04.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
