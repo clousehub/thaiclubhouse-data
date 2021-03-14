@@ -1230,7 +1230,7 @@
       "sources": {
         "https://twitter.com/sweetie_milddd/status/1370931536711708672": {
           "created_time": "2021-03-14T02:55:23.000Z",
-          "retweet_count": 1,
+          "retweet_count": 3,
           "favorite_count": 1
         }
       },
@@ -1240,6 +1240,21 @@
       },
       "metadataUpdated": "2021-03-14T03:00:10.004Z",
       "date": "2021-03-14T11:30:00.000+07:00"
+    },
+    "PDjlXZyo": {
+      "sources": {
+        "https://twitter.com/e22ist/status/1370968041786273792": {
+          "created_time": "2021-03-14T05:20:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Saturday, March 13 at 11:00pm PST with Kritsada Akkhapracha, Jaran Ditapichai, Chanoknan Ruamsap, Eakaphop Luara, Nuttigar Woratunyawit, Pavin Chachavalpongpun, Apple, Neti Wichiansaen, Pimporanee Dittee. ร่วมพบปะ พูดคุย ถามข้อสงสัย กับผู้ลี้ภัยไทย ตั้งแต่รุ่นเก่าจนถึงรุ่นใหม่ จากทั่วทุกมุมโลก 🇰🇷 …",
+        "title": "Meet & Greet รวมดาวผู้ลี้ภัยไทยในต่างแดน - คนไทยตาสว่างในแคนาดา"
+      },
+      "metadataUpdated": "2021-03-14T05:24:09.301Z",
+      "date": "2021-03-14T14:00:00.000+07:00"
     }
   }
 }
