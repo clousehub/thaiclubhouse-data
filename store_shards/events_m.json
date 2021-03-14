@@ -793,13 +793,13 @@
       "sources": {
         "https://twitter.com/Ar_janisata/status/1371033436232675332": {
           "created_time": "2021-03-14T09:40:18.000Z",
-          "retweet_count": 1,
+          "retweet_count": 3,
           "favorite_count": 0
         },
         "https://twitter.com/Ar_janisata/status/1371032503453110274": {
           "created_time": "2021-03-14T09:36:36.000Z",
-          "retweet_count": 2,
-          "favorite_count": 0
+          "retweet_count": 4,
+          "favorite_count": 2
         }
       },
       "metadata": {
