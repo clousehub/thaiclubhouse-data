@@ -982,7 +982,7 @@
       "sources": {
         "https://twitter.com/kommcast/status/1371346981063303170": {
           "created_time": "2021-03-15T06:26:13.000Z",
-          "retweet_count": 12,
+          "retweet_count": 11,
           "favorite_count": 7
         },
         "https://twitter.com/kommcast/status/1371442668891369473": {
@@ -1002,8 +1002,8 @@
       "sources": {
         "https://twitter.com/Earth_Oscar/status/1371391511884042248": {
           "created_time": "2021-03-15T09:23:10.000Z",
-          "retweet_count": 11,
-          "favorite_count": 8
+          "retweet_count": 13,
+          "favorite_count": 5
         }
       },
       "metadata": {
