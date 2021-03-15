@@ -982,8 +982,8 @@
       "sources": {
         "https://twitter.com/kommcast/status/1371346981063303170": {
           "created_time": "2021-03-15T06:26:13.000Z",
-          "retweet_count": 7,
-          "favorite_count": 5
+          "retweet_count": 8,
+          "favorite_count": 6
         }
       },
       "metadata": {
@@ -992,6 +992,21 @@
       },
       "metadataUpdated": "2021-03-15T06:30:11.408Z",
       "date": "2021-03-15T20:00:00.000+07:00"
+    },
+    "P016bnJw": {
+      "sources": {
+        "https://twitter.com/Earth_Oscar/status/1371391511884042248": {
+          "created_time": "2021-03-15T09:23:10.000Z",
+          "retweet_count": 6,
+          "favorite_count": 4
+        }
+      },
+      "metadata": {
+        "description": "Monday, March 15 at 7:00pm +07 with Santipat Santichaiananta, Earth Oscar, Donsaron Kovitvanitcha. มาลุ้นผลผู้เข้าชิงรางวัลออสการ์ 2021 ไปพร้อมๆกับเอิร์ธ - นิโรธ รื่นเจริญ แฟนพันธุ์แท้ออสการ์ มาเม้ามอย เก็งตัวเต็งกันก่อน 19:00 และฟังการประกาศชื่อสดๆจากอเมริกาพร้อมกัน เวลา 19:19 เป็นต้นไป",
+        "title": "ลุ้นผลผู้เข้าชิง Oscars 2021 กับเอิร์ธ ออสการ์"
+      },
+      "metadataUpdated": "2021-03-15T09:24:09.333Z",
+      "date": "2021-03-15T19:00:00.000+07:00"
     }
   }
 }
