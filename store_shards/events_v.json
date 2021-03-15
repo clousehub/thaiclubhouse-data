@@ -1243,6 +1243,20 @@
       },
       "metadataUpdated": "2021-03-14T17:18:09.623Z",
       "date": "2021-03-15T20:00:00.000+07:00"
+    },
+    "ME6dXlrV": {
+      "sources": {
+        "https://twitter.com/augmented_city/status/1371545474520346627": {
+          "created_time": "2021-03-15T19:34:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Monday, March 15 at 5:00pm PDT with John du Pre Gauntt, Jeff Gomez, Noelle Silver, Brian Storm, Aki Nakamura. How will aural/oral narratives across podcasts, smart speakers and social platforms transform the way we tell stories that matter? Hear views from pop culture, conversational AI, journalism …",
+        "title": "Social Audio and Oral Storytelling"
+      },
+      "metadataUpdated": "2021-03-15T19:36:09.491Z"
     }
   }
 }
