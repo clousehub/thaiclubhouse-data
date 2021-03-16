@@ -902,6 +902,11 @@
           "created_time": "2021-03-16T14:09:54.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/b4bibel0/status/1371826584793976840": {
+          "created_time": "2021-03-16T14:11:59.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }

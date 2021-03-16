@@ -998,10 +998,15 @@
         "https://twitter.com/ivaderer/status/1371806978155053056": {
           "created_time": "2021-03-16T12:54:05.000Z",
           "retweet_count": 10,
-          "favorite_count": 7
+          "favorite_count": 8
         },
         "https://twitter.com/SULLI43844814/status/1371816075709411335": {
           "created_time": "2021-03-16T13:30:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Fade_fadeeeeee/status/1371838857419837444": {
+          "created_time": "2021-03-16T15:00:45.000Z",
           "retweet_count": 0,
           "favorite_count": 1
         }

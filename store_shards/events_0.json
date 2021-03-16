@@ -270,6 +270,25 @@
       },
       "metadataUpdated": "2021-03-12T10:54:11.129Z",
       "date": "2021-03-12T20:00:00.000+07:00"
+    },
+    "xlne24Z0": {
+      "sources": {
+        "https://twitter.com/MananaSamuseva/status/1371840031539802112": {
+          "created_time": "2021-03-16T15:05:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/iLiftTV/status/1371839645890273281": {
+          "created_time": "2021-03-16T15:03:53.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Thursday, March 18 at 12:00pm EDT with Manana Samuseva, Stan Sukhinin. 🔴SPAC: Пузырь или феномен? В чём главное преимущество? Как на этом заработать? Проблемы, риски, будущее для инвестора.В 2020 IPO cобрали $100 млрд, Рост SPAC 462% c $67 млрд (Goldman Sachs, JP Morgan)",
+        "title": "🔴SPAC-мафия VS PRE-IPO💰Что инвесторы должны знать? (🔴REC) - Прожектор Уоррен Баффит"
+      },
+      "metadataUpdated": "2021-03-16T15:06:12.864Z"
     }
   }
 }
