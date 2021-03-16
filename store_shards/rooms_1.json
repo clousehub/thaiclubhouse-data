@@ -490,6 +490,11 @@
           "created_time": "2021-03-16T13:00:33.000Z",
           "retweet_count": 1,
           "favorite_count": 0
+        },
+        "https://twitter.com/newfornews1/status/1371814768760156167": {
+          "created_time": "2021-03-16T13:25:02.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
         }
       }
     }

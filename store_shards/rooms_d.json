@@ -690,6 +690,25 @@
           "favorite_count": 0
         }
       }
+    },
+    "xV6rZ83D": {
+      "sources": {
+        "https://twitter.com/MinnyRen/status/1371823329171021826": {
+          "created_time": "2021-03-16T13:59:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/MinnyRen/status/1371827747257942019": {
+          "created_time": "2021-03-16T14:16:36.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/MinnyRen/status/1371830858823401476": {
+          "created_time": "2021-03-16T14:28:58.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
