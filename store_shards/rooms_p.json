@@ -900,6 +900,11 @@
           "created_time": "2021-03-17T12:46:31.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/lintntf/status/1372187081477349378": {
+          "created_time": "2021-03-17T14:04:28.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
         }
       }
     }
