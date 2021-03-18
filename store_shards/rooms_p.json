@@ -924,6 +924,16 @@
           "created_time": "2021-03-18T14:57:48.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/Plethora_c/status/1372567496335650819": {
+          "created_time": "2021-03-18T15:16:06.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Plethora_c/status/1372570849606168580": {
+          "created_time": "2021-03-18T15:29:26.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
