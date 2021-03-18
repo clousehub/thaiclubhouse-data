@@ -1063,6 +1063,11 @@
           "created_time": "2021-03-18T10:34:39.000Z",
           "retweet_count": 2,
           "favorite_count": 4
+        },
+        "https://twitter.com/nattapon_sl/status/1372499535579152385": {
+          "created_time": "2021-03-18T10:46:03.000Z",
+          "retweet_count": 5,
+          "favorite_count": 2
         }
       }
     }
