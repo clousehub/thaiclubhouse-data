@@ -387,6 +387,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "M8AqLeB7": {
+      "sources": {
+        "https://twitter.com/thematterco/status/1372551333891305472": {
+          "created_time": "2021-03-18T14:11:53.000Z",
+          "retweet_count": 45,
+          "favorite_count": 29
+        },
+        "https://twitter.com/134340astro/status/1372557389711372293": {
+          "created_time": "2021-03-18T14:35:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
