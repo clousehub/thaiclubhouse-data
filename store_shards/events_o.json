@@ -1346,6 +1346,11 @@
           "created_time": "2021-03-18T10:22:07.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/ThaiArmedForce/status/1372912820786892802": {
+          "created_time": "2021-03-19T14:08:18.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {
