@@ -713,6 +713,24 @@
       },
       "metadataUpdated": "2021-03-18T11:18:09.632Z",
       "date": "2021-03-18T22:00:00.000+07:00"
+    },
+    "PAdvB196": {
+      "sources": {
+        "https://thaiclubhouse.web.app/submit.html": {
+          "created_time": "2021-03-19T10:26:49.000Z"
+        },
+        "https://twitter.com/beam1743/status/1372856826178404360": {
+          "created_time": "2021-03-19T10:25:48.000Z",
+          "retweet_count": 3,
+          "favorite_count": 2
+        }
+      },
+      "metadata": {
+        "description": "Friday, March 19 at 8:30pm +07 with Sarun Anantakarnchai, Tanadol Songsurawate, Kanokpon Sriboonruang. #ครูศิลปะถักเปีย #ไม่เลื่อนสอบ #พื้นที่แลกเปลี่ยนเรียนรู้เกี่ยวกับการศึกษาไทย",
+        "title": "นิสิตครุจุฬา พบ นิสิตศึกษามศว EP.2"
+      },
+      "metadataUpdated": "2021-03-19T10:30:10.569Z",
+      "date": "2021-03-19T20:30:00.000+07:00"
     }
   }
 }
