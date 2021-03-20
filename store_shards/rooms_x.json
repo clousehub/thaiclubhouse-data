@@ -896,6 +896,15 @@
           "favorite_count": 1
         }
       }
+    },
+    "MRQlon6x": {
+      "sources": {
+        "https://twitter.com/pdd____/status/1373247336390881283": {
+          "created_time": "2021-03-20T12:17:33.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
