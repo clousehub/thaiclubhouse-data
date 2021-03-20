@@ -931,8 +931,26 @@
       "sources": {
         "https://twitter.com/Pink_Siripipat/status/1373244863739613189": {
           "created_time": "2021-03-20T12:07:43.000Z",
-          "retweet_count": 16,
-          "favorite_count": 9
+          "retweet_count": 17,
+          "favorite_count": 11
+        }
+      }
+    },
+    "xLybvKzb": {
+      "sources": {
+        "https://twitter.com/PloyaMya/status/1373261469056339970": {
+          "created_time": "2021-03-20T13:13:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
+    },
+    "xXgw0AYb": {
+      "sources": {
+        "https://twitter.com/mafav16/status/1373276779650064392": {
+          "created_time": "2021-03-20T14:14:33.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }

@@ -515,6 +515,15 @@
           "favorite_count": 1
         }
       }
+    },
+    "m3GWzge1": {
+      "sources": {
+        "https://twitter.com/SaimuTeluh/status/1373262945270984709": {
+          "created_time": "2021-03-20T13:19:34.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
