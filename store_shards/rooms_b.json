@@ -931,8 +931,8 @@
       "sources": {
         "https://twitter.com/Pink_Siripipat/status/1373244863739613189": {
           "created_time": "2021-03-20T12:07:43.000Z",
-          "retweet_count": 17,
-          "favorite_count": 11
+          "retweet_count": 18,
+          "favorite_count": 12
         }
       }
     },
@@ -951,6 +951,15 @@
           "created_time": "2021-03-20T14:14:33.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        }
+      }
+    },
+    "MKloXobb": {
+      "sources": {
+        "https://twitter.com/Nj66148923/status/1373284806478295040": {
+          "created_time": "2021-03-20T14:46:26.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       }
     }
