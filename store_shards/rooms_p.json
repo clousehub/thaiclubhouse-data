@@ -957,6 +957,11 @@
           "created_time": "2021-03-21T12:23:14.000Z",
           "retweet_count": 2,
           "favorite_count": 0
+        },
+        "https://twitter.com/parentsschool/status/1373626084990709765": {
+          "created_time": "2021-03-21T13:22:34.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
