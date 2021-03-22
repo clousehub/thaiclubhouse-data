@@ -982,12 +982,22 @@
       "sources": {
         "https://twitter.com/fankamiOfficial/status/1374023724664418311": {
           "created_time": "2021-03-22T15:42:38.000Z",
-          "retweet_count": 3,
-          "favorite_count": 0
+          "retweet_count": 4,
+          "favorite_count": 1
         },
         "https://twitter.com/itSunShine_s/status/1374030806520266752": {
           "created_time": "2021-03-22T16:10:47.000Z",
           "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/itSunShine_s/status/1374047719052910592": {
+          "created_time": "2021-03-22T17:17:59.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/itSunShine_s/status/1374051731567341572": {
+          "created_time": "2021-03-22T17:33:56.000Z",
+          "retweet_count": 0,
           "favorite_count": 0
         }
       }
