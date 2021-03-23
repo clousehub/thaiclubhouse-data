@@ -695,6 +695,11 @@
           "created_time": "2021-03-23T16:04:58.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/bfarnkjs/status/1374405143622381571": {
+          "created_time": "2021-03-23T16:58:16.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
