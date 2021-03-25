@@ -334,6 +334,20 @@
       },
       "metadataUpdated": "2021-03-25T07:06:10.426Z",
       "date": "2021-03-27T20:00:00.000+07:00"
+    },
+    "MR8opDk3": {
+      "sources": {
+        "https://twitter.com/LilyAndemariam/status/1375141893525405702": {
+          "created_time": "2021-03-25T17:45:50.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        }
+      },
+      "metadata": {
+        "description": "Thursday, March 25 at 10:00pm EDT with Moe Ali, Jose Platero, Lily Andemariam, Nir Eyal. Join us for a candid conversation w/ Nir Eyal, WSJ best-selling author, on how product leaders can build responsible, meaningful products while protecting themselves from the “distraction trap.",
+        "title": "Special AMA w/ Nir Eyal: Author of Hooked & Indistractable - Startup Club"
+      },
+      "metadataUpdated": "2021-03-25T17:48:09.453Z"
     }
   }
 }
