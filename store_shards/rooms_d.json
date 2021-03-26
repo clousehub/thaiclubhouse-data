@@ -815,6 +815,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "xeRzoYLd": {
+      "sources": {
+        "https://twitter.com/NOOKY_RITA/status/1375452146762539011": {
+          "created_time": "2021-03-26T14:18:41.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "M8YGWGqD": {
+      "sources": {
+        "https://twitter.com/pavielin/status/1375457230028369931": {
+          "created_time": "2021-03-26T14:38:53.000Z",
+          "retweet_count": 0,
+          "favorite_count": 5
+        }
+      }
     }
   }
 }
