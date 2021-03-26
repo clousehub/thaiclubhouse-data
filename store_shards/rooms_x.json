@@ -937,6 +937,25 @@
           "favorite_count": 1
         }
       }
+    },
+    "mWaEYE6x": {
+      "sources": {
+        "https://twitter.com/loongkken/status/1375350813380337664": {
+          "created_time": "2021-03-26T07:36:01.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/loongkken/status/1375359435824979968": {
+          "created_time": "2021-03-26T08:10:17.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/GummyKate_4159/status/1375360470459146242": {
+          "created_time": "2021-03-26T08:14:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
