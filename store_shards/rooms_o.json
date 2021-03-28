@@ -1013,8 +1013,18 @@
       "sources": {
         "https://twitter.com/OldMan_b1/status/1375989465420722179": {
           "created_time": "2021-03-28T01:53:47.000Z",
+          "retweet_count": 3,
+          "favorite_count": 1
+        },
+        "https://twitter.com/topazine/status/1375996889665957890": {
+          "created_time": "2021-03-28T02:23:17.000Z",
+          "retweet_count": 580,
+          "favorite_count": 52
+        },
+        "https://twitter.com/OldMan_b1/status/1376004032989261824": {
+          "created_time": "2021-03-28T02:51:41.000Z",
           "retweet_count": 2,
-          "favorite_count": 0
+          "favorite_count": 2
         }
       }
     }
