@@ -438,7 +438,12 @@
       "sources": {
         "https://twitter.com/WitchWeeklyTH/status/1376897023736045569": {
           "created_time": "2021-03-30T14:00:06.000Z",
-          "retweet_count": 1,
+          "retweet_count": 3,
+          "favorite_count": 1
+        },
+        "https://twitter.com/ploypotter/status/1376911348014010368": {
+          "created_time": "2021-03-30T14:57:01.000Z",
+          "retweet_count": 0,
           "favorite_count": 0
         }
       }
