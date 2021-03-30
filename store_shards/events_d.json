@@ -1065,6 +1065,23 @@
       },
       "metadataUpdated": "2021-03-21T06:00:09.903Z",
       "date": "2021-03-21T11:55:00.000+07:00"
+    },
+    "Pv9K8wKD": {
+      "sources": {
+        "https://thaiclubhouse.web.app/submit.html": {
+          "created_time": "2021-03-30T15:59:23.000Z"
+        },
+        "https://twitter.com/tulathorn/status/1376928097505845249": {
+          "created_time": "2021-03-30T16:03:35.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Friday, April 2 at 7:00pm CEST with Tulathorn Sripongpankul, Tita Leelathipkul, Maneerat Wongjaroenporn, Parn Suvarnin. #เรื่องเล่าเด็กนอก วีคนี้เรามาคุยกันเรื่องการศึกษาของไทยกันครับ ว่าอะไรคือสิ่งที่ประเทศไทยไม่เคยสอนเรา (ทั้งในห้อง และ นอกห้องเรียน) แล้วอยากแนะนำให้น้องๆ ที่ไทย พัฒนาตัวเองยังไง ม…",
+        "title": "เรื่องเล่าเด็กนอก EP7: “สิ่งที่เมืองไทยไม่ได้สอน” - เด็กนอกคลับ"
+      },
+      "metadataUpdated": "2021-03-30T16:00:10.609Z"
     }
   }
 }
