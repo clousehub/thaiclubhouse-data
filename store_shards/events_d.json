@@ -1073,8 +1073,8 @@
         },
         "https://twitter.com/tulathorn/status/1376928097505845249": {
           "created_time": "2021-03-30T16:03:35.000Z",
-          "retweet_count": 0,
-          "favorite_count": 1
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       },
       "metadata": {
