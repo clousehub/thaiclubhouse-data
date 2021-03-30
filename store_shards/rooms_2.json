@@ -252,6 +252,11 @@
           "created_time": "2021-03-30T13:04:55.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/yselpam/status/1376884725378211840": {
+          "created_time": "2021-03-30T13:11:14.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }
