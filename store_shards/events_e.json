@@ -987,12 +987,12 @@
       "sources": {
         "https://twitter.com/mob_nakhonp/status/1377231473061765123": {
           "created_time": "2021-03-31T12:09:05.000Z",
-          "retweet_count": 0,
+          "retweet_count": 1,
           "favorite_count": 0
         },
         "https://twitter.com/mob_nakhonp/status/1377239036717199362": {
           "created_time": "2021-03-31T12:39:08.000Z",
-          "retweet_count": 6,
+          "retweet_count": 10,
           "favorite_count": 0
         }
       },
