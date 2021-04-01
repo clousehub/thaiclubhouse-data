@@ -743,6 +743,11 @@
         "https://twitter.com/sherryppt/status/1377631823396663299": {
           "created_time": "2021-04-01T14:39:56.000Z",
           "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/MoTangmo16/status/1377643228392947717": {
+          "created_time": "2021-04-01T15:25:15.000Z",
+          "retweet_count": 0,
           "favorite_count": 0
         }
       }
