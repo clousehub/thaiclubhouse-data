@@ -1139,23 +1139,23 @@
         },
         "https://twitter.com/mankool96/status/1378389117751369732": {
           "created_time": "2021-04-03T16:49:09.000Z",
-          "retweet_count": 2,
-          "favorite_count": 0
+          "retweet_count": 3,
+          "favorite_count": 1
         },
         "https://twitter.com/mankool96/status/1378398541668749315": {
           "created_time": "2021-04-03T17:26:36.000Z",
-          "retweet_count": 4,
-          "favorite_count": 3
+          "retweet_count": 5,
+          "favorite_count": 4
         },
         "https://twitter.com/mankool96/status/1378402504996646913": {
           "created_time": "2021-04-03T17:42:21.000Z",
-          "retweet_count": 12,
-          "favorite_count": 3
+          "retweet_count": 15,
+          "favorite_count": 4
         },
         "https://twitter.com/mankool96/status/1378407222766493697": {
           "created_time": "2021-04-03T18:01:06.000Z",
-          "retweet_count": 6,
-          "favorite_count": 0
+          "retweet_count": 10,
+          "favorite_count": 1
         }
       }
     },
