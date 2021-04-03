@@ -767,8 +767,13 @@
       "sources": {
         "https://twitter.com/Cephalopodophil/status/1378353022758121479": {
           "created_time": "2021-04-03T14:25:43.000Z",
-          "retweet_count": 5,
-          "favorite_count": 3
+          "retweet_count": 8,
+          "favorite_count": 4
+        },
+        "https://twitter.com/yselpam/status/1378365494948888579": {
+          "created_time": "2021-04-03T15:15:17.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
