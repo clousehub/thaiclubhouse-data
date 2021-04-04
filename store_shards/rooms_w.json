@@ -928,6 +928,25 @@
           "favorite_count": 0
         }
       }
+    },
+    "xnXJ8E0w": {
+      "sources": {
+        "https://twitter.com/Oreos40388043/status/1378626829854986241": {
+          "created_time": "2021-04-04T08:33:44.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Oreos8383/status/1378626829854986241": {
+          "created_time": "2021-04-04T08:33:44.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/wwuaiiww/status/1378633053216501763": {
+          "created_time": "2021-04-04T08:58:28.000Z",
+          "retweet_count": 12,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
