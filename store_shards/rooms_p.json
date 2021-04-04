@@ -1054,6 +1054,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "myZaWGOP": {
+      "sources": {
+        "https://twitter.com/sherryppt/status/1378726833445761026": {
+          "created_time": "2021-04-04T15:11:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
