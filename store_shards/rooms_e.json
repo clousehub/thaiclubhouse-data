@@ -1156,6 +1156,11 @@
           "created_time": "2021-04-03T18:01:06.000Z",
           "retweet_count": 10,
           "favorite_count": 1
+        },
+        "https://twitter.com/elayna_official/status/1378563178347384835": {
+          "created_time": "2021-04-04T04:20:48.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     },
