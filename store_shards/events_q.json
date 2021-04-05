@@ -635,8 +635,13 @@
       "sources": {
         "https://twitter.com/ThaiArmedForce/status/1378752239292936196": {
           "created_time": "2021-04-04T16:52:04.000Z",
-          "retweet_count": 4,
-          "favorite_count": 2
+          "retweet_count": 7,
+          "favorite_count": 3
+        },
+        "https://twitter.com/ThaiArmedForce/status/1379073190744367108": {
+          "created_time": "2021-04-05T14:07:25.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       },
       "metadata": {

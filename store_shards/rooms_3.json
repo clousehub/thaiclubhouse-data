@@ -474,6 +474,16 @@
           "created_time": "2021-04-05T13:16:01.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/yselpam/status/1379073812323463168": {
+          "created_time": "2021-04-05T14:09:53.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/NearMelL_1989/status/1379074795715760137": {
+          "created_time": "2021-04-05T14:13:47.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
         }
       }
     }
