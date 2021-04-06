@@ -1092,8 +1092,8 @@
       "sources": {
         "https://twitter.com/ClubhouseTh/status/1379367884367884293": {
           "created_time": "2021-04-06T09:38:25.000Z",
-          "retweet_count": 0,
-          "favorite_count": 1
+          "retweet_count": 1,
+          "favorite_count": 3
         }
       },
       "metadata": {
