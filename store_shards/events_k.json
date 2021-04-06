@@ -887,6 +887,20 @@
       },
       "metadataUpdated": "2021-03-20T03:54:13.614Z",
       "date": "2021-03-20T11:30:00.000+07:00"
+    },
+    "PbgX5Gvk": {
+      "sources": {
+        "https://twitter.com/BuyartBG/status/1379360856593555457": {
+          "created_time": "2021-04-06T09:10:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Thursday, April 8 at 7:00pm EEST with Petko Dourmana, Emil Georgiev, Asen Genov. Ще говорим за тенденциите в пазара на изкуство в България, какво ново предлага платформата Купиизкуство.БГ и за най-актуалното, да се създава, продава, купува и колекционира дигитално изкуство на NFT!",
+        "title": "Всичко за изкуството от Купиизкуство.БГ"
+      },
+      "metadataUpdated": "2021-04-06T10:12:09.680Z"
     }
   }
 }
