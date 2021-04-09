@@ -996,6 +996,11 @@
           "created_time": "2021-04-08T12:59:49.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/jjbrightkm/status/1380145343107629057": {
+          "created_time": "2021-04-08T13:07:46.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       }
     }
