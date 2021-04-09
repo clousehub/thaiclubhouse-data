@@ -980,6 +980,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "xLBdn2GK": {
+      "sources": {
+        "https://twitter.com/kkk_kxiimz/status/1380555589739110400": {
+          "created_time": "2021-04-09T16:17:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/kkk_kxiimz/status/1380557088703700996": {
+          "created_time": "2021-04-09T16:23:54.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
