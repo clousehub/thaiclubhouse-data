@@ -488,13 +488,13 @@
       "sources": {
         "https://twitter.com/radrankaree/status/1380744113142702081": {
           "created_time": "2021-04-10T04:47:04.000Z",
-          "retweet_count": 17,
-          "favorite_count": 7
+          "retweet_count": 19,
+          "favorite_count": 8
         },
         "https://twitter.com/topazine/status/1380767358524919809": {
           "created_time": "2021-04-10T06:19:26.000Z",
-          "retweet_count": 188,
-          "favorite_count": 50
+          "retweet_count": 190,
+          "favorite_count": 52
         }
       }
     }
