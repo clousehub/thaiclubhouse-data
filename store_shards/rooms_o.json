@@ -1104,6 +1104,15 @@
       "sources": {
         "https://twitter.com/PNSNTK/status/1381949139685019649": {
           "created_time": "2021-04-13T12:35:24.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
+    },
+    "PrWQpGaO": {
+      "sources": {
+        "https://twitter.com/_bam_bamboo/status/1381966815291527185": {
+          "created_time": "2021-04-13T13:45:39.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
