@@ -950,6 +950,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PGpapEAD": {
+      "sources": {
+        "https://twitter.com/catchsomeoneeye/status/1382418881118031873": {
+          "created_time": "2021-04-14T19:42:00.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/kanomcke/status/1382419011191771138": {
+          "created_time": "2021-04-14T19:42:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
