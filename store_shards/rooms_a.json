@@ -1049,6 +1049,25 @@
           "favorite_count": 0
         }
       }
+    },
+    "MRQNjd6A": {
+      "sources": {
+        "https://twitter.com/JesTaksino/status/1382247893151535105": {
+          "created_time": "2021-04-14T08:22:33.000Z",
+          "retweet_count": 1,
+          "favorite_count": 3
+        },
+        "https://twitter.com/phammo__/status/1382248929840959488": {
+          "created_time": "2021-04-14T08:26:40.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/MrSantruay/status/1382251929552572422": {
+          "created_time": "2021-04-14T08:38:35.000Z",
+          "retweet_count": 12,
+          "favorite_count": 10
+        }
+      }
     }
   }
 }
