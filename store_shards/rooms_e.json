@@ -1253,6 +1253,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "myyNLwve": {
+      "sources": {
+        "https://twitter.com/pavielin/status/1382704098466729991": {
+          "created_time": "2021-04-15T14:35:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/pavielin/status/1382704915328434185": {
+          "created_time": "2021-04-15T14:38:35.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
