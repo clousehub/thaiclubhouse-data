@@ -964,6 +964,15 @@
           "favorite_count": 1
         }
       }
+    },
+    "myyVBDoD": {
+      "sources": {
+        "https://twitter.com/hoksingha/status/1383080597745139720": {
+          "created_time": "2021-04-16T15:31:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
