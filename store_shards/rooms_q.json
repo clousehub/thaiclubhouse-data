@@ -987,6 +987,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "xpj3V7nq": {
+      "sources": {
+        "https://twitter.com/pavielin/status/1383061579848065030": {
+          "created_time": "2021-04-16T14:15:51.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        }
+      }
+    },
+    "MK3lVy2Q": {
+      "sources": {
+        "https://twitter.com/beam1743/status/1383066723146866688": {
+          "created_time": "2021-04-16T14:36:17.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
