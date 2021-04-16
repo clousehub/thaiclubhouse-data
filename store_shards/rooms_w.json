@@ -994,7 +994,7 @@
         "https://twitter.com/takatoonline/status/1382857694978076675": {
           "created_time": "2021-04-16T00:45:41.000Z",
           "retweet_count": 1,
-          "favorite_count": 1
+          "favorite_count": 2
         }
       }
     },
@@ -1016,6 +1016,20 @@
         },
         "https://twitter.com/nirinyu/status/1383121002234789900": {
           "created_time": "2021-04-16T18:11:58.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "PYn10jpW": {
+      "sources": {
+        "https://twitter.com/nongkormadi/status/1383134083824316416": {
+          "created_time": "2021-04-16T19:03:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/thetuntad/status/1383134057861574657": {
+          "created_time": "2021-04-16T19:03:51.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
