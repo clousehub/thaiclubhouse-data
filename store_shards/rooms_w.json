@@ -993,8 +993,8 @@
       "sources": {
         "https://twitter.com/takatoonline/status/1382857694978076675": {
           "created_time": "2021-04-16T00:45:41.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     },
@@ -1011,6 +1011,11 @@
       "sources": {
         "https://twitter.com/nirinyu/status/1383096463803215875": {
           "created_time": "2021-04-16T16:34:28.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nirinyu/status/1383121002234789900": {
+          "created_time": "2021-04-16T18:11:58.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
