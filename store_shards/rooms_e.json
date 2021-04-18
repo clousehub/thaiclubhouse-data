@@ -1331,6 +1331,11 @@
           "created_time": "2021-04-18T18:55:51.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/lyvfeem/status/1383887842439434243": {
+          "created_time": "2021-04-18T20:59:07.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     },
