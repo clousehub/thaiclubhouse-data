@@ -1054,6 +1054,11 @@
           "created_time": "2021-04-18T15:14:11.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/InterviewHer/status/1384120897779355648": {
+          "created_time": "2021-04-19T12:25:12.000Z",
+          "retweet_count": 1,
+          "favorite_count": 8
         }
       },
       "metadata": {
@@ -1061,6 +1066,21 @@
         "title": "ฝันอยากเป็นนายกฯ ต้องทำยังไงค้าาาาา - กลุ่มพลังคลับ"
       },
       "metadataUpdated": "2021-04-18T15:18:10.025Z",
+      "date": "2021-04-19T21:00:00.000+07:00"
+    },
+    "PAzr2zRx": {
+      "sources": {
+        "https://twitter.com/ThaiArmedForce/status/1384125786093867012": {
+          "created_time": "2021-04-19T12:44:37.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
+        }
+      },
+      "metadata": {
+        "description": "Monday, April 19 at 9:00pm +07 with Analayo Korsakul, Wizaro, Picmee Piyawan, Nut Thephuttee, thaiarmedforce TAF. กองทัพไทยมีกำลังพลใหญ่ติดอันดับโลกทั้งที่ไทยไม่ได้รวยและไม่มีบทบาทอะไรต่อโลกนัก เราจะต้องมีทหารเยอะ ๆ กองทัพใหญ่ ๆ ไปทำไมในยุคนี้ กองทัพคิดอะไร ที่สำคัญคือเหมาะสมหรือไม่ ถ้าจะลดขนาดกองทั…",
+        "title": "MilTalk กองทัพไทยขนาดใหญ่ เพราะอะไร จะลดลงได้ไหม - TAF Defense & Aerospace"
+      },
+      "metadataUpdated": "2021-04-19T12:48:09.296Z",
       "date": "2021-04-19T21:00:00.000+07:00"
     }
   }
