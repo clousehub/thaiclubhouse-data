@@ -1065,6 +1065,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "MO6ka1jX": {
+      "sources": {
+        "https://twitter.com/bestbestbestbt/status/1411746993655877633": {
+          "created_time": "2021-07-04T18:01:26.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "M5vJzReX": {
+      "sources": {
+        "https://twitter.com/NadingNarak/status/1411737361084346373": {
+          "created_time": "2021-07-04T17:23:10.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
