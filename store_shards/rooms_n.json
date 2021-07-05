@@ -830,13 +830,13 @@
         },
         "https://twitter.com/heartthrob_jk/status/1412052674263011335": {
           "created_time": "2021-07-05T14:16:06.000Z",
-          "retweet_count": 6,
+          "retweet_count": 7,
           "favorite_count": 1
         },
         "https://twitter.com/2morrow9597/status/1412062502955864067": {
           "created_time": "2021-07-05T14:55:10.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
