@@ -1041,6 +1041,21 @@
           "created_time": "2021-07-06T11:05:11.000Z",
           "retweet_count": 1,
           "favorite_count": 0
+        },
+        "https://twitter.com/JEDIYUTH/status/1412386576634585091": {
+          "created_time": "2021-07-06T12:22:55.000Z",
+          "retweet_count": 48,
+          "favorite_count": 3
+        },
+        "https://twitter.com/JEDIYUTH/status/1412385511054790662": {
+          "created_time": "2021-07-06T12:18:41.000Z",
+          "retweet_count": 15,
+          "favorite_count": 0
+        },
+        "https://twitter.com/JEDIYUTH/status/1412392564280369158": {
+          "created_time": "2021-07-06T12:46:42.000Z",
+          "retweet_count": 36,
+          "favorite_count": 4
         }
       }
     }
