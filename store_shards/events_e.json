@@ -1101,13 +1101,18 @@
         },
         "https://twitter.com/CChamnanseth/status/1412309980049559559": {
           "created_time": "2021-07-06T07:18:33.000Z",
-          "retweet_count": 13,
-          "favorite_count": 6
+          "retweet_count": 14,
+          "favorite_count": 7
         },
         "https://twitter.com/ratthatun/status/1412317263173079040": {
           "created_time": "2021-07-06T07:47:29.000Z",
           "retweet_count": 1,
           "favorite_count": 2
+        },
+        "https://twitter.com/pidchym/status/1412345026776948739": {
+          "created_time": "2021-07-06T09:37:49.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       },
       "metadata": {
