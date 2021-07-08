@@ -1101,6 +1101,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "MOvVwoNX": {
+      "sources": {
+        "https://twitter.com/nanaicez/status/1413108203898871811": {
+          "created_time": "2021-07-08T12:10:24.000Z",
+          "retweet_count": 10,
+          "favorite_count": 4
+        },
+        "https://twitter.com/amladydasha/status/1413109147021758467": {
+          "created_time": "2021-07-08T12:14:09.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
