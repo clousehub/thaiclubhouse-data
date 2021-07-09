@@ -881,6 +881,11 @@
           "created_time": "2021-07-09T08:51:33.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/Tree_of_Life_8/status/1413465513905188868": {
+          "created_time": "2021-07-09T11:50:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {
@@ -894,8 +899,8 @@
       "sources": {
         "https://twitter.com/AmnestyThailand/status/1413457930045644802": {
           "created_time": "2021-07-09T11:20:05.000Z",
-          "retweet_count": 2,
-          "favorite_count": 0
+          "retweet_count": 25,
+          "favorite_count": 6
         }
       },
       "metadata": {
