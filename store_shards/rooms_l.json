@@ -1219,6 +1219,20 @@
           "favorite_count": 25
         }
       }
+    },
+    "M8KRWggL": {
+      "sources": {
+        "https://twitter.com/polyolpathway/status/1413525769892945927": {
+          "created_time": "2021-07-09T15:49:40.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/polyolpathway/status/1413531630858227716": {
+          "created_time": "2021-07-09T16:12:57.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
