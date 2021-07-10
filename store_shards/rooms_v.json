@@ -1413,8 +1413,8 @@
         },
         "https://twitter.com/Pink_Siripipat/status/1413817558629707778": {
           "created_time": "2021-07-10T11:09:08.000Z",
-          "retweet_count": 14,
-          "favorite_count": 24
+          "retweet_count": 20,
+          "favorite_count": 35
         },
         "https://twitter.com/OldMan_b1/status/1413819193800085506": {
           "created_time": "2021-07-10T11:15:37.000Z",
@@ -1425,6 +1425,26 @@
           "created_time": "2021-07-10T11:18:15.000Z",
           "retweet_count": 0,
           "favorite_count": 2
+        },
+        "https://twitter.com/hoksingha/status/1413825771970318337": {
+          "created_time": "2021-07-10T11:41:46.000Z",
+          "retweet_count": 4,
+          "favorite_count": 6
+        },
+        "https://twitter.com/hoksingha/status/1413827986478952448": {
+          "created_time": "2021-07-10T11:50:34.000Z",
+          "retweet_count": 5,
+          "favorite_count": 6
+        },
+        "https://twitter.com/hoksingha/status/1413830378247262208": {
+          "created_time": "2021-07-10T12:00:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/hoksingha/status/1413830806607253504": {
+          "created_time": "2021-07-10T12:01:46.000Z",
+          "retweet_count": 3,
+          "favorite_count": 14
         }
       }
     }
