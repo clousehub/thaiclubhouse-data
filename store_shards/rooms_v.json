@@ -1403,6 +1403,30 @@
           "favorite_count": 0
         }
       }
+    },
+    "MEpGewrv": {
+      "sources": {
+        "https://twitter.com/hoksingha/status/1413815574233182208": {
+          "created_time": "2021-07-10T11:01:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Pink_Siripipat/status/1413817558629707778": {
+          "created_time": "2021-07-10T11:09:08.000Z",
+          "retweet_count": 14,
+          "favorite_count": 24
+        },
+        "https://twitter.com/OldMan_b1/status/1413819193800085506": {
+          "created_time": "2021-07-10T11:15:37.000Z",
+          "retweet_count": 1,
+          "favorite_count": 7
+        },
+        "https://twitter.com/_dark_zone/status/1413819854851698690": {
+          "created_time": "2021-07-10T11:18:15.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
