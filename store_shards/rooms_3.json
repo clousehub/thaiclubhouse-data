@@ -583,11 +583,16 @@
         "https://twitter.com/selfcircled/status/1413831837986660352": {
           "created_time": "2021-07-10T12:05:52.000Z",
           "retweet_count": 20,
-          "favorite_count": 13
+          "favorite_count": 16
         },
         "https://twitter.com/windymerino/status/1413836770764939266": {
           "created_time": "2021-07-10T12:25:28.000Z",
-          "retweet_count": 5,
+          "retweet_count": 8,
+          "favorite_count": 1
+        },
+        "https://twitter.com/_dark_zone/status/1413837010624602115": {
+          "created_time": "2021-07-10T12:26:25.000Z",
+          "retweet_count": 0,
           "favorite_count": 1
         }
       }
