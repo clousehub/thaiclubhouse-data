@@ -1409,17 +1409,17 @@
         "https://twitter.com/hoksingha/status/1413815574233182208": {
           "created_time": "2021-07-10T11:01:14.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/Pink_Siripipat/status/1413817558629707778": {
           "created_time": "2021-07-10T11:09:08.000Z",
-          "retweet_count": 21,
+          "retweet_count": 22,
           "favorite_count": 37
         },
         "https://twitter.com/OldMan_b1/status/1413819193800085506": {
           "created_time": "2021-07-10T11:15:37.000Z",
           "retweet_count": 1,
-          "favorite_count": 7
+          "favorite_count": 8
         },
         "https://twitter.com/_dark_zone/status/1413819854851698690": {
           "created_time": "2021-07-10T11:18:15.000Z",
@@ -1428,13 +1428,13 @@
         },
         "https://twitter.com/hoksingha/status/1413825771970318337": {
           "created_time": "2021-07-10T11:41:46.000Z",
-          "retweet_count": 4,
-          "favorite_count": 8
+          "retweet_count": 5,
+          "favorite_count": 10
         },
         "https://twitter.com/hoksingha/status/1413827986478952448": {
           "created_time": "2021-07-10T11:50:34.000Z",
           "retweet_count": 5,
-          "favorite_count": 7
+          "favorite_count": 8
         },
         "https://twitter.com/hoksingha/status/1413830378247262208": {
           "created_time": "2021-07-10T12:00:04.000Z",
@@ -1443,13 +1443,13 @@
         },
         "https://twitter.com/hoksingha/status/1413830806607253504": {
           "created_time": "2021-07-10T12:01:46.000Z",
-          "retweet_count": 6,
-          "favorite_count": 16
+          "retweet_count": 8,
+          "favorite_count": 19
         },
         "https://twitter.com/hoksingha/status/1413841876604518407": {
           "created_time": "2021-07-10T12:45:45.000Z",
-          "retweet_count": 3,
-          "favorite_count": 6
+          "retweet_count": 4,
+          "favorite_count": 8
         }
       }
     }
