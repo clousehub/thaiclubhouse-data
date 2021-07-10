@@ -587,13 +587,18 @@
         },
         "https://twitter.com/windymerino/status/1413836770764939266": {
           "created_time": "2021-07-10T12:25:28.000Z",
-          "retweet_count": 8,
+          "retweet_count": 7,
           "favorite_count": 1
         },
         "https://twitter.com/_dark_zone/status/1413837010624602115": {
           "created_time": "2021-07-10T12:26:25.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/_dark_zone/status/1413881228529336320": {
+          "created_time": "2021-07-10T15:22:08.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
