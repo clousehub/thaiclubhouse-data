@@ -1185,6 +1185,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PGzLqXwb": {
+      "sources": {
+        "https://twitter.com/chinnapotter/status/1413739861350051840": {
+          "created_time": "2021-07-10T06:00:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/realdaniyan/status/1413739858980343808": {
+          "created_time": "2021-07-10T06:00:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
