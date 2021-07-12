@@ -1307,7 +1307,7 @@
         },
         "https://twitter.com/wombat2475/status/1414433358038241280": {
           "created_time": "2021-07-12T03:56:06.000Z",
-          "retweet_count": 21,
+          "retweet_count": 24,
           "favorite_count": 21
         },
         "https://twitter.com/NadingNarak/status/1414471534001803267": {
@@ -1318,7 +1318,7 @@
         "https://twitter.com/ThaiPasa/status/1414476858406576129": {
           "created_time": "2021-07-12T06:48:57.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         }
       }
     }
