@@ -1272,6 +1272,11 @@
           "created_time": "2021-07-13T14:38:17.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/gqwagon/status/1414979494050291713": {
+          "created_time": "2021-07-13T16:06:15.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
