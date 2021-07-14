@@ -678,6 +678,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "m7YNLYNz": {
+      "sources": {
+        "https://twitter.com/pingkitt/status/1415281706957897729": {
+          "created_time": "2021-07-14T12:07:08.000Z",
+          "retweet_count": 3,
+          "favorite_count": 3
+        },
+        "https://twitter.com/_dark_zone/status/1415282229673005061": {
+          "created_time": "2021-07-14T12:09:12.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
