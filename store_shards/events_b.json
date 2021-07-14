@@ -1014,8 +1014,8 @@
       "sources": {
         "https://twitter.com/MrSantruay/status/1415240214520291329": {
           "created_time": "2021-07-14T09:22:15.000Z",
-          "retweet_count": 71,
-          "favorite_count": 20
+          "retweet_count": 74,
+          "favorite_count": 21
         }
       },
       "metadata": {
@@ -1024,6 +1024,21 @@
       },
       "metadataUpdated": "2021-07-14T09:24:11.778Z",
       "date": "2021-07-14T17:30:00.000+07:00"
+    },
+    "M655bw0B": {
+      "sources": {
+        "https://twitter.com/bam2gr/status/1415268285721956358": {
+          "created_time": "2021-07-14T11:13:48.000Z",
+          "retweet_count": 45,
+          "favorite_count": 17
+        }
+      },
+      "metadata": {
+        "description": "Saturday, July 17 at 8:00pm +07 with Bunyanuch Panjapaiboon, Phuwis Pisawong. ชวนถกเถียงและตั้งคำถามถึงสถานะและที่ทางของ ‘ปรัชญา’ ในโลกร่วมสมัย ผ่านมุมมองจากหลากหลายสาขาวิชาไม่ว่าจะเป็นวิทยาศาสตร์ ภาษาศาสตร์ ประวัติศาสตร์ หรือภาพยนตร์ศึกษา และตอบคำถามว่า ”ปรัชญายังสำคัญอยู่ไหม มันตายไปแล้วหรือยัง?”",
+        "title": "รู้มั้ย? ใครฆ่าปรัชญา"
+      },
+      "metadataUpdated": "2021-07-14T11:18:11.762Z",
+      "date": "2021-07-17T20:00:00.000+07:00"
     }
   }
 }
