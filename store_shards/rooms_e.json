@@ -1389,13 +1389,18 @@
         },
         "https://twitter.com/JEDIYUTH/status/1415343364879257601": {
           "created_time": "2021-07-14T16:12:08.000Z",
-          "retweet_count": 12,
+          "retweet_count": 14,
           "favorite_count": 5
         },
         "https://twitter.com/Tree_of_Life_8/status/1415356173365116931": {
           "created_time": "2021-07-14T17:03:02.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/bbganbank/status/1415371653920423936": {
+          "created_time": "2021-07-14T18:04:33.000Z",
+          "retweet_count": 2,
+          "favorite_count": 5
         }
       }
     }
