@@ -306,8 +306,13 @@
         },
         "https://twitter.com/JittamasMootun/status/1415281544336338949": {
           "created_time": "2021-07-14T12:06:29.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/NadingNarak/status/1415299353510514695": {
+          "created_time": "2021-07-14T13:17:15.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
         }
       }
     }
