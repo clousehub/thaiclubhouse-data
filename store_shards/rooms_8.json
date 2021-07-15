@@ -808,6 +808,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PAdgZOj8": {
+      "sources": {
+        "https://twitter.com/Tree_of_Life_8/status/1415642214189780995": {
+          "created_time": "2021-07-15T11:59:39.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/JEDIYUTH/status/1415642957252743171": {
+          "created_time": "2021-07-15T12:02:37.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
