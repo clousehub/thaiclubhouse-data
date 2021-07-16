@@ -1403,6 +1403,11 @@
           "created_time": "2021-07-16T14:11:38.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        },
+        "https://twitter.com/baekna_ri/status/1416063055625023494": {
+          "created_time": "2021-07-16T15:51:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       }
     }
