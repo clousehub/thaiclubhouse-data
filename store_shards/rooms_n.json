@@ -894,6 +894,85 @@
           "favorite_count": 0
         }
       }
+    },
+    "my4Q3epn": {
+      "sources": {
+        "https://twitter.com/JittamasMootun/status/1416036268513787910": {
+          "created_time": "2021-07-16T14:05:29.000Z",
+          "retweet_count": 4,
+          "favorite_count": 0
+        },
+        "https://twitter.com/sodontbe_blue/status/1416035862761013249": {
+          "created_time": "2021-07-16T14:03:53.000Z",
+          "retweet_count": 15,
+          "favorite_count": 4
+        },
+        "https://twitter.com/mybabe_bunny/status/1416035701091565569": {
+          "created_time": "2021-07-16T14:03:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/tukzerotuk/status/1416035604182147073": {
+          "created_time": "2021-07-16T14:02:51.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/pablohoneyyyy/status/1416037213578547202": {
+          "created_time": "2021-07-16T14:09:15.000Z",
+          "retweet_count": 3,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1416037066173915146": {
+          "created_time": "2021-07-16T14:08:39.000Z",
+          "retweet_count": 2,
+          "favorite_count": 4
+        },
+        "https://twitter.com/_dark_zone/status/1416036605597413380": {
+          "created_time": "2021-07-16T14:06:50.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nomoneybutdebt/status/1416038898900242434": {
+          "created_time": "2021-07-16T14:15:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/nomoneybutdebt/status/1416038721036587011": {
+          "created_time": "2021-07-16T14:15:14.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nomoneybutdebt/status/1416038191291764741": {
+          "created_time": "2021-07-16T14:13:08.000Z",
+          "retweet_count": 15,
+          "favorite_count": 4
+        },
+        "https://twitter.com/Khunchaichong/status/1416037387021393921": {
+          "created_time": "2021-07-16T14:09:56.000Z",
+          "retweet_count": 3,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nomoneybutdebt/status/1416039432801587208": {
+          "created_time": "2021-07-16T14:18:04.000Z",
+          "retweet_count": 16,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nomoneybutdebt/status/1416036326734921729": {
+          "created_time": "2021-07-16T14:05:43.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/ivaderlll/status/1416042180120961026": {
+          "created_time": "2021-07-16T14:28:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nomoneybutdebt/status/1416041799777284101": {
+          "created_time": "2021-07-16T14:27:28.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
