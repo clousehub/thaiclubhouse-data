@@ -1348,6 +1348,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "MEwn7K2y": {
+      "sources": {
+        "https://twitter.com/axistxxallt/status/1415899401822769155": {
+          "created_time": "2021-07-16T05:01:38.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/axisdevxdx_/status/1415899192669528066": {
+          "created_time": "2021-07-16T05:00:48.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
