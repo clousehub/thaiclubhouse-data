@@ -1133,6 +1133,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "MwEaNVjQ": {
+      "sources": {
+        "https://twitter.com/thanuchsss/status/1416408038701862913": {
+          "created_time": "2021-07-17T14:42:46.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "PAa1p3VQ": {
+      "sources": {
+        "https://twitter.com/themaompss/status/1416414945311297542": {
+          "created_time": "2021-07-17T15:10:13.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
