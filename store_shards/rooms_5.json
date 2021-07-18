@@ -527,6 +527,11 @@
           "created_time": "2021-07-18T20:49:01.000Z",
           "retweet_count": 1,
           "favorite_count": 2
+        },
+        "https://twitter.com/tukzerotuk/status/1416894865548316673": {
+          "created_time": "2021-07-18T22:57:15.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       }
     }
