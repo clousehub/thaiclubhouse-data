@@ -1296,6 +1296,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "xoa0KzYl": {
+      "sources": {
+        "https://twitter.com/llxxonj/status/1417118772675055622": {
+          "created_time": "2021-07-19T13:46:58.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "M5vzRQbl": {
+      "sources": {
+        "https://twitter.com/JinaVirin/status/1417119913374740491": {
+          "created_time": "2021-07-19T13:51:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

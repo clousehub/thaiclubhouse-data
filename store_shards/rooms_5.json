@@ -541,6 +541,11 @@
           "created_time": "2021-07-19T12:08:01.000Z",
           "retweet_count": 1,
           "favorite_count": 10
+        },
+        "https://twitter.com/nanaicez/status/1417110679719333889": {
+          "created_time": "2021-07-19T13:14:49.000Z",
+          "retweet_count": 187,
+          "favorite_count": 49
         }
       }
     }
