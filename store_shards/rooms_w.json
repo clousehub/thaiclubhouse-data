@@ -1157,6 +1157,30 @@
           "favorite_count": 0
         }
       }
+    },
+    "PN6zV6Zw": {
+      "sources": {
+        "https://twitter.com/warrantlessEvil/status/1417440089144139776": {
+          "created_time": "2021-07-20T11:03:46.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/warrantlessEvil/status/1417443091175202819": {
+          "created_time": "2021-07-20T11:15:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/selfcircled/status/1417445401917988869": {
+          "created_time": "2021-07-20T11:24:53.000Z",
+          "retweet_count": 6,
+          "favorite_count": 0
+        },
+        "https://twitter.com/topazine/status/1417448800340168706": {
+          "created_time": "2021-07-20T11:38:23.000Z",
+          "retweet_count": 153,
+          "favorite_count": 20
+        }
+      }
     }
   }
 }
