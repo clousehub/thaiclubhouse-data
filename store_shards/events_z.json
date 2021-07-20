@@ -892,6 +892,11 @@
           "created_time": "2021-07-17T11:19:06.000Z",
           "retweet_count": 1,
           "favorite_count": 0
+        },
+        "https://twitter.com/cnida11/status/1417472349394198531": {
+          "created_time": "2021-07-20T13:11:58.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
         }
       },
       "metadata": {
