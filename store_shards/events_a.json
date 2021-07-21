@@ -1118,6 +1118,11 @@
         },
         "https://twitter.com/ActionAidThai/status/1417824931686096904": {
           "created_time": "2021-07-21T12:33:00.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/todayinoteto/status/1417840689988005904": {
+          "created_time": "2021-07-21T13:35:37.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
