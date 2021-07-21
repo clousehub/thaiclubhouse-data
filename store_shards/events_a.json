@@ -1090,6 +1090,11 @@
           "created_time": "2021-07-19T10:45:12.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/MrSantruay/status/1417678153305137157": {
+          "created_time": "2021-07-21T02:49:45.000Z",
+          "retweet_count": 10,
+          "favorite_count": 5
         }
       },
       "metadata": {
