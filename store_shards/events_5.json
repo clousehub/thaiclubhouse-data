@@ -391,6 +391,11 @@
           "created_time": "2021-07-23T08:24:36.000Z",
           "retweet_count": 3,
           "favorite_count": 4
+        },
+        "https://twitter.com/ActiveTha/status/1418523970077282311": {
+          "created_time": "2021-07-23T10:50:44.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {
