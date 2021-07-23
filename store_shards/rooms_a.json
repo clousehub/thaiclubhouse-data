@@ -1109,6 +1109,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "MEKGGZQA": {
+      "sources": {
+        "https://twitter.com/ratthatun/status/1418506711699124232": {
+          "created_time": "2021-07-23T09:42:09.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
