@@ -1136,7 +1136,7 @@
         "https://twitter.com/hoksingha/status/1418815087222034432": {
           "created_time": "2021-07-24T06:07:31.000Z",
           "retweet_count": 1,
-          "favorite_count": 3
+          "favorite_count": 2
         },
         "https://twitter.com/OldMan_b1/status/1418814820850221056": {
           "created_time": "2021-07-24T06:06:28.000Z",
@@ -1180,13 +1180,13 @@
         },
         "https://twitter.com/PPRP_Unofficial/status/1418827663112822789": {
           "created_time": "2021-07-24T06:57:30.000Z",
-          "retweet_count": 10,
+          "retweet_count": 11,
           "favorite_count": 5
         },
         "https://twitter.com/PPRP_Unofficial/status/1418827326494846981": {
           "created_time": "2021-07-24T06:56:09.000Z",
-          "retweet_count": 36,
-          "favorite_count": 9
+          "retweet_count": 54,
+          "favorite_count": 10
         },
         "https://twitter.com/OldMan_b1/status/1418826923413807107": {
           "created_time": "2021-07-24T06:54:33.000Z",
@@ -1210,8 +1210,8 @@
         },
         "https://twitter.com/OldMan_b1/status/1418835336919228428": {
           "created_time": "2021-07-24T07:27:59.000Z",
-          "retweet_count": 30,
-          "favorite_count": 8
+          "retweet_count": 31,
+          "favorite_count": 9
         },
         "https://twitter.com/OldMan_b1/status/1418836957690486789": {
           "created_time": "2021-07-24T07:34:26.000Z",
@@ -1225,12 +1225,12 @@
         },
         "https://twitter.com/OldMan_b1/status/1418837944543109120": {
           "created_time": "2021-07-24T07:38:21.000Z",
-          "retweet_count": 9,
-          "favorite_count": 6
+          "retweet_count": 10,
+          "favorite_count": 7
         },
         "https://twitter.com/Nhamwhan_13/status/1418840308452843523": {
           "created_time": "2021-07-24T07:47:44.000Z",
-          "retweet_count": 4,
+          "retweet_count": 5,
           "favorite_count": 5
         },
         "https://twitter.com/ssbbam/status/1418841733148913670": {
@@ -1240,8 +1240,28 @@
         },
         "https://twitter.com/OldMan_b1/status/1418844492585742345": {
           "created_time": "2021-07-24T08:04:22.000Z",
-          "retweet_count": 18,
-          "favorite_count": 8
+          "retweet_count": 32,
+          "favorite_count": 10
+        },
+        "https://twitter.com/OldMan_b1/status/1418849448294293505": {
+          "created_time": "2021-07-24T08:24:04.000Z",
+          "retweet_count": 4,
+          "favorite_count": 2
+        },
+        "https://twitter.com/OldMan_b1/status/1418851111876939781": {
+          "created_time": "2021-07-24T08:30:40.000Z",
+          "retweet_count": 5,
+          "favorite_count": 4
+        },
+        "https://twitter.com/OldMan_b1/status/1418853690212028418": {
+          "created_time": "2021-07-24T08:40:55.000Z",
+          "retweet_count": 56,
+          "favorite_count": 16
+        },
+        "https://twitter.com/OldMan_b1/status/1418856842701193220": {
+          "created_time": "2021-07-24T08:53:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 5
         }
       }
     }
