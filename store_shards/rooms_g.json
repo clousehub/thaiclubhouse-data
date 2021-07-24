@@ -974,6 +974,30 @@
           "favorite_count": 20
         }
       }
+    },
+    "Pv65YkzG": {
+      "sources": {
+        "https://twitter.com/InterviewHer/status/1418815254746652673": {
+          "created_time": "2021-07-24T06:08:11.000Z",
+          "retweet_count": 1,
+          "favorite_count": 5
+        },
+        "https://twitter.com/PTwatchainunt/status/1418818172401106948": {
+          "created_time": "2021-07-24T06:19:47.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/InterviewHer/status/1418821368628465665": {
+          "created_time": "2021-07-24T06:32:29.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/InterviewHer/status/1418824976895934465": {
+          "created_time": "2021-07-24T06:46:49.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
