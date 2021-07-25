@@ -1202,6 +1202,65 @@
           "favorite_count": 0
         }
       }
+    },
+    "mavA7vkq": {
+      "sources": {
+        "https://twitter.com/prdemocracy/status/1419232929406865408": {
+          "created_time": "2021-07-25T09:47:53.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/prdemocracy/status/1419234487125176327": {
+          "created_time": "2021-07-25T09:54:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419234445161209856": {
+          "created_time": "2021-07-25T09:53:54.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419234404807761924": {
+          "created_time": "2021-07-25T09:53:44.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/prdemocracy/status/1419234097008824326": {
+          "created_time": "2021-07-25T09:52:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419233912287469572": {
+          "created_time": "2021-07-25T09:51:47.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419233860500393986": {
+          "created_time": "2021-07-25T09:51:35.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419233795673268224": {
+          "created_time": "2021-07-25T09:51:19.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419233406093709316": {
+          "created_time": "2021-07-25T09:49:46.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419233343946719238": {
+          "created_time": "2021-07-25T09:49:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419234531148660744": {
+          "created_time": "2021-07-25T09:54:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
