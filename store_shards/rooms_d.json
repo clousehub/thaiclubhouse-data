@@ -1227,6 +1227,80 @@
           "favorite_count": 0
         }
       }
+    },
+    "xXDZ8Knd": {
+      "sources": {
+        "https://twitter.com/prdemocracy/status/1419165826020569094": {
+          "created_time": "2021-07-25T05:21:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419165417893810176": {
+          "created_time": "2021-07-25T05:19:37.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419165242970361863": {
+          "created_time": "2021-07-25T05:18:55.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419167944529965057": {
+          "created_time": "2021-07-25T05:29:39.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419167494825074688": {
+          "created_time": "2021-07-25T05:27:52.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419166785115328516": {
+          "created_time": "2021-07-25T05:25:03.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419169476688285696": {
+          "created_time": "2021-07-25T05:35:44.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419169189353328644": {
+          "created_time": "2021-07-25T05:34:36.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419168641375817734": {
+          "created_time": "2021-07-25T05:32:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419168370226720774": {
+          "created_time": "2021-07-25T05:31:20.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419170722522431499": {
+          "created_time": "2021-07-25T05:40:41.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/prdemocracy/status/1419170586270461955": {
+          "created_time": "2021-07-25T05:40:09.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1419169776031596549": {
+          "created_time": "2021-07-25T05:36:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/prdemocracy/status/1419171257925332992": {
+          "created_time": "2021-07-25T05:42:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
