@@ -925,6 +925,25 @@
           "favorite_count": 1
         }
       }
+    },
+    "xpon0DAj": {
+      "sources": {
+        "https://twitter.com/hoksingha/status/1419629338677235716": {
+          "created_time": "2021-07-26T12:03:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Nacchii_AKR/status/1419631020920360962": {
+          "created_time": "2021-07-26T12:09:45.000Z",
+          "retweet_count": 6,
+          "favorite_count": 7
+        },
+        "https://twitter.com/nomoneybutdebt/status/1419637068276264961": {
+          "created_time": "2021-07-26T12:33:47.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
