@@ -1319,6 +1319,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "Pv8LYnWD": {
+      "sources": {
+        "https://twitter.com/prdemocracy/status/1420370701786042379": {
+          "created_time": "2021-07-28T13:08:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/prdemocracy/status/1420370325141737475": {
+          "created_time": "2021-07-28T13:07:29.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
