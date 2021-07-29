@@ -1171,6 +1171,16 @@
           "created_time": "2021-07-29T09:09:02.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        },
+        "https://twitter.com/OldMan_b1/status/1420685987701694466": {
+          "created_time": "2021-07-29T10:01:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1420687953202876417": {
+          "created_time": "2021-07-29T10:09:37.000Z",
+          "retweet_count": 0,
+          "favorite_count": 14
         }
       }
     }
