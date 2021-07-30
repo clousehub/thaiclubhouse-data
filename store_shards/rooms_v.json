@@ -1621,6 +1621,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PGReWbpV": {
+      "sources": {
+        "https://twitter.com/InterviewHer/status/1421087828671270916": {
+          "created_time": "2021-07-30T12:38:35.000Z",
+          "retweet_count": 1,
+          "favorite_count": 12
+        },
+        "https://twitter.com/ActiveTha/status/1421089097213382662": {
+          "created_time": "2021-07-30T12:43:37.000Z",
+          "retweet_count": 6,
+          "favorite_count": 4
+        }
+      }
     }
   }
 }
