@@ -1470,6 +1470,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "xjk5Zw6o": {
+      "sources": {
+        "https://twitter.com/OldMan_b1/status/1421486544439767040": {
+          "created_time": "2021-07-31T15:02:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1421488053881769992": {
+          "created_time": "2021-07-31T15:08:56.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
