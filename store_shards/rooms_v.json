@@ -1632,7 +1632,7 @@
         "https://twitter.com/ActiveTha/status/1421089097213382662": {
           "created_time": "2021-07-30T12:43:37.000Z",
           "retweet_count": 7,
-          "favorite_count": 7
+          "favorite_count": 8
         }
       }
     },
@@ -1654,13 +1654,13 @@
       "sources": {
         "https://twitter.com/hoksingha/status/1421275540195987462": {
           "created_time": "2021-07-31T01:04:29.000Z",
-          "retweet_count": 3,
-          "favorite_count": 5
+          "retweet_count": 4,
+          "favorite_count": 6
         },
         "https://twitter.com/Pink_Siripipat/status/1421281845543510021": {
           "created_time": "2021-07-31T01:29:32.000Z",
           "retweet_count": 5,
-          "favorite_count": 3
+          "favorite_count": 8
         }
       }
     }
