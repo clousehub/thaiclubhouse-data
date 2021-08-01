@@ -1381,6 +1381,11 @@
           "created_time": "2021-08-01T04:56:16.000Z",
           "retweet_count": 2,
           "favorite_count": 2
+        },
+        "https://twitter.com/NearMelL_1989/status/1421716936509952000": {
+          "created_time": "2021-08-01T06:18:26.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }
