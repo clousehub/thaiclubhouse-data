@@ -1044,6 +1044,40 @@
           "favorite_count": 3
         }
       }
+    },
+    "MdQZZD7G": {
+      "sources": {
+        "https://twitter.com/OldMan_b1/status/1421692507541282816": {
+          "created_time": "2021-08-01T04:41:22.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1421692733144506368": {
+          "created_time": "2021-08-01T04:42:16.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        },
+        "https://twitter.com/OldMan_b1/status/1421697116754219016": {
+          "created_time": "2021-08-01T04:59:41.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1421696942891966464": {
+          "created_time": "2021-08-01T04:58:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1421696473469636610": {
+          "created_time": "2021-08-01T04:57:07.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/OldMan_b1/status/1421696131029864449": {
+          "created_time": "2021-08-01T04:55:46.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
