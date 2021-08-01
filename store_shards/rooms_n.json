@@ -1133,6 +1133,15 @@
           "favorite_count": 42
         }
       }
+    },
+    "my9pJgln": {
+      "sources": {
+        "https://twitter.com/OldMan_b1/status/1421678968449638402": {
+          "created_time": "2021-08-01T03:47:34.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
