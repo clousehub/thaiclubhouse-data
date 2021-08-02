@@ -1233,13 +1233,43 @@
       "sources": {
         "https://twitter.com/OldMan_b1/status/1422195472656080905": {
           "created_time": "2021-08-02T13:59:58.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 2,
+          "favorite_count": 6
         },
         "https://twitter.com/ssviajera/status/1422195268632514575": {
           "created_time": "2021-08-02T13:59:09.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        },
+        "https://twitter.com/realdaniyan/status/1422196507575394311": {
+          "created_time": "2021-08-02T14:04:05.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/PruuPmunLaew/status/1422196736915738625": {
+          "created_time": "2021-08-02T14:04:59.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1422199914692444164": {
+          "created_time": "2021-08-02T14:17:37.000Z",
+          "retweet_count": 6,
+          "favorite_count": 6
+        },
+        "https://twitter.com/ivaderlll/status/1422204242891141120": {
+          "created_time": "2021-08-02T14:34:49.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1422211807565860866": {
+          "created_time": "2021-08-02T15:04:52.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1422211674832998405": {
+          "created_time": "2021-08-02T15:04:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
