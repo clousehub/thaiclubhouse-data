@@ -1219,6 +1219,29 @@
           "favorite_count": 1
         }
       }
+    },
+    "MzYQNXRa": {
+      "sources": {
+        "https://twitter.com/sosweetsally/status/1422174358093524994": {
+          "created_time": "2021-08-02T12:36:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        }
+      }
+    },
+    "MR2ka7Za": {
+      "sources": {
+        "https://twitter.com/OldMan_b1/status/1422195472656080905": {
+          "created_time": "2021-08-02T13:59:58.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/ssviajera/status/1422195268632514575": {
+          "created_time": "2021-08-02T13:59:09.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }

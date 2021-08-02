@@ -894,6 +894,31 @@
       },
       "metadataUpdated": "2021-07-17T02:24:11.465Z",
       "date": "2021-07-17T11:15:00.000+07:00"
+    },
+    "PNoaYjZR": {
+      "sources": {
+        "https://twitter.com/OldMan_b1/status/1422179562553630721": {
+          "created_time": "2021-08-02T12:56:45.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        },
+        "https://twitter.com/pidchym/status/1422184503200546823": {
+          "created_time": "2021-08-02T13:16:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/pidchym/status/1422186259703758850": {
+          "created_time": "2021-08-02T13:23:21.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
+        }
+      },
+      "metadata": {
+        "description": "Monday, August 2 at 9:00pm +07 with Thanathorn J., Surachet Pravinvongvuth, Wayo Assawarungruang, Jirat Thongsuwan, PITA MFP, Wanvipa Mfp, Sirikanya Tansakun. เชิญชวนทุกท่าน มาร่วมพูดคุยกับ ส.ส. พรรคก้าวไกล คณะกรรมาธิการวิสามัญพิจารณาร่างพระราชบัญญัติงบประมาณรายจ่ายประจำปี 65",
+        "title": "ตีแผ่งบ′ 65 ภาษีประชาชนไปไหนหมด?"
+      },
+      "metadataUpdated": "2021-08-02T13:00:16.000Z",
+      "date": "2021-08-02T21:00:00.000+07:00"
     }
   }
 }
