@@ -1383,6 +1383,11 @@
           "created_time": "2021-08-03T13:51:03.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/KpSugus/status/1422564270722613249": {
+          "created_time": "2021-08-03T14:25:26.000Z",
+          "retweet_count": 15,
+          "favorite_count": 7
         }
       }
     }

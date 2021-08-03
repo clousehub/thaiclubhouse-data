@@ -1325,6 +1325,15 @@
           "favorite_count": 2
         }
       }
+    },
+    "PNRE3JWK": {
+      "sources": {
+        "https://twitter.com/enter_2_me/status/1422560822962753538": {
+          "created_time": "2021-08-03T14:11:44.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
