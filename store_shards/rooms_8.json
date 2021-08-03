@@ -892,12 +892,27 @@
         "https://twitter.com/nndolphi/status/1422638035036901383": {
           "created_time": "2021-08-03T19:18:33.000Z",
           "retweet_count": 3,
-          "favorite_count": 2
+          "favorite_count": 1
         },
         "https://twitter.com/bandsalim02/status/1422639781419229187": {
           "created_time": "2021-08-03T19:25:29.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/TaehyungBT24/status/1422643346900590593": {
+          "created_time": "2021-08-03T19:39:39.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/DerzyWarrior/status/1422643045640531974": {
+          "created_time": "2021-08-03T19:38:28.000Z",
+          "retweet_count": 12,
+          "favorite_count": 5
+        },
+        "https://twitter.com/onlyoil2721BW/status/1422645658691903492": {
+          "created_time": "2021-08-03T19:48:51.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       }
     }
