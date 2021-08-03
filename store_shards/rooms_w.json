@@ -1437,12 +1437,17 @@
         "https://twitter.com/salmOrn_glasses/status/1422606771831541762": {
           "created_time": "2021-08-03T17:14:19.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/PHUCHITO/status/1422607793375248387": {
           "created_time": "2021-08-03T17:18:23.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/PHUCHITO/status/1422612077185617922": {
+          "created_time": "2021-08-03T17:35:24.000Z",
+          "retweet_count": 4,
+          "favorite_count": 1
         }
       }
     }
