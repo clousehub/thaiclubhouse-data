@@ -1413,6 +1413,36 @@
           "created_time": "2021-08-03T16:13:43.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/PHUCHITO/status/1422592963524259844": {
+          "created_time": "2021-08-03T16:19:27.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        },
+        "https://twitter.com/chavkorn/status/1422595190615805955": {
+          "created_time": "2021-08-03T16:28:18.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/busabap/status/1422594736620138497": {
+          "created_time": "2021-08-03T16:26:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/dimxjjp/status/1422605098706870273": {
+          "created_time": "2021-08-03T17:07:40.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/salmOrn_glasses/status/1422606771831541762": {
+          "created_time": "2021-08-03T17:14:19.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/PHUCHITO/status/1422607793375248387": {
+          "created_time": "2021-08-03T17:18:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
