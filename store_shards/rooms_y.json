@@ -1502,6 +1502,31 @@
           "created_time": "2021-08-03T18:26:44.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        },
+        "https://twitter.com/ChaMeCYJAYBAM/status/1422635659789955072": {
+          "created_time": "2021-08-03T19:09:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mindchat000/status/1422638453775241216": {
+          "created_time": "2021-08-03T19:20:13.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/hoksingha/status/1422640554429407237": {
+          "created_time": "2021-08-03T19:28:34.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Tonoiiz/status/1422640039079473152": {
+          "created_time": "2021-08-03T19:26:31.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/PpMiyo/status/1422642207652159489": {
+          "created_time": "2021-08-03T19:35:08.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }

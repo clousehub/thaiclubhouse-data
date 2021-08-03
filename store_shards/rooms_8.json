@@ -876,6 +876,30 @@
           "favorite_count": 0
         }
       }
+    },
+    "PQbj6jq8": {
+      "sources": {
+        "https://twitter.com/bandsalim02/status/1422634573955956736": {
+          "created_time": "2021-08-03T19:04:48.000Z",
+          "retweet_count": 4,
+          "favorite_count": 0
+        },
+        "https://twitter.com/bandsalim02/status/1422635972638871554": {
+          "created_time": "2021-08-03T19:10:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nndolphi/status/1422638035036901383": {
+          "created_time": "2021-08-03T19:18:33.000Z",
+          "retweet_count": 3,
+          "favorite_count": 2
+        },
+        "https://twitter.com/bandsalim02/status/1422639781419229187": {
+          "created_time": "2021-08-03T19:25:29.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
