@@ -1877,6 +1877,11 @@
           "created_time": "2021-08-04T16:41:09.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/RnPediatric/status/1422977709353754630": {
+          "created_time": "2021-08-04T17:48:18.000Z",
+          "retweet_count": 1,
+          "favorite_count": 4
         }
       }
     }

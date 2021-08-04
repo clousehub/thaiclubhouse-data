@@ -452,12 +452,17 @@
       "sources": {
         "https://twitter.com/PPRP_Unofficial/status/1422969039710654467": {
           "created_time": "2021-08-04T17:13:51.000Z",
-          "retweet_count": 11,
-          "favorite_count": 6
+          "retweet_count": 12,
+          "favorite_count": 8
         },
         "https://twitter.com/radrankaree/status/1422968791386902535": {
           "created_time": "2021-08-04T17:12:52.000Z",
           "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/fortune53m/status/1422987370224185352": {
+          "created_time": "2021-08-04T18:26:41.000Z",
+          "retweet_count": 3,
           "favorite_count": 1
         }
       }
