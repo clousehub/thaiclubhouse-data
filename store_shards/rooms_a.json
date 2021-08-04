@@ -1301,6 +1301,20 @@
           "favorite_count": 4
         }
       }
+    },
+    "mZ1y5wnA": {
+      "sources": {
+        "https://twitter.com/iseayoun/status/1422900966240645125": {
+          "created_time": "2021-08-04T12:43:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/iseayoun/status/1422902493638397953": {
+          "created_time": "2021-08-04T12:49:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
