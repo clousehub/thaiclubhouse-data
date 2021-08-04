@@ -1508,8 +1508,8 @@
         },
         "https://twitter.com/PheuThaiParty/status/1422921684391129090": {
           "created_time": "2021-08-04T14:05:40.000Z",
-          "retweet_count": 29,
-          "favorite_count": 18
+          "retweet_count": 47,
+          "favorite_count": 39
         },
         "https://twitter.com/realdaniyan/status/1422921530980192257": {
           "created_time": "2021-08-04T14:05:04.000Z",
@@ -1528,13 +1528,63 @@
         },
         "https://twitter.com/MissEEE11/status/1422922580449796097": {
           "created_time": "2021-08-04T14:09:14.000Z",
-          "retweet_count": 4,
-          "favorite_count": 1
+          "retweet_count": 8,
+          "favorite_count": 2
         },
         "https://twitter.com/nomoneybutdebt/status/1422924190965927945": {
           "created_time": "2021-08-04T14:15:38.000Z",
+          "retweet_count": 4,
+          "favorite_count": 2
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422925269245956099": {
+          "created_time": "2021-08-04T14:19:55.000Z",
+          "retweet_count": 9,
+          "favorite_count": 3
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422927519813042188": {
+          "created_time": "2021-08-04T14:28:52.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/DerzyWarrior/status/1422927393870602244": {
+          "created_time": "2021-08-04T14:28:22.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422926528673771523": {
+          "created_time": "2021-08-04T14:24:55.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422928388260458496": {
+          "created_time": "2021-08-04T14:32:19.000Z",
+          "retweet_count": 4,
+          "favorite_count": 2
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422928311202635778": {
+          "created_time": "2021-08-04T14:32:00.000Z",
           "retweet_count": 3,
           "favorite_count": 1
+        },
+        "https://twitter.com/ChatoMildNezz/status/1422928106990432259": {
+          "created_time": "2021-08-04T14:31:12.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422929319102320640": {
+          "created_time": "2021-08-04T14:36:01.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422937818569973768": {
+          "created_time": "2021-08-04T15:09:47.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422937092984774657": {
+          "created_time": "2021-08-04T15:06:54.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       }
     }

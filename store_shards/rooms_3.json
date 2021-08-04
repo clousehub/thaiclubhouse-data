@@ -715,6 +715,11 @@
           "created_time": "2021-08-04T13:30:54.000Z",
           "retweet_count": 4,
           "favorite_count": 4
+        },
+        "https://twitter.com/DrSuwadee/status/1422939502486573060": {
+          "created_time": "2021-08-04T15:16:28.000Z",
+          "retweet_count": 2,
+          "favorite_count": 6
         }
       }
     }
