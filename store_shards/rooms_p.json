@@ -1585,6 +1585,61 @@
           "created_time": "2021-08-04T15:06:54.000Z",
           "retweet_count": 0,
           "favorite_count": 2
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422941890916151297": {
+          "created_time": "2021-08-04T15:25:58.000Z",
+          "retweet_count": 3,
+          "favorite_count": 4
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422945314500222977": {
+          "created_time": "2021-08-04T15:39:34.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/salmOrn_glasses/status/1422949537883193346": {
+          "created_time": "2021-08-04T15:56:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422949157086457856": {
+          "created_time": "2021-08-04T15:54:50.000Z",
+          "retweet_count": 0,
+          "favorite_count": 5
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422948782304481283": {
+          "created_time": "2021-08-04T15:53:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/whyywertgi/status/1422951328012062720": {
+          "created_time": "2021-08-04T16:03:28.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422953052344963072": {
+          "created_time": "2021-08-04T16:10:19.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422952135663124488": {
+          "created_time": "2021-08-04T16:06:40.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422951917404135425": {
+          "created_time": "2021-08-04T16:05:48.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/maplewood_t/status/1422954110710534145": {
+          "created_time": "2021-08-04T16:14:31.000Z",
+          "retweet_count": 1,
+          "favorite_count": 7
+        },
+        "https://twitter.com/nomoneybutdebt/status/1422954055874215941": {
+          "created_time": "2021-08-04T16:14:18.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
         }
       }
     }
