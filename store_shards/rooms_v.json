@@ -1945,6 +1945,11 @@
           "created_time": "2021-08-05T16:00:41.000Z",
           "retweet_count": 1,
           "favorite_count": 2
+        },
+        "https://twitter.com/keakni/status/1423338668589158400": {
+          "created_time": "2021-08-05T17:42:37.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
