@@ -1900,7 +1900,7 @@
         "https://twitter.com/ichbinliberty/status/1423236655738101767": {
           "created_time": "2021-08-05T10:57:15.000Z",
           "retweet_count": 1,
-          "favorite_count": 1
+          "favorite_count": 2
         },
         "https://twitter.com/newman1190/status/1423236486955102209": {
           "created_time": "2021-08-05T10:56:35.000Z",
@@ -1914,8 +1914,28 @@
         },
         "https://twitter.com/loongkken/status/1423238423159001088": {
           "created_time": "2021-08-05T11:04:17.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/112Dior/status/1423240329474363396": {
+          "created_time": "2021-08-05T11:11:51.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/totoronottotoro/status/1423239972287483909": {
+          "created_time": "2021-08-05T11:10:26.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/hoksingha/status/1423239069656522757": {
+          "created_time": "2021-08-05T11:06:51.000Z",
+          "retweet_count": 3,
+          "favorite_count": 3
+        },
+        "https://twitter.com/Plakantana/status/1423242065463242757": {
+          "created_time": "2021-08-05T11:18:45.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
