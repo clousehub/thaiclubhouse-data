@@ -1952,6 +1952,25 @@
           "favorite_count": 1
         }
       }
+    },
+    "Pbv0YeQV": {
+      "sources": {
+        "https://twitter.com/Mimew11/status/1423640284701741060": {
+          "created_time": "2021-08-06T13:41:08.000Z",
+          "retweet_count": 57,
+          "favorite_count": 4
+        },
+        "https://twitter.com/HGm3uyrTG8bKiu/status/1423641162980610051": {
+          "created_time": "2021-08-06T13:44:37.000Z",
+          "retweet_count": 3,
+          "favorite_count": 4
+        },
+        "https://twitter.com/favsaturday/status/1423650319443972097": {
+          "created_time": "2021-08-06T14:21:00.000Z",
+          "retweet_count": 18,
+          "favorite_count": 11
+        }
+      }
     }
   }
 }
