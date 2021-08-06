@@ -762,6 +762,11 @@
           "created_time": "2021-08-06T13:45:34.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        },
+        "https://twitter.com/chxrpie/status/1423660133305905153": {
+          "created_time": "2021-08-06T15:00:00.000Z",
+          "retweet_count": 26,
+          "favorite_count": 18
         }
       }
     }
