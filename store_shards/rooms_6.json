@@ -838,6 +838,24 @@
           "favorite_count": 6
         }
       }
+    },
+    "xBln4jX6": {
+      "sources": {
+        "https://twitter.com/Shiro_Kunx/status/1423691427926593540": {
+          "created_time": "2021-08-06T17:04:21.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
+    },
+    "xov4Gnk6": {
+      "sources": {
+        "https://twitter.com/charryyahh/status/1423693631362256900": {
+          "created_time": "2021-08-06T17:13:07.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
