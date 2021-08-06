@@ -532,13 +532,13 @@
       "sources": {
         "https://twitter.com/nuufonprachatai/status/1423496851274100736": {
           "created_time": "2021-08-06T04:11:11.000Z",
-          "retweet_count": 7,
-          "favorite_count": 5
+          "retweet_count": 10,
+          "favorite_count": 6
         },
         "https://twitter.com/nuufonprachatai/status/1423585506885980160": {
           "created_time": "2021-08-06T10:03:28.000Z",
-          "retweet_count": 0,
-          "favorite_count": 2
+          "retweet_count": 1,
+          "favorite_count": 3
         }
       },
       "metadata": {
