@@ -1352,6 +1352,30 @@
           "favorite_count": 0
         }
       }
+    },
+    "xoXEDLYK": {
+      "sources": {
+        "https://twitter.com/wingdixxxx/status/1423628147065450501": {
+          "created_time": "2021-08-06T12:52:54.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        },
+        "https://twitter.com/NearMelL_1989/status/1423630736448397312": {
+          "created_time": "2021-08-06T13:03:12.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/heartthrob_jk/status/1423633678526152713": {
+          "created_time": "2021-08-06T13:14:53.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/yukyui/status/1423633334383439872": {
+          "created_time": "2021-08-06T13:13:31.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
