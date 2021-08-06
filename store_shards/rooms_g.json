@@ -1288,6 +1288,16 @@
         },
         "https://twitter.com/FREED0MnotFree/status/1423729888612081667": {
           "created_time": "2021-08-06T19:37:11.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/hipremwa/status/1423739817490190337": {
+          "created_time": "2021-08-06T20:16:38.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/wxmrc/status/1423742843630219268": {
+          "created_time": "2021-08-06T20:28:40.000Z",
           "retweet_count": 0,
           "favorite_count": 1
         }
