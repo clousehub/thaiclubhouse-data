@@ -1467,6 +1467,11 @@
       "sources": {
         "https://twitter.com/club112minute/status/1424196838857404419": {
           "created_time": "2021-08-08T02:32:41.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/a0mzZ/status/1424202714171404294": {
+          "created_time": "2021-08-08T02:56:02.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
