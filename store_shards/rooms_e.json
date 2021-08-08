@@ -1557,6 +1557,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "mZ08Aele": {
+      "sources": {
+        "https://twitter.com/taopiphop/status/1424352922272366596": {
+          "created_time": "2021-08-08T12:52:54.000Z",
+          "retweet_count": 9,
+          "favorite_count": 6
+        }
+      }
+    },
+    "xLl8YVRe": {
+      "sources": {
+        "https://twitter.com/Madam_jaa/status/1424354095071055872": {
+          "created_time": "2021-08-08T12:57:34.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
