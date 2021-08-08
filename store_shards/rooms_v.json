@@ -2006,6 +2006,11 @@
           "created_time": "2021-08-08T13:18:49.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/ExSSshipper/status/1424373145260105731": {
+          "created_time": "2021-08-08T14:13:16.000Z",
+          "retweet_count": 1,
+          "favorite_count": 3
         }
       }
     }

@@ -973,6 +973,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "mZJjkgJ8": {
+      "sources": {
+        "https://twitter.com/NadingNarak/status/1424373028553596932": {
+          "created_time": "2021-08-08T14:12:48.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/OldMan_b1/status/1424380717572653060": {
+          "created_time": "2021-08-08T14:43:21.000Z",
+          "retweet_count": 1,
+          "favorite_count": 5
+        }
+      }
     }
   }
 }
