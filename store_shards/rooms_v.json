@@ -2033,8 +2033,13 @@
         },
         "https://twitter.com/ExSSshipper/status/1424717189932744711": {
           "created_time": "2021-08-09T13:00:22.000Z",
-          "retweet_count": 5,
+          "retweet_count": 8,
           "favorite_count": 2
+        },
+        "https://twitter.com/anannannnt/status/1424736312020541447": {
+          "created_time": "2021-08-09T14:16:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
