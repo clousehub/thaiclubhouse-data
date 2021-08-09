@@ -986,13 +986,13 @@
       "sources": {
         "https://twitter.com/R_artisty/status/1424700893396566016": {
           "created_time": "2021-08-09T11:55:37.000Z",
-          "retweet_count": 34,
-          "favorite_count": 27
+          "retweet_count": 54,
+          "favorite_count": 32
         },
         "https://twitter.com/Chaithawat_MFP/status/1424703419835580417": {
           "created_time": "2021-08-09T12:05:39.000Z",
-          "retweet_count": 96,
-          "favorite_count": 53
+          "retweet_count": 99,
+          "favorite_count": 54
         },
         "https://twitter.com/N_mikyo/status/1424704033160273925": {
           "created_time": "2021-08-09T12:08:05.000Z",
@@ -1001,13 +1001,13 @@
         },
         "https://twitter.com/Suttawan_MFP/status/1424705850497650691": {
           "created_time": "2021-08-09T12:15:19.000Z",
-          "retweet_count": 125,
-          "favorite_count": 64
+          "retweet_count": 135,
+          "favorite_count": 69
         },
         "https://twitter.com/PPRP_Unofficial/status/1424743376901992459": {
           "created_time": "2021-08-09T14:44:26.000Z",
-          "retweet_count": 22,
-          "favorite_count": 17
+          "retweet_count": 25,
+          "favorite_count": 19
         }
       },
       "metadata": {
@@ -1021,7 +1021,7 @@
       "sources": {
         "https://twitter.com/PPRP_Unofficial/status/1424750740996706309": {
           "created_time": "2021-08-09T15:13:41.000Z",
-          "retweet_count": 7,
+          "retweet_count": 8,
           "favorite_count": 5
         }
       },

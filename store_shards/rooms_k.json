@@ -1491,6 +1491,25 @@
           "created_time": "2021-08-09T15:54:42.000Z",
           "retweet_count": 2,
           "favorite_count": 1
+        },
+        "https://twitter.com/nomoneybutdebt/status/1424763958318141443": {
+          "created_time": "2021-08-09T16:06:13.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nomoneybutdebt/status/1424771839625027590": {
+          "created_time": "2021-08-09T16:37:32.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        }
+      }
+    },
+    "PGlqVyQk": {
+      "sources": {
+        "https://twitter.com/jeonxda/status/1424779687012696066": {
+          "created_time": "2021-08-09T17:08:43.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
