@@ -1372,6 +1372,11 @@
           "created_time": "2021-08-10T13:55:22.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/heartthrob_jk/status/1425101316410462218": {
+          "created_time": "2021-08-10T14:26:45.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
