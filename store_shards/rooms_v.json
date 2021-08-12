@@ -2097,8 +2097,17 @@
       "sources": {
         "https://twitter.com/OldMan_b1/status/1425787001740005378": {
           "created_time": "2021-08-12T11:51:25.000Z",
+          "retweet_count": 4,
+          "favorite_count": 7
+        }
+      }
+    },
+    "MwEVk6ev": {
+      "sources": {
+        "https://twitter.com/FiristaAchive/status/1425820979406594050": {
+          "created_time": "2021-08-12T14:06:26.000Z",
           "retweet_count": 3,
-          "favorite_count": 5
+          "favorite_count": 0
         }
       }
     }

@@ -1308,8 +1308,18 @@
       "sources": {
         "https://twitter.com/todayinoteto/status/1425505062302846983": {
           "created_time": "2021-08-11T17:11:06.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/todayinoteto/status/1425812310275231748": {
+          "created_time": "2021-08-12T13:31:59.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/todayinoteto/status/1425815942387232786": {
+          "created_time": "2021-08-12T13:46:25.000Z",
+          "retweet_count": 14,
+          "favorite_count": 29
         }
       },
       "metadata": {
