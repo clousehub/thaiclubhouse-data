@@ -1446,6 +1446,15 @@
           "favorite_count": 2
         }
       }
+    },
+    "myb2dqda": {
+      "sources": {
+        "https://twitter.com/Pink_Siripipat/status/1425636676311818240": {
+          "created_time": "2021-08-12T01:54:05.000Z",
+          "retweet_count": 3,
+          "favorite_count": 11
+        }
+      }
     }
   }
 }
