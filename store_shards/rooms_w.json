@@ -1545,8 +1545,8 @@
         },
         "https://twitter.com/prdemocracy/status/1425818763077701645": {
           "created_time": "2021-08-12T13:57:38.000Z",
-          "retweet_count": 2,
-          "favorite_count": 2
+          "retweet_count": 6,
+          "favorite_count": 6
         },
         "https://twitter.com/prdemocracy/status/1425820748506046474": {
           "created_time": "2021-08-12T14:05:31.000Z",
@@ -1556,7 +1556,7 @@
         "https://twitter.com/heartthrob_jk/status/1425822844361920524": {
           "created_time": "2021-08-12T14:13:51.000Z",
           "retweet_count": 0,
-          "favorite_count": 1
+          "favorite_count": 2
         },
         "https://twitter.com/prdemocracy/status/1425822444044972038": {
           "created_time": "2021-08-12T14:12:15.000Z",
@@ -1570,8 +1570,8 @@
         },
         "https://twitter.com/prdemocracy/status/1425824250166874112": {
           "created_time": "2021-08-12T14:19:26.000Z",
-          "retweet_count": 4,
-          "favorite_count": 1
+          "retweet_count": 12,
+          "favorite_count": 6
         }
       }
     }
