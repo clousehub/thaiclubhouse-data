@@ -1707,7 +1707,7 @@
         "https://twitter.com/selfcircled/status/1426513832562724864": {
           "created_time": "2021-08-14T11:59:35.000Z",
           "retweet_count": 8,
-          "favorite_count": 6
+          "favorite_count": 7
         },
         "https://twitter.com/MrSantruay/status/1426516293096669185": {
           "created_time": "2021-08-14T12:09:22.000Z",
@@ -1723,6 +1723,15 @@
           "created_time": "2021-08-14T12:46:13.000Z",
           "retweet_count": 7,
           "favorite_count": 0
+        }
+      }
+    },
+    "PNn7BWRP": {
+      "sources": {
+        "https://twitter.com/bact/status/1426578323887562752": {
+          "created_time": "2021-08-14T16:15:51.000Z",
+          "retweet_count": 4,
+          "favorite_count": 2
         }
       }
     }
