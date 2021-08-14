@@ -1279,6 +1279,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "MKrDWrbx": {
+      "sources": {
+        "https://twitter.com/radrankaree/status/1426425294261391365": {
+          "created_time": "2021-08-14T06:07:46.000Z",
+          "retweet_count": 1,
+          "favorite_count": 6
+        },
+        "https://twitter.com/MrSantruay/status/1426425081710841857": {
+          "created_time": "2021-08-14T06:06:55.000Z",
+          "retweet_count": 6,
+          "favorite_count": 14
+        }
+      }
     }
   }
 }
