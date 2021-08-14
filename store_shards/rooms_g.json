@@ -1334,8 +1334,17 @@
       "sources": {
         "https://twitter.com/Pink_Siripipat/status/1426353659936346113": {
           "created_time": "2021-08-14T01:23:07.000Z",
-          "retweet_count": 6,
-          "favorite_count": 11
+          "retweet_count": 11,
+          "favorite_count": 17
+        }
+      }
+    },
+    "m38XwEQG": {
+      "sources": {
+        "https://twitter.com/kikikitori/status/1426361538626023425": {
+          "created_time": "2021-08-14T01:54:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
