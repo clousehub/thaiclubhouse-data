@@ -938,8 +938,13 @@
       "sources": {
         "https://twitter.com/PotterManiaTH/status/1426850075133702144": {
           "created_time": "2021-08-15T10:15:42.000Z",
-          "retweet_count": 0,
+          "retweet_count": 2,
           "favorite_count": 2
+        },
+        "https://twitter.com/febusapollo/status/1426888080951185413": {
+          "created_time": "2021-08-15T12:46:43.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
         }
       },
       "metadata": {
