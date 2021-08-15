@@ -784,6 +784,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "xnoNYdL3": {
+      "sources": {
+        "https://twitter.com/thymepp/status/1426787176168132613": {
+          "created_time": "2021-08-15T06:05:45.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/leebxx10/status/1426788006497689602": {
+          "created_time": "2021-08-15T06:09:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
