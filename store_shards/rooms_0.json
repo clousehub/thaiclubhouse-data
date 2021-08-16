@@ -416,6 +416,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "M62E12n0": {
+      "sources": {
+        "https://twitter.com/sosweetsally/status/1427215757834739715": {
+          "created_time": "2021-08-16T10:28:47.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/OldMan_b1/status/1427218985246859264": {
+          "created_time": "2021-08-16T10:41:37.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
