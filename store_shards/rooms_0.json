@@ -426,8 +426,13 @@
         },
         "https://twitter.com/OldMan_b1/status/1427218985246859264": {
           "created_time": "2021-08-16T10:41:37.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 3,
+          "favorite_count": 1
+        },
+        "https://twitter.com/OldMan_b1/status/1427221740787167235": {
+          "created_time": "2021-08-16T10:52:34.000Z",
+          "retweet_count": 3,
+          "favorite_count": 3
         }
       }
     }
