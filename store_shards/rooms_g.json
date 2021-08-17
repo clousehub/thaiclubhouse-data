@@ -1352,8 +1352,17 @@
       "sources": {
         "https://twitter.com/bluesherbet_/status/1427617901444440066": {
           "created_time": "2021-08-17T13:06:46.000Z",
-          "retweet_count": 170,
+          "retweet_count": 172,
           "favorite_count": 31
+        }
+      }
+    },
+    "M4rWbWkg": {
+      "sources": {
+        "https://twitter.com/pindaaaaaaaa/status/1427689696696573952": {
+          "created_time": "2021-08-17T17:52:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
