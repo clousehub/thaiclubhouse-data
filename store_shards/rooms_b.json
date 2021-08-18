@@ -1541,6 +1541,16 @@
           "created_time": "2021-08-18T05:14:52.000Z",
           "retweet_count": 1,
           "favorite_count": 2
+        },
+        "https://twitter.com/heartthrob_jk/status/1428006229683568651": {
+          "created_time": "2021-08-18T14:49:50.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/heartthrob_jk/status/1428007643998654464": {
+          "created_time": "2021-08-18T14:55:28.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
