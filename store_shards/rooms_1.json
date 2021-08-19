@@ -746,6 +746,20 @@
           "favorite_count": 3
         }
       }
+    },
+    "xBgAZ351": {
+      "sources": {
+        "https://twitter.com/oombeak/status/1428387717730029577": {
+          "created_time": "2021-08-19T16:05:44.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/hoksingha/status/1428403761932685313": {
+          "created_time": "2021-08-19T17:09:29.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

@@ -1681,6 +1681,60 @@
           "favorite_count": 0
         }
       }
+    },
+    "xo2JLvyy": {
+      "sources": {
+        "https://twitter.com/Bed_bond/status/1428397977970741249": {
+          "created_time": "2021-08-19T16:46:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1428399159715921933": {
+          "created_time": "2021-08-19T16:51:12.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1428400858287403015": {
+          "created_time": "2021-08-19T16:57:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/Bed_bond/status/1428402877240725506": {
+          "created_time": "2021-08-19T17:05:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1428404166397861889": {
+          "created_time": "2021-08-19T17:11:06.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1428405808451125248": {
+          "created_time": "2021-08-19T17:17:37.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1428406439521910784": {
+          "created_time": "2021-08-19T17:20:08.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1428408819667804162": {
+          "created_time": "2021-08-19T17:29:35.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1428407561401688068": {
+          "created_time": "2021-08-19T17:24:35.000Z",
+          "retweet_count": 3,
+          "favorite_count": 2
+        },
+        "https://twitter.com/Bed_bond/status/1428410043980947461": {
+          "created_time": "2021-08-19T17:34:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
