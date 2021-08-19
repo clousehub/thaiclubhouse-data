@@ -739,6 +739,11 @@
           "created_time": "2021-08-19T13:00:39.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/miley25332/status/1428325133114961927": {
+          "created_time": "2021-08-19T11:57:03.000Z",
+          "retweet_count": 4,
+          "favorite_count": 3
         }
       }
     }
