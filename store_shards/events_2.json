@@ -500,8 +500,8 @@
       "sources": {
         "https://twitter.com/bact/status/1428674620727644167": {
           "created_time": "2021-08-20T11:05:47.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       },
       "metadata": {
