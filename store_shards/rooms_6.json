@@ -917,6 +917,11 @@
           "created_time": "2021-08-20T14:57:36.000Z",
           "retweet_count": 9,
           "favorite_count": 12
+        },
+        "https://twitter.com/PATCHADOTNET/status/1428781171903586311": {
+          "created_time": "2021-08-20T18:09:11.000Z",
+          "retweet_count": 5,
+          "favorite_count": 2
         }
       }
     }
