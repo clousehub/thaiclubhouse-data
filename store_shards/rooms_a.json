@@ -1524,6 +1524,20 @@
           "favorite_count": 3
         }
       }
+    },
+    "MzaRW1Da": {
+      "sources": {
+        "https://twitter.com/hoksingha/status/1428702470696423430": {
+          "created_time": "2021-08-20T12:56:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Picky720/status/1428681916962672644": {
+          "created_time": "2021-08-20T11:34:47.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
