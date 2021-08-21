@@ -914,7 +914,12 @@
       "sources": {
         "https://twitter.com/OldMan_b1/status/1429047838848081921": {
           "created_time": "2021-08-21T11:48:49.000Z",
-          "retweet_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 3
+        },
+        "https://twitter.com/MrSantruay/status/1429064126286888962": {
+          "created_time": "2021-08-21T12:53:33.000Z",
+          "retweet_count": 5,
           "favorite_count": 2
         }
       },
