@@ -1293,13 +1293,23 @@
       "sources": {
         "https://twitter.com/Bed_bond/status/1429135300563931142": {
           "created_time": "2021-08-21T17:36:22.000Z",
-          "retweet_count": 7,
-          "favorite_count": 4
+          "retweet_count": 14,
+          "favorite_count": 8
         },
         "https://twitter.com/Bed_bond/status/1429137006341152768": {
           "created_time": "2021-08-21T17:43:09.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/fffffook_rct/status/1429143516140113927": {
+          "created_time": "2021-08-21T18:09:01.000Z",
+          "retweet_count": 4,
+          "favorite_count": 1
+        },
+        "https://twitter.com/LuiziiP/status/1429143149117460487": {
+          "created_time": "2021-08-21T18:07:33.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
         }
       }
     }
