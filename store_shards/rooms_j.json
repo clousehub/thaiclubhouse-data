@@ -1173,6 +1173,11 @@
           "created_time": "2021-08-21T03:25:00.000Z",
           "retweet_count": 0,
           "favorite_count": 2
+        },
+        "https://twitter.com/ThitivasTH/status/1428975529839845379": {
+          "created_time": "2021-08-21T07:01:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
