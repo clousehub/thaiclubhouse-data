@@ -1607,6 +1607,20 @@
           "favorite_count": 2
         }
       }
+    },
+    "xLrG2BYK": {
+      "sources": {
+        "https://twitter.com/yourdueream/status/1429173633323175937": {
+          "created_time": "2021-08-21T20:08:41.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/SUNMI_Sa/status/1429173278480900099": {
+          "created_time": "2021-08-21T20:07:17.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
