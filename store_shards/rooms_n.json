@@ -1288,6 +1288,20 @@
           "favorite_count": 22
         }
       }
+    },
+    "mJXJ7Z8n": {
+      "sources": {
+        "https://twitter.com/Bed_bond/status/1429135300563931142": {
+          "created_time": "2021-08-21T17:36:22.000Z",
+          "retweet_count": 7,
+          "favorite_count": 4
+        },
+        "https://twitter.com/Bed_bond/status/1429137006341152768": {
+          "created_time": "2021-08-21T17:43:09.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
