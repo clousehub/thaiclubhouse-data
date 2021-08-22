@@ -947,8 +947,8 @@
         },
         "https://twitter.com/cheyoyy/status/1429443297810862081": {
           "created_time": "2021-08-22T14:00:14.000Z",
-          "retweet_count": 3,
-          "favorite_count": 1
+          "retweet_count": 4,
+          "favorite_count": 2
         },
         "https://twitter.com/nomoneybutdebt/status/1429441085063892992": {
           "created_time": "2021-08-22T13:51:27.000Z",
@@ -964,6 +964,15 @@
           "created_time": "2021-08-22T15:26:42.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        }
+      }
+    },
+    "xLA5VElZ": {
+      "sources": {
+        "https://twitter.com/dppl09/status/1429482078463168517": {
+          "created_time": "2021-08-22T16:34:20.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
