@@ -2262,6 +2262,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "myWgAlWV": {
+      "sources": {
+        "https://twitter.com/MrFurqan52/status/1429227188759539712": {
+          "created_time": "2021-08-21T23:41:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/MrFurqan52/status/1429227451029336068": {
+          "created_time": "2021-08-21T23:42:32.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
