@@ -1183,8 +1183,8 @@
       "sources": {
         "https://twitter.com/chollypp/status/1429352812132012037": {
           "created_time": "2021-08-22T08:00:41.000Z",
-          "retweet_count": 0,
-          "favorite_count": 1
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       },
       "metadata": {
