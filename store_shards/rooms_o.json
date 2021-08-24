@@ -1749,7 +1749,7 @@
         "https://twitter.com/MrSantruay/status/1430074271468982273": {
           "created_time": "2021-08-24T07:47:30.000Z",
           "retweet_count": 4,
-          "favorite_count": 18
+          "favorite_count": 20
         },
         "https://twitter.com/Lucybusy2/status/1430073242052489220": {
           "created_time": "2021-08-24T07:43:25.000Z",
@@ -1803,8 +1803,13 @@
         },
         "https://twitter.com/dncdncmm/status/1430082371903053825": {
           "created_time": "2021-08-24T08:19:41.000Z",
-          "retweet_count": 0,
+          "retweet_count": 1,
           "favorite_count": 0
+        },
+        "https://twitter.com/ivaderlll/status/1430087505009811458": {
+          "created_time": "2021-08-24T08:40:05.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }

@@ -989,12 +989,17 @@
       "sources": {
         "https://twitter.com/Bed_bond/status/1430079376079527940": {
           "created_time": "2021-08-24T08:07:47.000Z",
-          "retweet_count": 9,
-          "favorite_count": 3
+          "retweet_count": 13,
+          "favorite_count": 4
         },
         "https://twitter.com/NadingNarak/status/1430082253468491777": {
           "created_time": "2021-08-24T08:19:13.000Z",
-          "retweet_count": 1,
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/BBCystalll/status/1430085245794017286": {
+          "created_time": "2021-08-24T08:31:06.000Z",
+          "retweet_count": 3,
           "favorite_count": 0
         }
       }
