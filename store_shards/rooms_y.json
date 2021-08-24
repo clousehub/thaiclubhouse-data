@@ -1796,6 +1796,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "mWKrb61Y": {
+      "sources": {
+        "https://twitter.com/YokiesThina/status/1430118431857147910": {
+          "created_time": "2021-08-24T10:42:59.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/hoksingha/status/1430124180075282433": {
+          "created_time": "2021-08-24T11:05:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
