@@ -842,6 +842,56 @@
           "created_time": "2021-08-25T02:31:48.000Z",
           "retweet_count": 3,
           "favorite_count": 0
+        },
+        "https://twitter.com/Faiito/status/1430368309380218882": {
+          "created_time": "2021-08-25T03:15:54.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/chermonunivers_/status/1430374675570335754": {
+          "created_time": "2021-08-25T03:41:12.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/iam0ceangrace/status/1430374495710171144": {
+          "created_time": "2021-08-25T03:40:29.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/loongkken/status/1430374231208906755": {
+          "created_time": "2021-08-25T03:39:26.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Nalinuttutta/status/1430375609918652419": {
+          "created_time": "2021-08-25T03:44:55.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bitch76103058/status/1430376390092726275": {
+          "created_time": "2021-08-25T03:48:01.000Z",
+          "retweet_count": 12,
+          "favorite_count": 3
+        },
+        "https://twitter.com/PHUCHITO/status/1430380632459333638": {
+          "created_time": "2021-08-25T04:04:52.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/ivaderlll/status/1430379555873705989": {
+          "created_time": "2021-08-25T04:00:35.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/dncdncmm/status/1430381734726541313": {
+          "created_time": "2021-08-25T04:09:15.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/jj_jan24/status/1430381010873589764": {
+          "created_time": "2021-08-25T04:06:22.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
