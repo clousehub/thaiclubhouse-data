@@ -1383,6 +1383,24 @@
           "favorite_count": 2
         }
       }
+    },
+    "xkj3pqbG": {
+      "sources": {
+        "https://twitter.com/arie_yaya/status/1430535267480346624": {
+          "created_time": "2021-08-25T14:19:20.000Z",
+          "retweet_count": 4,
+          "favorite_count": 1
+        }
+      }
+    },
+    "P9KQagNG": {
+      "sources": {
+        "https://twitter.com/sayuki_kura/status/1430545918017740801": {
+          "created_time": "2021-08-25T15:01:39.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

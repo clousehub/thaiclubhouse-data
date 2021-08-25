@@ -1485,18 +1485,18 @@
       "sources": {
         "https://twitter.com/Bed_bond/status/1430524176658403329": {
           "created_time": "2021-08-25T13:35:16.000Z",
-          "retweet_count": 10,
+          "retweet_count": 9,
           "favorite_count": 7
         },
         "https://twitter.com/Bed_bond/status/1430527132355072002": {
           "created_time": "2021-08-25T13:47:00.000Z",
           "retweet_count": 5,
-          "favorite_count": 4
+          "favorite_count": 6
         },
         "https://twitter.com/Bed_bond/status/1430526034332438534": {
           "created_time": "2021-08-25T13:42:39.000Z",
-          "retweet_count": 20,
-          "favorite_count": 9
+          "retweet_count": 28,
+          "favorite_count": 14
         },
         "https://twitter.com/Bed_bond/status/1430528506887172098": {
           "created_time": "2021-08-25T13:52:28.000Z",
@@ -1512,6 +1512,46 @@
           "created_time": "2021-08-25T14:04:42.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1430533113487138816": {
+          "created_time": "2021-08-25T14:10:46.000Z",
+          "retweet_count": 9,
+          "favorite_count": 6
+        },
+        "https://twitter.com/Bed_bond/status/1430534758677696513": {
+          "created_time": "2021-08-25T14:17:19.000Z",
+          "retweet_count": 11,
+          "favorite_count": 4
+        },
+        "https://twitter.com/Bed_bond/status/1430537620631691265": {
+          "created_time": "2021-08-25T14:28:41.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1430536523242344449": {
+          "created_time": "2021-08-25T14:24:19.000Z",
+          "retweet_count": 7,
+          "favorite_count": 2
+        },
+        "https://twitter.com/Bed_bond/status/1430538925169274880": {
+          "created_time": "2021-08-25T14:33:52.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1430540394459111424": {
+          "created_time": "2021-08-25T14:39:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/Bed_bond/status/1430541944535404545": {
+          "created_time": "2021-08-25T14:45:52.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1430544691624247306": {
+          "created_time": "2021-08-25T14:56:47.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
         }
       }
     }
