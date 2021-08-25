@@ -1040,6 +1040,16 @@
           "created_time": "2021-08-25T10:15:42.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/amladydasha/status/1430486248368574470": {
+          "created_time": "2021-08-25T11:04:33.000Z",
+          "retweet_count": 5,
+          "favorite_count": 4
+        },
+        "https://twitter.com/presentj10/status/1430488018465349635": {
+          "created_time": "2021-08-25T11:11:35.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       }
     }
