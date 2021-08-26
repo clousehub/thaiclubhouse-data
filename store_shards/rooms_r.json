@@ -1555,8 +1555,13 @@
       "sources": {
         "https://twitter.com/NamimoriSchool/status/1430910410195042308": {
           "created_time": "2021-08-26T15:10:01.000Z",
-          "retweet_count": 1,
+          "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/shinairyohou_06/status/1430914158585729027": {
+          "created_time": "2021-08-26T15:24:55.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }

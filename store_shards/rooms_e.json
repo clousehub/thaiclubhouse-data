@@ -1656,6 +1656,11 @@
           "created_time": "2021-08-26T14:39:35.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/xxxxxo13095853/status/1430910965894111236": {
+          "created_time": "2021-08-26T15:12:13.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }
