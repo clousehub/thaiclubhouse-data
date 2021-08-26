@@ -1539,6 +1539,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "mWJ0y9oL": {
+      "sources": {
+        "https://twitter.com/OldMan_b1/status/1430896092233617414": {
+          "created_time": "2021-08-26T14:13:07.000Z",
+          "retweet_count": 7,
+          "favorite_count": 6
+        },
+        "https://twitter.com/oil_jirayu/status/1430895934989160464": {
+          "created_time": "2021-08-26T14:12:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
