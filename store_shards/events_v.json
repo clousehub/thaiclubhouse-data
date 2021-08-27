@@ -1525,6 +1525,20 @@
       },
       "metadataUpdated": "2021-08-23T11:06:11.375Z",
       "date": "2021-08-27T23:00:00.000+07:00"
+    },
+    "maQLXLwv": {
+      "sources": {
+        "https://twitter.com/NYEditz/status/1431070071259021316": {
+          "created_time": "2021-08-27T01:44:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Thursday, August 26 at 10:00pm EDT with Karen Livecchia, Tommy Bunns. Meet one of the most influential women in UK tech! Come ask her questions about all things tech and her efforts in the UK’s tech community.",
+        "title": "Meet One of The Most Influential Women in UK Tech - English Language"
+      },
+      "metadataUpdated": "2021-08-27T01:48:10.707Z"
     }
   }
 }
