@@ -1645,7 +1645,7 @@
         "https://twitter.com/OldMan_b1/status/1431263934024011776": {
           "created_time": "2021-08-27T14:34:48.000Z",
           "retweet_count": 11,
-          "favorite_count": 13
+          "favorite_count": 14
         },
         "https://twitter.com/heartthrob_jk/status/1431263236725166081": {
           "created_time": "2021-08-27T14:32:01.000Z",
@@ -1679,8 +1679,8 @@
         },
         "https://twitter.com/OldMan_b1/status/1431302480864833538": {
           "created_time": "2021-08-27T17:07:58.000Z",
-          "retweet_count": 2,
-          "favorite_count": 5
+          "retweet_count": 4,
+          "favorite_count": 6
         },
         "https://twitter.com/OldMan_b1/status/1431306862805143552": {
           "created_time": "2021-08-27T17:25:23.000Z",
@@ -1694,7 +1694,7 @@
         },
         "https://twitter.com/OldMan_b1/status/1431309873258455040": {
           "created_time": "2021-08-27T17:37:20.000Z",
-          "retweet_count": 2,
+          "retweet_count": 3,
           "favorite_count": 7
         },
         "https://twitter.com/oil_jirayu/status/1431334827664429057": {
@@ -1704,8 +1704,8 @@
         },
         "https://twitter.com/oil_jirayu/status/1431370247106269185": {
           "created_time": "2021-08-27T21:37:15.000Z",
-          "retweet_count": 0,
-          "favorite_count": 1
+          "retweet_count": 1,
+          "favorite_count": 3
         }
       }
     },
