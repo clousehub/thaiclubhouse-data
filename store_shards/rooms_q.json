@@ -1564,6 +1564,35 @@
           "favorite_count": 1
         }
       }
+    },
+    "mJo30XjQ": {
+      "sources": {
+        "https://twitter.com/OldMan_b1/status/1431231404902256641": {
+          "created_time": "2021-08-27T12:25:32.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/sosweetsally/status/1431230931189202953": {
+          "created_time": "2021-08-27T12:23:39.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/MrSantruay/status/1431239671812530177": {
+          "created_time": "2021-08-27T12:58:23.000Z",
+          "retweet_count": 32,
+          "favorite_count": 10
+        },
+        "https://twitter.com/oil_jirayu/status/1431241194097446922": {
+          "created_time": "2021-08-27T13:04:26.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/salmOrn_glasses/status/1431240917285945348": {
+          "created_time": "2021-08-27T13:03:20.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
