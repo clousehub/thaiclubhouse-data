@@ -1579,17 +1579,62 @@
         },
         "https://twitter.com/MrSantruay/status/1431239671812530177": {
           "created_time": "2021-08-27T12:58:23.000Z",
-          "retweet_count": 32,
-          "favorite_count": 10
+          "retweet_count": 61,
+          "favorite_count": 32
         },
         "https://twitter.com/oil_jirayu/status/1431241194097446922": {
           "created_time": "2021-08-27T13:04:26.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/salmOrn_glasses/status/1431240917285945348": {
           "created_time": "2021-08-27T13:03:20.000Z",
           "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/_dark_zone/status/1431246952721575943": {
+          "created_time": "2021-08-27T13:27:19.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        },
+        "https://twitter.com/OldMan_b1/status/1431247733780746244": {
+          "created_time": "2021-08-27T13:30:25.000Z",
+          "retweet_count": 4,
+          "favorite_count": 2
+        },
+        "https://twitter.com/SuMi_AoR/status/1431249695599255561": {
+          "created_time": "2021-08-27T13:38:13.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/radrankaree/status/1431248422636380174": {
+          "created_time": "2021-08-27T13:33:09.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/SweetyTeaThyme/status/1431247355198599168": {
+          "created_time": "2021-08-27T13:28:55.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/sagesu_/status/1431251661993906179": {
+          "created_time": "2021-08-27T13:46:02.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/yselpam/status/1431251540308680708": {
+          "created_time": "2021-08-27T13:45:33.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/topazine/status/1431250784696430598": {
+          "created_time": "2021-08-27T13:42:33.000Z",
+          "retweet_count": 74,
+          "favorite_count": 23
+        },
+        "https://twitter.com/OldMan_b1/status/1431259169055670274": {
+          "created_time": "2021-08-27T14:15:52.000Z",
+          "retweet_count": 2,
           "favorite_count": 0
         }
       }

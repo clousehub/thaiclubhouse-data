@@ -1158,8 +1158,17 @@
       "sources": {
         "https://twitter.com/artiedemocracy/status/1431219778882924546": {
           "created_time": "2021-08-27T11:39:20.000Z",
-          "retweet_count": 5,
+          "retweet_count": 6,
           "favorite_count": 5
+        }
+      }
+    },
+    "xLZXY4km": {
+      "sources": {
+        "https://twitter.com/georgeorgolf/status/1431251238557868035": {
+          "created_time": "2021-08-27T13:44:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
