@@ -1605,6 +1605,16 @@
           "created_time": "2021-08-27T14:12:31.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/Croissaaant/status/1431259776621572105": {
+          "created_time": "2021-08-27T14:18:16.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/amladydasha/status/1431266225598906369": {
+          "created_time": "2021-08-27T14:43:54.000Z",
+          "retweet_count": 16,
+          "favorite_count": 2
         }
       }
     }

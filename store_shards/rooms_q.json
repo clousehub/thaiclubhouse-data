@@ -1579,8 +1579,8 @@
         },
         "https://twitter.com/MrSantruay/status/1431239671812530177": {
           "created_time": "2021-08-27T12:58:23.000Z",
-          "retweet_count": 61,
-          "favorite_count": 32
+          "retweet_count": 75,
+          "favorite_count": 50
         },
         "https://twitter.com/oil_jirayu/status/1431241194097446922": {
           "created_time": "2021-08-27T13:04:26.000Z",
@@ -1629,13 +1629,43 @@
         },
         "https://twitter.com/topazine/status/1431250784696430598": {
           "created_time": "2021-08-27T13:42:33.000Z",
-          "retweet_count": 74,
-          "favorite_count": 23
+          "retweet_count": 119,
+          "favorite_count": 45
         },
         "https://twitter.com/OldMan_b1/status/1431259169055670274": {
           "created_time": "2021-08-27T14:15:52.000Z",
-          "retweet_count": 2,
+          "retweet_count": 3,
           "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1431260451594072075": {
+          "created_time": "2021-08-27T14:20:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/OldMan_b1/status/1431263934024011776": {
+          "created_time": "2021-08-27T14:34:48.000Z",
+          "retweet_count": 11,
+          "favorite_count": 12
+        },
+        "https://twitter.com/heartthrob_jk/status/1431263236725166081": {
+          "created_time": "2021-08-27T14:32:01.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1431269770381254662": {
+          "created_time": "2021-08-27T14:57:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Tree_of_Life_8/status/1431269726395584514": {
+          "created_time": "2021-08-27T14:57:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/OldMan_b1/status/1431273766076567553": {
+          "created_time": "2021-08-27T15:13:52.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
