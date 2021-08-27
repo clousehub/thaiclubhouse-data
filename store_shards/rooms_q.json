@@ -1579,8 +1579,8 @@
         },
         "https://twitter.com/MrSantruay/status/1431239671812530177": {
           "created_time": "2021-08-27T12:58:23.000Z",
-          "retweet_count": 75,
-          "favorite_count": 50
+          "retweet_count": 80,
+          "favorite_count": 51
         },
         "https://twitter.com/oil_jirayu/status/1431241194097446922": {
           "created_time": "2021-08-27T13:04:26.000Z",
@@ -1605,17 +1605,17 @@
         "https://twitter.com/SuMi_AoR/status/1431249695599255561": {
           "created_time": "2021-08-27T13:38:13.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/radrankaree/status/1431248422636380174": {
           "created_time": "2021-08-27T13:33:09.000Z",
           "retweet_count": 1,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/SweetyTeaThyme/status/1431247355198599168": {
           "created_time": "2021-08-27T13:28:55.000Z",
           "retweet_count": 1,
-          "favorite_count": 1
+          "favorite_count": 2
         },
         "https://twitter.com/sagesu_/status/1431251661993906179": {
           "created_time": "2021-08-27T13:46:02.000Z",
@@ -1629,8 +1629,8 @@
         },
         "https://twitter.com/topazine/status/1431250784696430598": {
           "created_time": "2021-08-27T13:42:33.000Z",
-          "retweet_count": 119,
-          "favorite_count": 45
+          "retweet_count": 128,
+          "favorite_count": 49
         },
         "https://twitter.com/OldMan_b1/status/1431259169055670274": {
           "created_time": "2021-08-27T14:15:52.000Z",
@@ -1664,8 +1664,22 @@
         },
         "https://twitter.com/OldMan_b1/status/1431273766076567553": {
           "created_time": "2021-08-27T15:13:52.000Z",
+          "retweet_count": 3,
+          "favorite_count": 3
+        },
+        "https://twitter.com/OldMan_b1/status/1431284138749751304": {
+          "created_time": "2021-08-27T15:55:05.000Z",
           "retweet_count": 1,
-          "favorite_count": 1
+          "favorite_count": 2
+        }
+      }
+    },
+    "M5Y9Qj8q": {
+      "sources": {
+        "https://twitter.com/somooosaku/status/1431284940847648774": {
+          "created_time": "2021-08-27T15:58:16.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
