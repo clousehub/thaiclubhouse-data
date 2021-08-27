@@ -1645,7 +1645,7 @@
         "https://twitter.com/OldMan_b1/status/1431263934024011776": {
           "created_time": "2021-08-27T14:34:48.000Z",
           "retweet_count": 11,
-          "favorite_count": 12
+          "favorite_count": 13
         },
         "https://twitter.com/heartthrob_jk/status/1431263236725166081": {
           "created_time": "2021-08-27T14:32:01.000Z",
@@ -1696,6 +1696,11 @@
           "created_time": "2021-08-27T17:37:20.000Z",
           "retweet_count": 2,
           "favorite_count": 7
+        },
+        "https://twitter.com/oil_jirayu/status/1431334827664429057": {
+          "created_time": "2021-08-27T19:16:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     },
