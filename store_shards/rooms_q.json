@@ -1724,7 +1724,7 @@
         },
         "https://twitter.com/oil_jirayu/status/1431399453534011394": {
           "created_time": "2021-08-27T23:33:18.000Z",
-          "retweet_count": 8,
+          "retweet_count": 9,
           "favorite_count": 9
         },
         "https://twitter.com/OldMan_b1/status/1431401538287648769": {
@@ -1745,12 +1745,12 @@
         "https://twitter.com/OldMan_b1/status/1431409963214143490": {
           "created_time": "2021-08-28T00:15:04.000Z",
           "retweet_count": 4,
-          "favorite_count": 4
+          "favorite_count": 5
         },
         "https://twitter.com/topazine/status/1431411784066338818": {
           "created_time": "2021-08-28T00:22:18.000Z",
-          "retweet_count": 53,
-          "favorite_count": 23
+          "retweet_count": 56,
+          "favorite_count": 24
         },
         "https://twitter.com/OldMan_b1/status/1431413616977145858": {
           "created_time": "2021-08-28T00:29:35.000Z",
@@ -1774,7 +1774,7 @@
         },
         "https://twitter.com/PPRP_Unofficial/status/1431443608570187781": {
           "created_time": "2021-08-28T02:28:45.000Z",
-          "retweet_count": 6,
+          "retweet_count": 7,
           "favorite_count": 8
         },
         "https://twitter.com/OldMan_b1/status/1431450989777735680": {
@@ -1784,8 +1784,8 @@
         },
         "https://twitter.com/OldMan_b1/status/1431453562207301638": {
           "created_time": "2021-08-28T03:08:19.000Z",
-          "retweet_count": 5,
-          "favorite_count": 9
+          "retweet_count": 6,
+          "favorite_count": 10
         },
         "https://twitter.com/OldMan_b1/status/1431461101384859650": {
           "created_time": "2021-08-28T03:38:16.000Z",
@@ -1800,7 +1800,22 @@
         "https://twitter.com/OldMan_b1/status/1431469702144950277": {
           "created_time": "2021-08-28T04:12:27.000Z",
           "retweet_count": 1,
-          "favorite_count": 6
+          "favorite_count": 8
+        },
+        "https://twitter.com/_dark_zone/status/1431485707835502596": {
+          "created_time": "2021-08-28T05:16:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/topazine/status/1431490478902439936": {
+          "created_time": "2021-08-28T05:35:00.000Z",
+          "retweet_count": 8,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Topatimmm/status/1431489488153300993": {
+          "created_time": "2021-08-28T05:31:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     },
@@ -1818,7 +1833,7 @@
         "https://twitter.com/Pink_Siripipat/status/1431430055930986501": {
           "created_time": "2021-08-28T01:34:54.000Z",
           "retweet_count": 7,
-          "favorite_count": 18
+          "favorite_count": 20
         }
       }
     }
