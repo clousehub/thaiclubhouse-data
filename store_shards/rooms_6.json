@@ -1001,6 +1001,50 @@
           "created_time": "2021-08-28T15:14:07.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1431640005642833922": {
+          "created_time": "2021-08-28T15:29:10.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1431638761914322954": {
+          "created_time": "2021-08-28T15:24:14.000Z",
+          "retweet_count": 3,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1431641433811800071": {
+          "created_time": "2021-08-28T15:34:51.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/Bed_bond/status/1431643493839953922": {
+          "created_time": "2021-08-28T15:43:02.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1431646799991693312": {
+          "created_time": "2021-08-28T15:56:10.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1431649451542646787": {
+          "created_time": "2021-08-28T16:06:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/Bed_bond/status/1431653380124860423": {
+          "created_time": "2021-08-28T16:22:19.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "PAJQB9v6": {
+      "sources": {
+        "https://twitter.com/kcurran77/status/1431650700891725824": {
+          "created_time": "2021-08-28T16:11:40.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
         }
       }
     }
