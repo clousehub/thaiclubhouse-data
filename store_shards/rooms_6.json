@@ -1036,6 +1036,11 @@
           "created_time": "2021-08-28T16:22:19.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1431663193248583681": {
+          "created_time": "2021-08-28T17:01:18.000Z",
+          "retweet_count": 1,
+          "favorite_count": 3
         }
       }
     },
@@ -1044,7 +1049,7 @@
         "https://twitter.com/kcurran77/status/1431650700891725824": {
           "created_time": "2021-08-28T16:11:40.000Z",
           "retweet_count": 0,
-          "favorite_count": 3
+          "favorite_count": 10
         }
       }
     }
