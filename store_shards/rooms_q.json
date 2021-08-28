@@ -1849,8 +1849,13 @@
         },
         "https://twitter.com/oil_jirayu/status/1431605894932955139": {
           "created_time": "2021-08-28T13:13:37.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        },
+        "https://twitter.com/oannie_lll_/status/1431617676275683328": {
+          "created_time": "2021-08-28T14:00:26.000Z",
           "retweet_count": 0,
-          "favorite_count": 1
+          "favorite_count": 2
         }
       }
     },
