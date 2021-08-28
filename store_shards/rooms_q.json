@@ -1810,7 +1810,7 @@
         "https://twitter.com/topazine/status/1431490478902439936": {
           "created_time": "2021-08-28T05:35:00.000Z",
           "retweet_count": 118,
-          "favorite_count": 51
+          "favorite_count": 52
         },
         "https://twitter.com/Topatimmm/status/1431489488153300993": {
           "created_time": "2021-08-28T05:31:04.000Z",
@@ -1834,13 +1834,18 @@
         },
         "https://twitter.com/AFCThai/status/1431550789114216449": {
           "created_time": "2021-08-28T09:34:39.000Z",
-          "retweet_count": 10,
+          "retweet_count": 11,
           "favorite_count": 4
         },
         "https://twitter.com/oil_jirayu/status/1431553717875052549": {
           "created_time": "2021-08-28T09:46:17.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        },
+        "https://twitter.com/OldMan_b1/status/1431581859029286917": {
+          "created_time": "2021-08-28T11:38:07.000Z",
+          "retweet_count": 1,
+          "favorite_count": 3
         }
       }
     },
