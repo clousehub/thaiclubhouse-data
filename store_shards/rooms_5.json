@@ -625,6 +625,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PbLkXka5": {
+      "sources": {
+        "https://twitter.com/VVagew/status/1432046925637902344": {
+          "created_time": "2021-08-29T18:26:07.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/salmOrn_glasses/status/1432052818190364674": {
+          "created_time": "2021-08-29T18:49:32.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
