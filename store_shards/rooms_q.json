@@ -1924,7 +1924,12 @@
         },
         "https://twitter.com/radrankaree/status/1431909005148913665": {
           "created_time": "2021-08-29T09:18:05.000Z",
-          "retweet_count": 1,
+          "retweet_count": 3,
+          "favorite_count": 1
+        },
+        "https://twitter.com/salmOrn_glasses/status/1431935958182547458": {
+          "created_time": "2021-08-29T11:05:11.000Z",
+          "retweet_count": 2,
           "favorite_count": 1
         }
       }
