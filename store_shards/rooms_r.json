@@ -1603,8 +1603,18 @@
         },
         "https://twitter.com/_dark_zone/status/1432298951479234571": {
           "created_time": "2021-08-30T11:07:35.000Z",
-          "retweet_count": 3,
+          "retweet_count": 4,
           "favorite_count": 1
+        },
+        "https://twitter.com/asperonella/status/1432303166830235649": {
+          "created_time": "2021-08-30T11:24:20.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/WPabuprapap/status/1432312392931676163": {
+          "created_time": "2021-08-30T12:01:00.000Z",
+          "retweet_count": 62,
+          "favorite_count": 18
         }
       }
     }
