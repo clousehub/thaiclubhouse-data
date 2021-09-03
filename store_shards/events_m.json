@@ -1123,6 +1123,20 @@
       },
       "metadataUpdated": "2021-08-14T11:30:11.354Z",
       "date": "2021-08-14T20:00:00.000+07:00"
+    },
+    "Pb85ZjKM": {
+      "sources": {
+        "https://twitter.com/Voidvamp/status/1433759425999753218": {
+          "created_time": "2021-09-03T11:50:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Saturday, September 11 at 6:00pm IST with divyajit vaghela.",
+        "title": "Portfolio Diversification - $Financial Independence$"
+      },
+      "metadataUpdated": "2021-09-03T11:54:12.847Z"
     }
   }
 }
