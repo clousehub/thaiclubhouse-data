@@ -1607,6 +1607,11 @@
           "created_time": "2021-09-03T14:02:46.000Z",
           "retweet_count": 1,
           "favorite_count": 0
+        },
+        "https://twitter.com/zamurai2136/status/1433817316458860545": {
+          "created_time": "2021-09-03T15:41:01.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
