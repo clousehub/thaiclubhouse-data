@@ -1614,6 +1614,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "Md05VdNl": {
+      "sources": {
+        "https://twitter.com/onyourm__ew/status/1433862454895792129": {
+          "created_time": "2021-09-03T18:40:23.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Phasy001/status/1433851596513820673": {
+          "created_time": "2021-09-03T17:57:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
