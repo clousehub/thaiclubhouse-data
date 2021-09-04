@@ -1212,6 +1212,29 @@
           "favorite_count": 0
         }
       }
+    },
+    "xpje8qbj": {
+      "sources": {
+        "https://twitter.com/amladydasha/status/1434174940756992003": {
+          "created_time": "2021-09-04T15:22:06.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        },
+        "https://twitter.com/NaMi35770289/status/1434175661644546048": {
+          "created_time": "2021-09-04T15:24:58.000Z",
+          "retweet_count": 4,
+          "favorite_count": 3
+        }
+      }
+    },
+    "xl4YAlWJ": {
+      "sources": {
+        "https://twitter.com/calli_dessan/status/1434179952740425729": {
+          "created_time": "2021-09-04T15:42:01.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
