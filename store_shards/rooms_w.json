@@ -1673,6 +1673,20 @@
           "favorite_count": 5
         }
       }
+    },
+    "PDvY17qW": {
+      "sources": {
+        "https://twitter.com/pidchym/status/1434113355384385542": {
+          "created_time": "2021-09-04T11:17:23.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
+        },
+        "https://twitter.com/amladydasha/status/1434119226210635776": {
+          "created_time": "2021-09-04T11:40:42.000Z",
+          "retweet_count": 6,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
