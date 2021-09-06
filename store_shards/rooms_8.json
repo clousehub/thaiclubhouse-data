@@ -1065,6 +1065,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "M5eVb2W8": {
+      "sources": {
+        "https://twitter.com/Bed_bond/status/1434941594398978050": {
+          "created_time": "2021-09-06T18:08:30.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/Bed_bond/status/1434942932633538564": {
+          "created_time": "2021-09-06T18:13:49.000Z",
+          "retweet_count": 5,
+          "favorite_count": 5
+        }
+      }
     }
   }
 }
