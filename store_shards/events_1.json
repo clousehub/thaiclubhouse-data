@@ -586,18 +586,18 @@
         },
         "https://twitter.com/hoksingha/status/1434820294137421830": {
           "created_time": "2021-09-06T10:06:30.000Z",
-          "retweet_count": 6,
+          "retweet_count": 7,
           "favorite_count": 8
         },
         "https://twitter.com/DuangritBunnag/status/1435062523712053248": {
           "created_time": "2021-09-07T02:09:02.000Z",
-          "retweet_count": 261,
-          "favorite_count": 255
+          "retweet_count": 280,
+          "favorite_count": 292
         },
         "https://twitter.com/FutureThaiNow/status/1435061999927377921": {
           "created_time": "2021-09-07T02:06:57.000Z",
-          "retweet_count": 43,
-          "favorite_count": 42
+          "retweet_count": 60,
+          "favorite_count": 57
         }
       },
       "metadata": {
