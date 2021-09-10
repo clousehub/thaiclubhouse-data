@@ -1068,6 +1068,16 @@
           "created_time": "2021-09-10T16:08:15.000Z",
           "retweet_count": 4,
           "favorite_count": 6
+        },
+        "https://twitter.com/HauntedNight999/status/1436412758359089159": {
+          "created_time": "2021-09-10T19:34:23.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        },
+        "https://twitter.com/AachiRays/status/1436414210049658882": {
+          "created_time": "2021-09-10T19:40:09.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       }
     }
