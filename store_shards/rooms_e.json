@@ -1742,7 +1742,7 @@
         },
         "https://twitter.com/RMazitra/status/1436580089290842112": {
           "created_time": "2021-09-11T06:39:18.000Z",
-          "retweet_count": 1,
+          "retweet_count": 2,
           "favorite_count": 0
         },
         "https://twitter.com/RMazitra/status/1436582780708659202": {
@@ -1752,6 +1752,11 @@
         },
         "https://twitter.com/kalanysian/status/1436586166896103427": {
           "created_time": "2021-09-11T07:03:27.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/tawinyuang/status/1436601890851020800": {
+          "created_time": "2021-09-11T08:05:56.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
