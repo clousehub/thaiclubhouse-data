@@ -1462,6 +1462,20 @@
           "favorite_count": 2
         }
       }
+    },
+    "mWa25rax": {
+      "sources": {
+        "https://twitter.com/girwre9/status/1437053302009597959": {
+          "created_time": "2021-09-12T13:59:41.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/findwh4tever/status/1437051903053991937": {
+          "created_time": "2021-09-12T13:54:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
