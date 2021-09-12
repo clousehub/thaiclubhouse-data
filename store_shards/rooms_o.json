@@ -2000,7 +2000,16 @@
         "https://twitter.com/RsdSolidarity/status/1437011353999339524": {
           "created_time": "2021-09-12T11:12:59.000Z",
           "retweet_count": 2,
-          "favorite_count": 2
+          "favorite_count": 3
+        }
+      }
+    },
+    "PYB7jYLO": {
+      "sources": {
+        "https://twitter.com/AAoomiie/status/1437075171995635718": {
+          "created_time": "2021-09-12T15:26:35.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
