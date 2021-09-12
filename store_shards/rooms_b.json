@@ -1763,7 +1763,7 @@
         },
         "https://twitter.com/titanblue72/status/1436883168171233288": {
           "created_time": "2021-09-12T02:43:37.000Z",
-          "retweet_count": 0,
+          "retweet_count": 1,
           "favorite_count": 0
         },
         "https://twitter.com/miharukunsama/status/1436882940424638466": {
@@ -1774,7 +1774,7 @@
         "https://twitter.com/oombeak/status/1436884228784885762": {
           "created_time": "2021-09-12T02:47:50.000Z",
           "retweet_count": 1,
-          "favorite_count": 0
+          "favorite_count": 1
         }
       }
     }
