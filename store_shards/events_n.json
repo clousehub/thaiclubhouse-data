@@ -1029,6 +1029,26 @@
       },
       "metadataUpdated": "2021-09-10T12:30:11.497Z",
       "date": "2021-09-10T20:00:00.000+07:00"
+    },
+    "my9J7von": {
+      "sources": {
+        "https://twitter.com/Chotisak112/status/1436855059292176384": {
+          "created_time": "2021-09-12T00:51:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/Chotisak112/status/1436854226420842496": {
+          "created_time": "2021-09-12T00:48:37.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Sunday, September 12 at 1:30pm +07 with Chotisak Onsoong, modernthaipasa ณ๊อลวอมแบท. ”ระบบเสียงข้างมากเด็ดขาด” คือระบบที่พยายามหาผู้สมัครที่ชนะด้วยคะแนนเสียงเกินครึ่ง\nหากเลือกตั้งแล้วผู้สมัครที่ได้อันดับ 1 ได้คะแนนไม่ถึงครึ่ง ก็ให้เอาคนที่ได้ที่ 1 กับที่ 2 มาแข่งกันใหม่อีกรอบ",
+        "title": "ระบบเสียงข้างมากเด็ดขาด: ทางออกปัญหาผู้สมัครตัดคะแนนกันเอง - ราษฎร โซลิดาริตี"
+      },
+      "metadataUpdated": "2021-09-12T00:54:10.496Z",
+      "date": "2021-09-12T13:30:00.000+07:00"
     }
   }
 }
