@@ -2583,6 +2583,16 @@
           "created_time": "2021-09-14T16:10:05.000Z",
           "retweet_count": 1,
           "favorite_count": 3
+        },
+        "https://twitter.com/alison13oo/status/1437823433425907719": {
+          "created_time": "2021-09-14T16:59:54.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/alison13oo/status/1437822405242605568": {
+          "created_time": "2021-09-14T16:55:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
