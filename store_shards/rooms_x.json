@@ -1485,6 +1485,25 @@
           "favorite_count": 1
         }
       }
+    },
+    "P99WAJWX": {
+      "sources": {
+        "https://twitter.com/R_artisty/status/1438126469629157376": {
+          "created_time": "2021-09-15T13:04:04.000Z",
+          "retweet_count": 6,
+          "favorite_count": 1
+        },
+        "https://twitter.com/mxrpqrthxnyq1/status/1438130979504230405": {
+          "created_time": "2021-09-15T13:21:59.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/NaMi35770289/status/1438130368553504770": {
+          "created_time": "2021-09-15T13:19:33.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
+        }
+      }
     }
   }
 }
