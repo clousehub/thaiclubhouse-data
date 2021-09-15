@@ -1772,11 +1772,20 @@
         },
         "https://twitter.com/NaMi35770289/status/1438004659361255426": {
           "created_time": "2021-09-15T05:00:02.000Z",
-          "retweet_count": 1,
+          "retweet_count": 2,
           "favorite_count": 2
         },
         "https://twitter.com/NaMi35770289/status/1437997781873045513": {
           "created_time": "2021-09-15T04:32:42.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
+    },
+    "PGleolBw": {
+      "sources": {
+        "https://twitter.com/cc_winnapa/status/1438037088222416899": {
+          "created_time": "2021-09-15T07:08:53.000Z",
           "retweet_count": 1,
           "favorite_count": 0
         }
