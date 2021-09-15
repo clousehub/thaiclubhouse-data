@@ -1767,13 +1767,18 @@
         },
         "https://twitter.com/NaMi35770289/status/1437995068984492039": {
           "created_time": "2021-09-15T04:21:55.000Z",
-          "retweet_count": 0,
+          "retweet_count": 1,
           "favorite_count": 2
         },
         "https://twitter.com/NaMi35770289/status/1438004659361255426": {
           "created_time": "2021-09-15T05:00:02.000Z",
-          "retweet_count": 0,
+          "retweet_count": 1,
           "favorite_count": 2
+        },
+        "https://twitter.com/NaMi35770289/status/1437997781873045513": {
+          "created_time": "2021-09-15T04:32:42.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }
