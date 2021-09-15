@@ -1757,6 +1757,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PQDXKgqw": {
+      "sources": {
+        "https://twitter.com/NaMi35770289/status/1437990470550908934": {
+          "created_time": "2021-09-15T04:03:39.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/NaMi35770289/status/1437995068984492039": {
+          "created_time": "2021-09-15T04:21:55.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
