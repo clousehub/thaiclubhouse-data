@@ -1794,12 +1794,12 @@
         "https://twitter.com/ratthatun/status/1438503456709378063": {
           "created_time": "2021-09-16T14:02:04.000Z",
           "retweet_count": 1,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/InterviewHer/status/1438504567000363011": {
           "created_time": "2021-09-16T14:06:29.000Z",
           "retweet_count": 3,
-          "favorite_count": 7
+          "favorite_count": 8
         },
         "https://twitter.com/sodontbe_blue/status/1438503536145272833": {
           "created_time": "2021-09-16T14:02:23.000Z",
@@ -1809,12 +1809,21 @@
         "https://twitter.com/cbh48office/status/1438507346875928587": {
           "created_time": "2021-09-16T14:17:32.000Z",
           "retweet_count": 4,
-          "favorite_count": 4
+          "favorite_count": 5
         },
         "https://twitter.com/walwoodpeace/status/1438519490048774146": {
           "created_time": "2021-09-16T15:05:47.000Z",
           "retweet_count": 3,
           "favorite_count": 2
+        }
+      }
+    },
+    "m71qLwyE": {
+      "sources": {
+        "https://twitter.com/girwre9/status/1438543242270679066": {
+          "created_time": "2021-09-16T16:40:10.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
