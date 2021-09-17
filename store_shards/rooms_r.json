@@ -1662,6 +1662,15 @@
           "favorite_count": 1
         }
       }
+    },
+    "PD0lZWdR": {
+      "sources": {
+        "https://twitter.com/_dark_zone/status/1438797453810036739": {
+          "created_time": "2021-09-17T09:30:19.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
