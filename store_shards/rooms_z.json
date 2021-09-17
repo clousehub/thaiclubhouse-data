@@ -1223,6 +1223,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "m26wA38z": {
+      "sources": {
+        "https://twitter.com/realdaniyan/status/1438852110271979522": {
+          "created_time": "2021-09-17T13:07:30.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
+    },
+    "xpjpYNkz": {
+      "sources": {
+        "https://twitter.com/lesxara/status/1438853313030619149": {
+          "created_time": "2021-09-17T13:12:17.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
