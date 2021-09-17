@@ -1815,13 +1815,13 @@
         },
         "https://twitter.com/topazine/status/1438870482560839686": {
           "created_time": "2021-09-17T14:20:30.000Z",
-          "retweet_count": 14,
+          "retweet_count": 15,
           "favorite_count": 13
         },
         "https://twitter.com/MrSantruay/status/1438872485567479811": {
           "created_time": "2021-09-17T14:28:28.000Z",
           "retweet_count": 6,
-          "favorite_count": 13
+          "favorite_count": 14
         },
         "https://twitter.com/b_B1B2B3/status/1438881832079036417": {
           "created_time": "2021-09-17T15:05:36.000Z",
@@ -1856,10 +1856,60 @@
         "https://twitter.com/b_B1B2B3/status/1438894921503559688": {
           "created_time": "2021-09-17T15:57:37.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/oil_jirayu/status/1438894774484799488": {
           "created_time": "2021-09-17T15:57:02.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/b_B1B2B3/status/1438895883756584963": {
+          "created_time": "2021-09-17T16:01:26.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/oil_jirayu/status/1438897470113677314": {
+          "created_time": "2021-09-17T16:07:44.000Z",
+          "retweet_count": 1,
+          "favorite_count": 6
+        },
+        "https://twitter.com/hoksingha/status/1438897130752536582": {
+          "created_time": "2021-09-17T16:06:24.000Z",
+          "retweet_count": 3,
+          "favorite_count": 3
+        },
+        "https://twitter.com/hoksingha/status/1438900256662458369": {
+          "created_time": "2021-09-17T16:18:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 4
+        },
+        "https://twitter.com/hoksingha/status/1438902487851798529": {
+          "created_time": "2021-09-17T16:27:41.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/hoksingha/status/1438904128034381825": {
+          "created_time": "2021-09-17T16:34:12.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/b_B1B2B3/status/1438903676211367938": {
+          "created_time": "2021-09-17T16:32:24.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/hoksingha/status/1438905702378983428": {
+          "created_time": "2021-09-17T16:40:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/hoksingha/status/1438908061414879238": {
+          "created_time": "2021-09-17T16:49:50.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/hoksingha/status/1438909951452205056": {
+          "created_time": "2021-09-17T16:57:20.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
