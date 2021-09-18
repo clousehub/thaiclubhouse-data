@@ -977,6 +977,11 @@
           "created_time": "2021-09-18T09:28:19.000Z",
           "retweet_count": 1,
           "favorite_count": 1
+        },
+        "https://twitter.com/Chotisak112/status/1439205933930860544": {
+          "created_time": "2021-09-18T12:33:28.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {
