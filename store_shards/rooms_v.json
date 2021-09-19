@@ -2600,8 +2600,8 @@
       "sources": {
         "https://twitter.com/InterviewHer/status/1439518579846565890": {
           "created_time": "2021-09-19T09:15:49.000Z",
-          "retweet_count": 2,
-          "favorite_count": 5
+          "retweet_count": 3,
+          "favorite_count": 7
         },
         "https://twitter.com/hero_north_w/status/1439519360234647557": {
           "created_time": "2021-09-19T09:18:55.000Z",
@@ -2615,12 +2615,12 @@
         },
         "https://twitter.com/hero_north_w/status/1439525086847926272": {
           "created_time": "2021-09-19T09:41:40.000Z",
-          "retweet_count": 2,
-          "favorite_count": 0
+          "retweet_count": 3,
+          "favorite_count": 1
         },
         "https://twitter.com/hero_north_w/status/1439523719278252040": {
           "created_time": "2021-09-19T09:36:14.000Z",
-          "retweet_count": 3,
+          "retweet_count": 4,
           "favorite_count": 2
         },
         "https://twitter.com/hero_north_w/status/1439523492823638030": {
@@ -2631,6 +2631,16 @@
         "https://twitter.com/hero_north_w/status/1439523436653469698": {
           "created_time": "2021-09-19T09:35:07.000Z",
           "retweet_count": 2,
+          "favorite_count": 1
+        },
+        "https://twitter.com/hero_north_w/status/1439525904275836931": {
+          "created_time": "2021-09-19T09:44:55.000Z",
+          "retweet_count": 3,
+          "favorite_count": 0
+        },
+        "https://twitter.com/RsdSolidarity/status/1439541281189871619": {
+          "created_time": "2021-09-19T10:46:01.000Z",
+          "retweet_count": 0,
           "favorite_count": 1
         }
       }
