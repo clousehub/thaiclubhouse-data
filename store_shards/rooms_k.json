@@ -1826,8 +1826,28 @@
         },
         "https://twitter.com/PPloysuwan/status/1439949898753794053": {
           "created_time": "2021-09-20T13:49:43.000Z",
-          "retweet_count": 1,
+          "retweet_count": 3,
+          "favorite_count": 1
+        },
+        "https://twitter.com/parttimefc239/status/1439955559399129092": {
+          "created_time": "2021-09-20T14:12:13.000Z",
+          "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/parttimefc239/status/1439958621597495300": {
+          "created_time": "2021-09-20T14:24:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/AachiRays/status/1439961185034510343": {
+          "created_time": "2021-09-20T14:34:34.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/AachiRays/status/1439966627936624641": {
+          "created_time": "2021-09-20T14:56:12.000Z",
+          "retweet_count": 6,
+          "favorite_count": 4
         }
       }
     }
