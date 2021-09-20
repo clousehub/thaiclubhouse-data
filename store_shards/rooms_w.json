@@ -1836,6 +1836,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "PYn4N5QW": {
+      "sources": {
+        "https://twitter.com/Independentt19/status/1440007908050173952": {
+          "created_time": "2021-09-20T17:40:13.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Mr_Winzy/status/1440008214599274500": {
+          "created_time": "2021-09-20T17:41:27.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
