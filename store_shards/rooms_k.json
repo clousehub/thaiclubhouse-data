@@ -1807,6 +1807,29 @@
           "favorite_count": 1
         }
       }
+    },
+    "P99L9Yok": {
+      "sources": {
+        "https://twitter.com/PPloysuwan/status/1439946178519461888": {
+          "created_time": "2021-09-20T13:34:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "m3gqq2Lk": {
+      "sources": {
+        "https://twitter.com/kakakrane/status/1439948814975000582": {
+          "created_time": "2021-09-20T13:45:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/PPloysuwan/status/1439949898753794053": {
+          "created_time": "2021-09-20T13:49:43.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
