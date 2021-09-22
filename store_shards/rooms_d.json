@@ -1614,6 +1614,20 @@
           "favorite_count": 5
         }
       }
+    },
+    "xVL45LND": {
+      "sources": {
+        "https://twitter.com/InterviewHer/status/1440590557961547777": {
+          "created_time": "2021-09-22T08:15:28.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/orenjizaka36/status/1440598567685541889": {
+          "created_time": "2021-09-22T08:47:18.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
