@@ -2082,6 +2082,30 @@
           "favorite_count": 0
         }
       }
+    },
+    "Md2dkRlP": {
+      "sources": {
+        "https://twitter.com/Bed_bond/status/1440710172217798666": {
+          "created_time": "2021-09-22T16:10:46.000Z",
+          "retweet_count": 4,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1440711643596345350": {
+          "created_time": "2021-09-22T16:16:37.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Bed_bond/status/1440713051167019024": {
+          "created_time": "2021-09-22T16:22:13.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Bed_bond/status/1440714436134662154": {
+          "created_time": "2021-09-22T16:27:43.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
