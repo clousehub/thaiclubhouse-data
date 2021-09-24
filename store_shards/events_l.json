@@ -1430,8 +1430,13 @@
         },
         "https://twitter.com/topazine/status/1441329530908528643": {
           "created_time": "2021-09-24T09:11:53.000Z",
-          "retweet_count": 98,
-          "favorite_count": 21
+          "retweet_count": 105,
+          "favorite_count": 22
+        },
+        "https://twitter.com/mob_nakhonp/status/1441396534294106124": {
+          "created_time": "2021-09-24T13:38:08.000Z",
+          "retweet_count": 19,
+          "favorite_count": 3
         }
       },
       "metadata": {
