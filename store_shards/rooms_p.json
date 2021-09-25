@@ -2126,6 +2126,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "PvReW5Rp": {
+      "sources": {
+        "https://twitter.com/112Dior/status/1441750817418010631": {
+          "created_time": "2021-09-25T13:05:55.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/plapoo_o/status/1441754648528887813": {
+          "created_time": "2021-09-25T13:21:09.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

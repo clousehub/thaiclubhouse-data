@@ -1028,6 +1028,16 @@
       },
       "metadataUpdated": "2021-09-01T07:30:11.403Z",
       "date": "2021-09-01T16:30:00.000+07:00"
+    },
+    "PQR": {
+      "sources": {
+        "https://twitter.com/katamangalo/status/1441747673040633862": {
+          "created_time": "2021-09-25T12:53:26.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        }
+      },
+      "metadataUpdated": "2021-09-25T12:54:12.170Z"
     }
   }
 }
