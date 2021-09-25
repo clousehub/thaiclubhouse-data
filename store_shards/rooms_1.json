@@ -851,6 +851,29 @@
           "favorite_count": 0
         }
       }
+    },
+    "PDvKDEa1": {
+      "sources": {
+        "https://twitter.com/Chotisak112/status/1441704692162052097": {
+          "created_time": "2021-09-25T10:02:38.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/orenjizaka36/status/1441706138991353864": {
+          "created_time": "2021-09-25T10:08:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "xob7GDA1": {
+      "sources": {
+        "https://twitter.com/Chotisak112/status/1441707358661451781": {
+          "created_time": "2021-09-25T10:13:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
