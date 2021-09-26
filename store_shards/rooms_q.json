@@ -2126,8 +2126,13 @@
       "sources": {
         "https://twitter.com/PPunjakunaporn/status/1442117238362828803": {
           "created_time": "2021-09-26T13:21:57.000Z",
-          "retweet_count": 1,
+          "retweet_count": 2,
           "favorite_count": 1
+        },
+        "https://twitter.com/bigooboss/status/1442129211750174720": {
+          "created_time": "2021-09-26T14:09:32.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }

@@ -1637,6 +1637,20 @@
           "favorite_count": 7
         }
       }
+    },
+    "xqBqL6kD": {
+      "sources": {
+        "https://twitter.com/orenjizaka36/status/1442134254754824196": {
+          "created_time": "2021-09-26T14:29:34.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Topatimmm/status/1442134585911902210": {
+          "created_time": "2021-09-26T14:30:53.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
