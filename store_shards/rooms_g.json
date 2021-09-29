@@ -1547,10 +1547,25 @@
         "https://twitter.com/orenjizaka36/status/1443294710110429187": {
           "created_time": "2021-09-29T19:20:48.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
         },
         "https://twitter.com/orenjizaka36/status/1443296789310808064": {
           "created_time": "2021-09-29T19:29:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/PPunjakunaporn/status/1443302121571426307": {
+          "created_time": "2021-09-29T19:50:15.000Z",
+          "retweet_count": 0,
+          "favorite_count": 4
+        },
+        "https://twitter.com/orenjizaka36/status/1443306960116322306": {
+          "created_time": "2021-09-29T20:09:29.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/orenjizaka36/status/1443308976414679040": {
+          "created_time": "2021-09-29T20:17:30.000Z",
           "retweet_count": 0,
           "favorite_count": 1
         }
