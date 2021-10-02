@@ -2163,8 +2163,13 @@
       "sources": {
         "https://twitter.com/orenjizaka36/status/1444288886541144066": {
           "created_time": "2021-10-02T13:11:18.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 4,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nitihub/status/1444293994041602051": {
+          "created_time": "2021-10-02T13:31:36.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       }
     }
