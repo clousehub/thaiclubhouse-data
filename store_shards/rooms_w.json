@@ -1892,6 +1892,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "MzkDXJVw": {
+      "sources": {
+        "https://twitter.com/orenjizaka36/status/1444678490779906054": {
+          "created_time": "2021-10-03T14:59:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/kcurran77/status/1444678744749268995": {
+          "created_time": "2021-10-03T15:00:28.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
+        }
+      }
     }
   }
 }
