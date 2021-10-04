@@ -1670,6 +1670,24 @@
           "favorite_count": 1
         }
       }
+    },
+    "Pr4QA9OD": {
+      "sources": {
+        "https://twitter.com/Ciawush/status/1445016215714291712": {
+          "created_time": "2021-10-04T13:21:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
+    },
+    "xLALDJzd": {
+      "sources": {
+        "https://twitter.com/Grozkaza/status/1445020518420303881": {
+          "created_time": "2021-10-04T13:38:33.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
