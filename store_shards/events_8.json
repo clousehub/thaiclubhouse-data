@@ -1102,6 +1102,11 @@
           "created_time": "2021-10-02T12:46:42.000Z",
           "retweet_count": 9,
           "favorite_count": 4
+        },
+        "https://twitter.com/tiktokthailand/status/1445007362448760836": {
+          "created_time": "2021-10-04T12:46:16.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       },
       "metadata": {
