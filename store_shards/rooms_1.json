@@ -914,6 +914,16 @@
           "created_time": "2021-10-05T12:38:49.000Z",
           "retweet_count": 1,
           "favorite_count": 2
+        },
+        "https://twitter.com/orenjizaka36/status/1445394539368300545": {
+          "created_time": "2021-10-05T14:24:46.000Z",
+          "retweet_count": 1,
+          "favorite_count": 4
+        },
+        "https://twitter.com/bigooboss/status/1445407374651580422": {
+          "created_time": "2021-10-05T15:15:47.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
