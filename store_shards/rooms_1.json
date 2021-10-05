@@ -902,6 +902,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "m2YA4le1": {
+      "sources": {
+        "https://twitter.com/PPunjakunaporn/status/1445368174195576832": {
+          "created_time": "2021-10-05T12:40:01.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/YugBamBaby/status/1445367872411238402": {
+          "created_time": "2021-10-05T12:38:49.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
