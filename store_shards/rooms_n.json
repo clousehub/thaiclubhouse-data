@@ -1433,7 +1433,16 @@
         "https://twitter.com/Khanesh7/status/1446466849923764231": {
           "created_time": "2021-10-08T13:25:45.000Z",
           "retweet_count": 1,
-          "favorite_count": 2
+          "favorite_count": 3
+        }
+      }
+    },
+    "m7zzo0yN": {
+      "sources": {
+        "https://twitter.com/wOswJQmj8LAeAEO/status/1446447322427060224": {
+          "created_time": "2021-10-08T12:08:10.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }
