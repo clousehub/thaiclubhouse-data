@@ -1836,7 +1836,12 @@
         "https://twitter.com/y_dreammaker/status/1446831211356196868": {
           "created_time": "2021-10-09T13:33:36.000Z",
           "retweet_count": 0,
-          "favorite_count": 0
+          "favorite_count": 1
+        },
+        "https://twitter.com/NearMelL_1989/status/1446836377220386821": {
+          "created_time": "2021-10-09T13:54:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       }
     }
