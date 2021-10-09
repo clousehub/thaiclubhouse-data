@@ -926,6 +926,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "xoKDEB31": {
+      "sources": {
+        "https://twitter.com/natpanchaya/status/1446696938103992324": {
+          "created_time": "2021-10-09T04:40:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/tesswcn/status/1446700660045402114": {
+          "created_time": "2021-10-09T04:54:50.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
