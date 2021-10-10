@@ -1403,8 +1403,13 @@
       "sources": {
         "https://twitter.com/AmnestyThailand/status/1447164090049196036": {
           "created_time": "2021-10-10T11:36:20.000Z",
-          "retweet_count": 5,
+          "retweet_count": 11,
           "favorite_count": 4
+        },
+        "https://twitter.com/ployspys/status/1447169880130609156": {
+          "created_time": "2021-10-10T11:59:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {
