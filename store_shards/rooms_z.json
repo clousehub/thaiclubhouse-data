@@ -1304,6 +1304,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "xlb2OZEz": {
+      "sources": {
+        "https://twitter.com/nurse9603/status/1447894177606369287": {
+          "created_time": "2021-10-12T11:57:27.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/nanaicez/status/1447896353347047433": {
+          "created_time": "2021-10-12T12:06:05.000Z",
+          "retweet_count": 13,
+          "favorite_count": 15
+        }
+      }
     }
   }
 }
