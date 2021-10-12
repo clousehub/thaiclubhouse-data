@@ -1314,8 +1314,18 @@
         },
         "https://twitter.com/nanaicez/status/1447896353347047433": {
           "created_time": "2021-10-12T12:06:05.000Z",
-          "retweet_count": 13,
+          "retweet_count": 15,
           "favorite_count": 15
+        },
+        "https://twitter.com/hoksingha/status/1447906288420065280": {
+          "created_time": "2021-10-12T12:45:34.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/sodontbe_blue/status/1447917010373992450": {
+          "created_time": "2021-10-12T13:28:10.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
