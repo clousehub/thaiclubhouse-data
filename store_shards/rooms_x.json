@@ -1568,6 +1568,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "P0Bwl0pX": {
+      "sources": {
+        "https://twitter.com/112Dior/status/1448182092433481730": {
+          "created_time": "2021-10-13T07:01:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/112Dior/status/1448184491135029248": {
+          "created_time": "2021-10-13T07:11:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
