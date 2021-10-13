@@ -1354,6 +1354,20 @@
       },
       "metadataUpdated": "2021-10-01T11:06:10.762Z",
       "date": "2021-10-02T19:00:00.000+07:00"
+    },
+    "MR39R2DE": {
+      "sources": {
+        "https://twitter.com/TopGroupTech/status/1448263353789468675": {
+          "created_time": "2021-10-13T12:24:25.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, October 13 at 6:00pm EDT with Prof Temi Akin, Cyber Cloud, Tima, Iyana Smith. Wondering how to create Smart Resume for $100k Jobs. Join us! Get ready Amazon is Hiring!✨",
+        "title": "🚨Smart Resume Review for $100k Jobs: Amazon is Hiring! - My IT University"
+      },
+      "metadataUpdated": "2021-10-13T12:30:11.493Z"
     }
   }
 }
