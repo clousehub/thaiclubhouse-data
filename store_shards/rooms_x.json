@@ -1597,7 +1597,7 @@
         },
         "https://twitter.com/sherryppt/status/1448279263757570050": {
           "created_time": "2021-10-13T13:27:38.000Z",
-          "retweet_count": 1,
+          "retweet_count": 2,
           "favorite_count": 5
         }
       }
@@ -1611,6 +1611,20 @@
         },
         "https://twitter.com/wOswJQmj8LAeAEO/status/1448267762598494217": {
           "created_time": "2021-10-13T12:41:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/NearMelL_1989/status/1448310347635462148": {
+          "created_time": "2021-10-13T15:31:09.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
+        }
+      }
+    },
+    "ma3Yz05x": {
+      "sources": {
+        "https://twitter.com/Dan2000d1/status/1448312937412579330": {
+          "created_time": "2021-10-13T15:41:27.000Z",
           "retweet_count": 0,
           "favorite_count": 0
         }
