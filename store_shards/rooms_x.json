@@ -1588,7 +1588,31 @@
         "https://twitter.com/NaMi35770289/status/1448265099043491840": {
           "created_time": "2021-10-13T12:31:21.000Z",
           "retweet_count": 0,
-          "favorite_count": 2
+          "favorite_count": 3
+        },
+        "https://twitter.com/NaMi35770289/status/1448276961332121606": {
+          "created_time": "2021-10-13T13:18:29.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/sherryppt/status/1448279263757570050": {
+          "created_time": "2021-10-13T13:27:38.000Z",
+          "retweet_count": 1,
+          "favorite_count": 5
+        }
+      }
+    },
+    "M6VKLbVX": {
+      "sources": {
+        "https://twitter.com/cbh48office/status/1448270109345148933": {
+          "created_time": "2021-10-13T12:51:16.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/wOswJQmj8LAeAEO/status/1448267762598494217": {
+          "created_time": "2021-10-13T12:41:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
