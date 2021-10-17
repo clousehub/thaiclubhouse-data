@@ -1700,8 +1700,18 @@
       "sources": {
         "https://twitter.com/Chotisak112/status/1449519349828513793": {
           "created_time": "2021-10-16T23:35:18.000Z",
-          "retweet_count": 4,
-          "favorite_count": 3
+          "retweet_count": 5,
+          "favorite_count": 5
+        },
+        "https://twitter.com/Chotisak112/status/1449581886578171908": {
+          "created_time": "2021-10-17T03:43:48.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/Chotisak112/status/1449585961315143687": {
+          "created_time": "2021-10-17T03:59:59.000Z",
+          "retweet_count": 7,
+          "favorite_count": 4
         }
       },
       "metadata": {
