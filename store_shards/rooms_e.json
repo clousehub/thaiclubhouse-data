@@ -1904,6 +1904,15 @@
           "favorite_count": 4
         }
       }
+    },
+    "MR2padLE": {
+      "sources": {
+        "https://twitter.com/Armychirat/status/1449759655010258946": {
+          "created_time": "2021-10-17T15:30:11.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
