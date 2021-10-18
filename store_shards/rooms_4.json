@@ -666,6 +666,11 @@
           "created_time": "2021-10-18T14:14:19.000Z",
           "retweet_count": 0,
           "favorite_count": 2
+        },
+        "https://twitter.com/FernPLNTY/status/1450135623243747330": {
+          "created_time": "2021-10-18T16:24:09.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
         }
       }
     }
