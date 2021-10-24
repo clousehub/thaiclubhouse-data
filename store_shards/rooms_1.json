@@ -949,6 +949,25 @@
           "favorite_count": 5
         }
       }
+    },
+    "M83GAqA1": {
+      "sources": {
+        "https://twitter.com/112Dior/status/1452222341052837888": {
+          "created_time": "2021-10-24T10:36:01.000Z",
+          "retweet_count": 2,
+          "favorite_count": 4
+        },
+        "https://twitter.com/ZZGodzilla/status/1452221637647114242": {
+          "created_time": "2021-10-24T10:33:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/orenjizaka36/status/1452225338260525058": {
+          "created_time": "2021-10-24T10:47:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
