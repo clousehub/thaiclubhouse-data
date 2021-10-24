@@ -1147,6 +1147,11 @@
           "created_time": "2021-10-23T04:21:13.000Z",
           "retweet_count": 4,
           "favorite_count": 4
+        },
+        "https://twitter.com/InterviewHer/status/1452077548007952390": {
+          "created_time": "2021-10-24T01:00:40.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       },
       "metadata": {
