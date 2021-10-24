@@ -507,6 +507,40 @@
           "favorite_count": 1
         }
       }
+    },
+    "xVKORRb0": {
+      "sources": {
+        "https://twitter.com/WHIThailand/status/1452266736158486546": {
+          "created_time": "2021-10-24T13:32:26.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/orenjizaka36/status/1452268587977117700": {
+          "created_time": "2021-10-24T13:39:47.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/_dark_zone/status/1452270495634649090": {
+          "created_time": "2021-10-24T13:47:22.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Tree_of_Life_8/status/1452269893475201029": {
+          "created_time": "2021-10-24T13:44:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Tree_of_Life_8/status/1452272744536543237": {
+          "created_time": "2021-10-24T13:56:18.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Tree_of_Life_8/status/1452275132710338566": {
+          "created_time": "2021-10-24T14:05:48.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
