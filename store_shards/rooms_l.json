@@ -1725,6 +1725,21 @@
         "https://twitter.com/FernPLNTY/status/1452532955801210883": {
           "created_time": "2021-10-25T07:10:18.000Z",
           "retweet_count": 1,
+          "favorite_count": 4
+        },
+        "https://twitter.com/orenjizaka36/status/1452547968263802882": {
+          "created_time": "2021-10-25T08:09:57.000Z",
+          "retweet_count": 0,
+          "favorite_count": 4
+        },
+        "https://twitter.com/orenjizaka36/status/1452550860538408960": {
+          "created_time": "2021-10-25T08:21:26.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        },
+        "https://twitter.com/orenjizaka36/status/1452553623066398730": {
+          "created_time": "2021-10-25T08:32:25.000Z",
+          "retweet_count": 0,
           "favorite_count": 3
         }
       }
