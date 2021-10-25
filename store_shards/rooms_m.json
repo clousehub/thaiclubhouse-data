@@ -1312,6 +1312,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "PYDQkynm": {
+      "sources": {
+        "https://twitter.com/Chotisak112/status/1452615397501378562": {
+          "created_time": "2021-10-25T12:37:53.000Z",
+          "retweet_count": 4,
+          "favorite_count": 5
+        },
+        "https://twitter.com/Tree_of_Life_8/status/1452623771626459141": {
+          "created_time": "2021-10-25T13:11:10.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
