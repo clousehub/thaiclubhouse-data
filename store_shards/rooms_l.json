@@ -1719,6 +1719,15 @@
           "favorite_count": 0
         }
       }
+    },
+    "myoVARRL": {
+      "sources": {
+        "https://twitter.com/FernPLNTY/status/1452532955801210883": {
+          "created_time": "2021-10-25T07:10:18.000Z",
+          "retweet_count": 1,
+          "favorite_count": 3
+        }
+      }
     }
   }
 }
