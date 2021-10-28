@@ -1369,6 +1369,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "MR2gqJbM": {
+      "sources": {
+        "https://twitter.com/iHerei0o/status/1453765875379544072": {
+          "created_time": "2021-10-28T16:49:29.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/RsdSolidarity/status/1453769173125910530": {
+          "created_time": "2021-10-28T17:02:35.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
