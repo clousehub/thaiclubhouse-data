@@ -1770,13 +1770,13 @@
         },
         "https://twitter.com/dododuckkxx/status/1454479035170365452": {
           "created_time": "2021-10-30T16:03:19.000Z",
-          "retweet_count": 1,
-          "favorite_count": 1
+          "retweet_count": 2,
+          "favorite_count": 2
         },
         "https://twitter.com/dododuckkxx/status/1454486164543393802": {
           "created_time": "2021-10-30T16:31:39.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
