@@ -1760,6 +1760,20 @@
           "favorite_count": 3
         }
       }
+    },
+    "xVrgw8nD": {
+      "sources": {
+        "https://twitter.com/dododuckkxx/status/1454474042384154633": {
+          "created_time": "2021-10-30T15:43:29.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        },
+        "https://twitter.com/dododuckkxx/status/1454479035170365452": {
+          "created_time": "2021-10-30T16:03:19.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }

@@ -1179,6 +1179,20 @@
           "favorite_count": 5
         }
       }
+    },
+    "MdjaA8E8": {
+      "sources": {
+        "https://twitter.com/annJIda/status/1454465618204262410": {
+          "created_time": "2021-10-30T15:10:00.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/cbh48office/status/1454468057351421952": {
+          "created_time": "2021-10-30T15:19:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
