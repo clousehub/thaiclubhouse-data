@@ -1053,6 +1053,21 @@
       },
       "metadataUpdated": "2021-10-10T14:30:12.895Z",
       "date": "2021-10-12T19:30:00.000+07:00"
+    },
+    "m3zlOjQr": {
+      "sources": {
+        "https://twitter.com/SatOsHiMeeN/status/1455705855949631494": {
+          "created_time": "2021-11-03T01:18:16.000Z",
+          "retweet_count": 5,
+          "favorite_count": 4
+        }
+      },
+      "metadata": {
+        "description": "Wednesday, November 3 at 8:00pm +07 with Meen Chantrawutihodl, Pawaran Panupunmethi, Hopie Palan, nat tanat.",
+        "title": "กระดานสีเขียว📊 x ธนาคารที่ถือหุ้นโดยกษัตริย์ - Bitcoin Maximalists TH"
+      },
+      "metadataUpdated": "2021-11-03T01:24:11.476Z",
+      "date": "2021-11-03T20:00:00.000+07:00"
     }
   }
 }
