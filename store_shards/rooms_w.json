@@ -1993,8 +1993,13 @@
         },
         "https://twitter.com/WHIThailand/status/1455883050785468416": {
           "created_time": "2021-11-03T13:02:22.000Z",
-          "retweet_count": 1,
+          "retweet_count": 2,
           "favorite_count": 0
+        },
+        "https://twitter.com/PPunjakunaporn/status/1455888958429089793": {
+          "created_time": "2021-11-03T13:25:51.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
