@@ -2265,6 +2265,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "xVJdGNzQ": {
+      "sources": {
+        "https://twitter.com/gr8vs/status/1456574782871379974": {
+          "created_time": "2021-11-05T10:51:04.000Z",
+          "retweet_count": 8,
+          "favorite_count": 2
+        },
+        "https://twitter.com/gr8vs/status/1456574617745756160": {
+          "created_time": "2021-11-05T10:50:25.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
