@@ -2215,6 +2215,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "M6YGrQro": {
+      "sources": {
+        "https://twitter.com/Chotisak112/status/1456887672685744131": {
+          "created_time": "2021-11-06T07:34:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/iHerei0o/status/1456888325197889540": {
+          "created_time": "2021-11-06T07:36:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
