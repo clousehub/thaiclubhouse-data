@@ -839,6 +839,11 @@
           "created_time": "2021-09-05T16:32:09.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/GarrickTheDJ/status/1457104366381457409": {
+          "created_time": "2021-11-06T21:55:27.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       },
       "metadata": {
