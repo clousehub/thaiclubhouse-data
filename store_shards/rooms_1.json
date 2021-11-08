@@ -995,6 +995,35 @@
           "favorite_count": 1
         }
       }
+    },
+    "xnJ21qO1": {
+      "sources": {
+        "https://twitter.com/gr8vs/status/1457713250083033095": {
+          "created_time": "2021-11-08T14:14:56.000Z",
+          "retweet_count": 19,
+          "favorite_count": 8
+        },
+        "https://twitter.com/gr8vs/status/1457716893519794181": {
+          "created_time": "2021-11-08T14:29:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/gr8vs/status/1457717482328756238": {
+          "created_time": "2021-11-08T14:31:45.000Z",
+          "retweet_count": 4,
+          "favorite_count": 2
+        },
+        "https://twitter.com/gr8vs/status/1457720998229278720": {
+          "created_time": "2021-11-08T14:45:43.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/gr8vs/status/1457721610073300997": {
+          "created_time": "2021-11-08T14:48:09.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
