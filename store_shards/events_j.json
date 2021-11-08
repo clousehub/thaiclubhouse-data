@@ -947,6 +947,11 @@
           "created_time": "2021-11-07T10:48:56.000Z",
           "retweet_count": 7,
           "favorite_count": 1
+        },
+        "https://twitter.com/MrSantruay/status/1457690028453203973": {
+          "created_time": "2021-11-08T12:42:40.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
         }
       },
       "metadata": {
