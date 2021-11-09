@@ -1351,18 +1351,18 @@
       "sources": {
         "https://twitter.com/sudarang/status/1458057901474471938": {
           "created_time": "2021-11-09T13:04:27.000Z",
-          "retweet_count": 2,
-          "favorite_count": 15
+          "retweet_count": 3,
+          "favorite_count": 18
         },
         "https://twitter.com/ChaninNume/status/1458059305567997953": {
           "created_time": "2021-11-09T13:10:02.000Z",
-          "retweet_count": 33,
-          "favorite_count": 90
+          "retweet_count": 41,
+          "favorite_count": 112
         },
         "https://twitter.com/DrCharanLive/status/1458060063843577858": {
           "created_time": "2021-11-09T13:13:03.000Z",
-          "retweet_count": 3,
-          "favorite_count": 17
+          "retweet_count": 4,
+          "favorite_count": 22
         }
       }
     }
