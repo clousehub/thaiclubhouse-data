@@ -2109,12 +2109,26 @@
         "https://twitter.com/nooknitithorn/status/1458783600107614211": {
           "created_time": "2021-11-11T13:08:07.000Z",
           "retweet_count": 0,
-          "favorite_count": 2
+          "favorite_count": 3
         },
         "https://twitter.com/nooknitithorn/status/1458785204294729731": {
           "created_time": "2021-11-11T13:14:30.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/WHIThailand/status/1458803845748838406": {
+          "created_time": "2021-11-11T14:28:34.000Z",
+          "retweet_count": 5,
+          "favorite_count": 1
+        }
+      }
+    },
+    "MwoXwaJW": {
+      "sources": {
+        "https://twitter.com/SatOsHiMeeN/status/1458792347672580103": {
+          "created_time": "2021-11-11T13:42:53.000Z",
+          "retweet_count": 3,
+          "favorite_count": 3
         }
       }
     }
