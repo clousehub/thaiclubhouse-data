@@ -1237,18 +1237,18 @@
       "sources": {
         "https://twitter.com/oil_jirayu/status/1458681919575523329": {
           "created_time": "2021-11-11T06:24:05.000Z",
-          "retweet_count": 3,
-          "favorite_count": 4
+          "retweet_count": 4,
+          "favorite_count": 5
         },
         "https://twitter.com/topazine/status/1458746156247257090": {
           "created_time": "2021-11-11T10:39:20.000Z",
-          "retweet_count": 42,
-          "favorite_count": 18
+          "retweet_count": 43,
+          "favorite_count": 19
         },
         "https://twitter.com/therockpub1987/status/1458752359983550466": {
           "created_time": "2021-11-11T11:03:59.000Z",
-          "retweet_count": 11,
-          "favorite_count": 4
+          "retweet_count": 12,
+          "favorite_count": 5
         }
       },
       "metadata": {
