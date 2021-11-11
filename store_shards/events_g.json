@@ -1239,6 +1239,16 @@
           "created_time": "2021-11-11T06:24:05.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/topazine/status/1458746156247257090": {
+          "created_time": "2021-11-11T10:39:20.000Z",
+          "retweet_count": 29,
+          "favorite_count": 8
+        },
+        "https://twitter.com/therockpub1987/status/1458752359983550466": {
+          "created_time": "2021-11-11T11:03:59.000Z",
+          "retweet_count": 3,
+          "favorite_count": 0
         }
       },
       "metadata": {
