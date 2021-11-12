@@ -1024,6 +1024,29 @@
           "favorite_count": 1
         }
       }
+    },
+    "M1vY6A71": {
+      "sources": {
+        "https://twitter.com/b_B1B2B3/status/1459159263985553409": {
+          "created_time": "2021-11-12T14:00:53.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/kcurran77/status/1459161323615498240": {
+          "created_time": "2021-11-12T14:09:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        }
+      }
+    },
+    "xB3YQlk1": {
+      "sources": {
+        "https://twitter.com/sudarang/status/1459160737667035146": {
+          "created_time": "2021-11-12T14:06:44.000Z",
+          "retweet_count": 2,
+          "favorite_count": 4
+        }
+      }
     }
   }
 }
