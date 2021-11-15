@@ -1037,6 +1037,11 @@
           "created_time": "2021-11-15T15:53:15.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/nkhr_sthan/status/1460270198695489536": {
+          "created_time": "2021-11-15T15:35:20.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
