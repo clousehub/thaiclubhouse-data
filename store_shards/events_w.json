@@ -1391,8 +1391,13 @@
       "sources": {
         "https://twitter.com/sudarang/status/1460543043828920321": {
           "created_time": "2021-11-16T09:39:31.000Z",
-          "retweet_count": 3,
-          "favorite_count": 6
+          "retweet_count": 5,
+          "favorite_count": 10
+        },
+        "https://twitter.com/sudarang/status/1460567089471803398": {
+          "created_time": "2021-11-16T11:15:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       },
       "metadata": {
