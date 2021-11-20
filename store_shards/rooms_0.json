@@ -550,6 +550,30 @@
           "favorite_count": 1
         }
       }
+    },
+    "xlao0d90": {
+      "sources": {
+        "https://twitter.com/RsdSolidarity/status/1462062459930300417": {
+          "created_time": "2021-11-20T14:17:08.000Z",
+          "retweet_count": 7,
+          "favorite_count": 7
+        },
+        "https://twitter.com/WHIThailand/status/1462062195689148429": {
+          "created_time": "2021-11-20T14:16:05.000Z",
+          "retweet_count": 3,
+          "favorite_count": 0
+        },
+        "https://twitter.com/i0YourDaddyDied/status/1462064510156476424": {
+          "created_time": "2021-11-20T14:25:17.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Chotisak112/status/1462068905380225027": {
+          "created_time": "2021-11-20T14:42:45.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
