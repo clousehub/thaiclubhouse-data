@@ -1835,6 +1835,16 @@
         "https://twitter.com/WHIThailand/status/1462461609842864128": {
           "created_time": "2021-11-21T16:43:13.000Z",
           "retweet_count": 3,
+          "favorite_count": 2
+        },
+        "https://twitter.com/Tree_of_Life_8/status/1462478783395483652": {
+          "created_time": "2021-11-21T17:51:28.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/CillianMurphyFc/status/1462478763736768513": {
+          "created_time": "2021-11-21T17:51:23.000Z",
+          "retweet_count": 0,
           "favorite_count": 0
         }
       }
