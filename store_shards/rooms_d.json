@@ -1833,6 +1833,25 @@
           "favorite_count": 18
         }
       }
+    },
+    "xXQWy4Bd": {
+      "sources": {
+        "https://twitter.com/WHIThailand/status/1462793242462724099": {
+          "created_time": "2021-11-22T14:41:01.000Z",
+          "retweet_count": 5,
+          "favorite_count": 5
+        },
+        "https://twitter.com/Chotisak112/status/1462793068810162185": {
+          "created_time": "2021-11-22T14:40:19.000Z",
+          "retweet_count": 4,
+          "favorite_count": 2
+        },
+        "https://twitter.com/wombat2475/status/1462798772098908170": {
+          "created_time": "2021-11-22T15:02:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
