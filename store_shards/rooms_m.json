@@ -1498,6 +1498,20 @@
           "favorite_count": 25
         }
       }
+    },
+    "mWn0RYyM": {
+      "sources": {
+        "https://twitter.com/nkhr_sthan/status/1463524089440600069": {
+          "created_time": "2021-11-24T15:05:08.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/nkhr_sthan/status/1463496687578615818": {
+          "created_time": "2021-11-24T13:16:15.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
