@@ -1850,6 +1850,11 @@
           "created_time": "2021-11-26T15:17:00.000Z",
           "retweet_count": 2,
           "favorite_count": 2
+        },
+        "https://twitter.com/kcurran77/status/1464388890580692993": {
+          "created_time": "2021-11-27T00:21:33.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
