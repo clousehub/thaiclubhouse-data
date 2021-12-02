@@ -1481,6 +1481,20 @@
           "favorite_count": 7
         }
       }
+    },
+    "M59D48Oj": {
+      "sources": {
+        "https://twitter.com/orenjizaka36/status/1466447916420067328": {
+          "created_time": "2021-12-02T16:43:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 4
+        },
+        "https://twitter.com/nkhr_sthan/status/1466440486504173568": {
+          "created_time": "2021-12-02T16:13:51.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
