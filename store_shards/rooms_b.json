@@ -2127,6 +2127,20 @@
           "favorite_count": 2
         }
       }
+    },
+    "M8L0V7gb": {
+      "sources": {
+        "https://twitter.com/TonySkyLab/status/1466770538223714306": {
+          "created_time": "2021-12-03T14:05:22.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/l0YourDaddyDied/status/1466771810712649731": {
+          "created_time": "2021-12-03T14:10:25.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
