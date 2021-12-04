@@ -2107,7 +2107,7 @@
         "https://twitter.com/kcurran77/status/1466784957343604736": {
           "created_time": "2021-12-03T15:02:40.000Z",
           "retweet_count": 0,
-          "favorite_count": 2
+          "favorite_count": 3
         }
       }
     },
@@ -2126,6 +2126,11 @@
           "created_time": "2021-12-04T05:27:59.000Z",
           "retweet_count": 0,
           "favorite_count": 2
+        },
+        "https://twitter.com/fenoMEnonnn/status/1467006213858623489": {
+          "created_time": "2021-12-04T05:41:51.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       }
     }
