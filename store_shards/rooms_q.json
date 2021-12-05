@@ -2338,6 +2338,20 @@
           "favorite_count": 5
         }
       }
+    },
+    "M1WJ9oWq": {
+      "sources": {
+        "https://twitter.com/whynot05428242/status/1467499231795716099": {
+          "created_time": "2021-12-05T14:20:56.000Z",
+          "retweet_count": 2,
+          "favorite_count": 1
+        },
+        "https://twitter.com/b_B1B2B3/status/1467502562869874688": {
+          "created_time": "2021-12-05T14:34:10.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
