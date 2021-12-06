@@ -1871,6 +1871,20 @@
           "favorite_count": 5
         }
       }
+    },
+    "mWER2jYL": {
+      "sources": {
+        "https://twitter.com/sanizanni/status/1467894613432098817": {
+          "created_time": "2021-12-06T16:32:02.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/dulfong/status/1467895887997202438": {
+          "created_time": "2021-12-06T16:37:06.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
