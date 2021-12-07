@@ -2247,8 +2247,8 @@
         },
         "https://twitter.com/b_B1B2B3/status/1468212296933462017": {
           "created_time": "2021-12-07T13:34:24.000Z",
-          "retweet_count": 27,
-          "favorite_count": 3
+          "retweet_count": 33,
+          "favorite_count": 5
         },
         "https://twitter.com/b_B1B2B3/status/1468215117770752002": {
           "created_time": "2021-12-07T13:45:36.000Z",
@@ -2262,8 +2262,8 @@
         },
         "https://twitter.com/b_B1B2B3/status/1468217262767177736": {
           "created_time": "2021-12-07T13:54:08.000Z",
-          "retweet_count": 7,
-          "favorite_count": 5
+          "retweet_count": 8,
+          "favorite_count": 7
         },
         "https://twitter.com/b_B1B2B3/status/1468225428221431808": {
           "created_time": "2021-12-07T14:26:35.000Z",
@@ -2273,17 +2273,32 @@
         "https://twitter.com/b_B1B2B3/status/1468227790218698760": {
           "created_time": "2021-12-07T14:35:58.000Z",
           "retweet_count": 1,
-          "favorite_count": 2
+          "favorite_count": 3
         },
         "https://twitter.com/b_B1B2B3/status/1468227182573109264": {
           "created_time": "2021-12-07T14:33:33.000Z",
-          "retweet_count": 1,
-          "favorite_count": 3
+          "retweet_count": 2,
+          "favorite_count": 7
         },
         "https://twitter.com/b_B1B2B3/status/1468226643131084802": {
           "created_time": "2021-12-07T14:31:24.000Z",
           "retweet_count": 1,
+          "favorite_count": 2
+        },
+        "https://twitter.com/b_B1B2B3/status/1468238746395066387": {
+          "created_time": "2021-12-07T15:19:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/b_B1B2B3/status/1468240439446806542": {
+          "created_time": "2021-12-07T15:26:14.000Z",
+          "retweet_count": 2,
           "favorite_count": 1
+        },
+        "https://twitter.com/b_B1B2B3/status/1468248092877205508": {
+          "created_time": "2021-12-07T15:56:38.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
         }
       }
     }
