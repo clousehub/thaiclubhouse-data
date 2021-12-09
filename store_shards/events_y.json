@@ -1159,6 +1159,21 @@
       },
       "metadataUpdated": "2021-12-05T09:42:10.696Z",
       "date": "2021-12-05T17:00:00.000+07:00"
+    },
+    "xoNznbRY": {
+      "sources": {
+        "https://twitter.com/northstarofmine/status/1468887021171052548": {
+          "created_time": "2021-12-09T10:15:31.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      },
+      "metadata": {
+        "description": "Saturday, December 11 at 8:00pm +07 with Manop Pithukpakorn, Puey Ounjai, Yotsawat Pomyen, Pakpoom Subsoontorn. ว่ากันด้วยเรื่อง Omicron ล้วน ๆ ทั้งการระบาด, genome, transmission advantage, immune evasion, vaccine, treatment, etc. (60 นาที)",
+        "title": "COVID-19 Scientific Update - Research Espresso"
+      },
+      "metadataUpdated": "2021-12-09T10:18:10.407Z",
+      "date": "2021-12-11T20:00:00.000+07:00"
     }
   }
 }
