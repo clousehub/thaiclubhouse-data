@@ -2381,6 +2381,11 @@
           "created_time": "2021-12-11T12:59:40.000Z",
           "retweet_count": 2,
           "favorite_count": 1
+        },
+        "https://twitter.com/m78a/status/1470448629030653953": {
+          "created_time": "2021-12-13T17:40:47.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     },
@@ -2389,7 +2394,7 @@
         "https://twitter.com/sudarang/status/1470314860147843072": {
           "created_time": "2021-12-13T08:49:14.000Z",
           "retweet_count": 5,
-          "favorite_count": 14
+          "favorite_count": 15
         }
       }
     },
