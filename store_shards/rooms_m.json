@@ -1555,6 +1555,11 @@
           "created_time": "2021-12-14T15:03:07.000Z",
           "retweet_count": 3,
           "favorite_count": 5
+        },
+        "https://twitter.com/ktkdog/status/1470797012404621316": {
+          "created_time": "2021-12-14T16:45:08.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
