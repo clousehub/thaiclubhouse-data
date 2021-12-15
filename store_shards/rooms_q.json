@@ -2377,8 +2377,13 @@
         },
         "https://twitter.com/Kemrathanon/status/1471136241508761601": {
           "created_time": "2021-12-15T15:13:07.000Z",
-          "retweet_count": 0,
-          "favorite_count": 0
+          "retweet_count": 1,
+          "favorite_count": 1
+        },
+        "https://twitter.com/GirlAami/status/1471151114724986887": {
+          "created_time": "2021-12-15T16:12:13.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
