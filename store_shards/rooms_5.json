@@ -722,6 +722,24 @@
           "favorite_count": 0
         }
       }
+    },
+    "MdR91rj5": {
+      "sources": {
+        "https://twitter.com/parttimefc239/status/1472207096284254210": {
+          "created_time": "2021-12-18T14:08:18.000Z",
+          "retweet_count": 1,
+          "favorite_count": 2
+        }
+      }
+    },
+    "PbvrB4g5": {
+      "sources": {
+        "https://twitter.com/mugglethai_mt/status/1472219303143301124": {
+          "created_time": "2021-12-18T14:56:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
