@@ -767,6 +767,11 @@
           "created_time": "2021-12-24T14:56:35.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/teaonlive/status/1474380783343136769": {
+          "created_time": "2021-12-24T14:05:46.000Z",
+          "retweet_count": 1,
+          "favorite_count": 1
         }
       }
     }
