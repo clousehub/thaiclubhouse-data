@@ -2031,6 +2031,15 @@
           "favorite_count": 23
         }
       }
+    },
+    "PA042GlR": {
+      "sources": {
+        "https://twitter.com/ukpanther1/status/1474685618168995843": {
+          "created_time": "2021-12-25T10:17:04.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
