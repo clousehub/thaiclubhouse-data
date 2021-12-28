@@ -1925,6 +1925,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "ME00NqBd": {
+      "sources": {
+        "https://twitter.com/JeJieee__/status/1475844577328201729": {
+          "created_time": "2021-12-28T15:02:21.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        },
+        "https://twitter.com/JeJieee__/status/1475844361535455233": {
+          "created_time": "2021-12-28T15:01:30.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
