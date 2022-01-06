@@ -1966,6 +1966,20 @@
           "favorite_count": 5
         }
       }
+    },
+    "m22l2kLA": {
+      "sources": {
+        "https://twitter.com/PGzard/status/1479042052755099650": {
+          "created_time": "2022-01-06T10:47:59.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/RsdSolidarity/status/1479044734672728064": {
+          "created_time": "2022-01-06T10:58:38.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
