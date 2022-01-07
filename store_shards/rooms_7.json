@@ -1006,6 +1006,20 @@
           "favorite_count": 0
         }
       }
+    },
+    "mabLJp17": {
+      "sources": {
+        "https://twitter.com/PPP_pppmp/status/1479434234351611904": {
+          "created_time": "2022-01-07T12:46:22.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/PGzard/status/1479440551011250179": {
+          "created_time": "2022-01-07T13:11:28.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
