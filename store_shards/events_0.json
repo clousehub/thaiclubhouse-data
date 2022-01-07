@@ -524,17 +524,22 @@
         "https://twitter.com/Chotisak112/status/1479345747183034371": {
           "created_time": "2022-01-07T06:54:45.000Z",
           "retweet_count": 1,
-          "favorite_count": 2
+          "favorite_count": 3
         },
         "https://twitter.com/PGzard/status/1479392398169968644": {
           "created_time": "2022-01-07T10:00:08.000Z",
           "retweet_count": 0,
-          "favorite_count": 2
+          "favorite_count": 4
         },
         "https://twitter.com/Chotisak112/status/1479401591916560384": {
           "created_time": "2022-01-07T10:36:40.000Z",
           "retweet_count": 2,
-          "favorite_count": 8
+          "favorite_count": 11
+        },
+        "https://twitter.com/RMazitra/status/1479425660242173953": {
+          "created_time": "2022-01-07T12:12:18.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {

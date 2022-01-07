@@ -1010,6 +1010,21 @@
       },
       "metadataUpdated": "2021-11-30T15:18:11.436Z",
       "date": "2021-11-30T22:30:00.000+07:00"
+    },
+    "xjl02vY6": {
+      "sources": {
+        "https://twitter.com/ukpanthertalks/status/1479419112690528258": {
+          "created_time": "2022-01-07T11:46:17.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
+        }
+      },
+      "metadata": {
+        "description": "Friday, January 7 at 12:00pm GMT with UK Panther. Details, links and comments in the Discord Link Below.⬇️",
+        "title": "Opinions are like casseroles... Everybody Warnock’s Dillema"
+      },
+      "metadataUpdated": "2022-01-07T11:48:11.080Z",
+      "date": "2021-01-07T19:00:00.000+07:00"
     }
   }
 }
