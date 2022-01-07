@@ -519,7 +519,12 @@
         "https://twitter.com/PGzard/status/1479343155996610560": {
           "created_time": "2022-01-07T06:44:27.000Z",
           "retweet_count": 1,
-          "favorite_count": 0
+          "favorite_count": 3
+        },
+        "https://twitter.com/Chotisak112/status/1479345747183034371": {
+          "created_time": "2022-01-07T06:54:45.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       },
       "metadata": {
