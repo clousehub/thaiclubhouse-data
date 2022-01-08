@@ -1999,8 +1999,13 @@
         },
         "https://twitter.com/Starryplace1001/status/1479788739509436418": {
           "created_time": "2022-01-08T12:15:03.000Z",
-          "retweet_count": 4,
-          "favorite_count": 3
+          "retweet_count": 6,
+          "favorite_count": 4
+        },
+        "https://twitter.com/sudarang/status/1479799881325813769": {
+          "created_time": "2022-01-08T12:59:19.000Z",
+          "retweet_count": 5,
+          "favorite_count": 6
         }
       }
     }
