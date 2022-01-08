@@ -2198,6 +2198,45 @@
           "favorite_count": 0
         }
       }
+    },
+    "xov5dXlY": {
+      "sources": {
+        "https://twitter.com/PpMiyo/status/1479785785679224836": {
+          "created_time": "2022-01-08T12:03:19.000Z",
+          "retweet_count": 2,
+          "favorite_count": 3
+        },
+        "https://twitter.com/oil_jirayu/status/1479785721179246592": {
+          "created_time": "2022-01-08T12:03:03.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/MrSantruay/status/1479785662693863428": {
+          "created_time": "2022-01-08T12:02:49.000Z",
+          "retweet_count": 2,
+          "favorite_count": 2
+        },
+        "https://twitter.com/b_B1B2B3/status/1479785547925102594": {
+          "created_time": "2022-01-08T12:02:22.000Z",
+          "retweet_count": 2,
+          "favorite_count": 0
+        },
+        "https://twitter.com/dfwcftk/status/1479787529817636864": {
+          "created_time": "2022-01-08T12:10:14.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/northstarofmine/status/1479786640063139841": {
+          "created_time": "2022-01-08T12:06:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/Koi_rahkah/status/1479788244346687488": {
+          "created_time": "2022-01-08T12:13:05.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
