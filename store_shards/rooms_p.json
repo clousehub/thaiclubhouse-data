@@ -2446,6 +2446,11 @@
           "created_time": "2022-01-09T05:55:49.000Z",
           "retweet_count": 1,
           "favorite_count": 0
+        },
+        "https://twitter.com/fenoMEnonnn/status/1480186734822395909": {
+          "created_time": "2022-01-09T14:36:32.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
