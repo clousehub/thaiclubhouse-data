@@ -2213,6 +2213,11 @@
           "created_time": "2022-01-10T14:34:22.000Z",
           "retweet_count": 1,
           "favorite_count": 2
+        },
+        "https://twitter.com/pablohoneyyyy/status/1480577855415144448": {
+          "created_time": "2022-01-10T16:30:43.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
         }
       }
     }
