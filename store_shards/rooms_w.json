@@ -2349,6 +2349,11 @@
           "created_time": "2022-01-11T05:35:29.000Z",
           "retweet_count": 0,
           "favorite_count": 1
+        },
+        "https://twitter.com/PGzard/status/1480818975411900419": {
+          "created_time": "2022-01-11T08:28:50.000Z",
+          "retweet_count": 1,
+          "favorite_count": 0
         }
       }
     }
