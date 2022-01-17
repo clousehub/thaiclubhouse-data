@@ -2067,6 +2067,60 @@
           "favorite_count": 1
         }
       }
+    },
+    "MzB7RGwa": {
+      "sources": {
+        "https://twitter.com/SHENGtweet/status/1483073402353029122": {
+          "created_time": "2022-01-17T13:47:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/SHENGtweet/status/1483076343491620864": {
+          "created_time": "2022-01-17T13:58:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/SHENGtweet/status/1483078499993022472": {
+          "created_time": "2022-01-17T14:07:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/SHENGtweet/status/1483081097915559937": {
+          "created_time": "2022-01-17T14:17:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/SHENGtweet/status/1483079943987019777": {
+          "created_time": "2022-01-17T14:13:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mahazbast/status/1483081097915559937": {
+          "created_time": "2022-01-17T14:17:42.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mahazbast/status/1483079943987019777": {
+          "created_time": "2022-01-17T14:13:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mahazbast/status/1483078499993022472": {
+          "created_time": "2022-01-17T14:07:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mahazbast/status/1483076343491620864": {
+          "created_time": "2022-01-17T13:58:49.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/mahazbast/status/1483073402353029122": {
+          "created_time": "2022-01-17T13:47:07.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
