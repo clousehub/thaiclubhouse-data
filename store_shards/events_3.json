@@ -493,6 +493,11 @@
           "created_time": "2022-01-22T13:08:26.000Z",
           "retweet_count": 0,
           "favorite_count": 0
+        },
+        "https://twitter.com/koonmikjor/status/1484907223843479552": {
+          "created_time": "2022-01-22T15:14:05.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
         }
       },
       "metadata": {
