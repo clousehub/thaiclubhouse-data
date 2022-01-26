@@ -639,6 +639,25 @@
           "favorite_count": 0
         }
       }
+    },
+    "mZnkLl00": {
+      "sources": {
+        "https://twitter.com/Mewmimi123/status/1486355011517181952": {
+          "created_time": "2022-01-26T15:07:04.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/RsdSolidarity/status/1486356350116704257": {
+          "created_time": "2022-01-26T15:12:23.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/northstarofmine/status/1486359183062859777": {
+          "created_time": "2022-01-26T15:23:39.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
