@@ -2090,6 +2090,20 @@
           "favorite_count": 1
         }
       }
+    },
+    "m34gYeGr": {
+      "sources": {
+        "https://twitter.com/PPP_pppmp/status/1487718699066806272": {
+          "created_time": "2022-01-30T09:25:52.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        },
+        "https://twitter.com/PGzard/status/1487725428253290500": {
+          "created_time": "2022-01-30T09:52:37.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        }
+      }
     }
   }
 }
