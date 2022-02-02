@@ -2199,6 +2199,20 @@
           "favorite_count": 7
         }
       }
+    },
+    "xkvGdYJK": {
+      "sources": {
+        "https://twitter.com/b_B1B2B3/status/1488911322129387520": {
+          "created_time": "2022-02-02T16:24:56.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/b_B1B2B3/status/1488915814740738055": {
+          "created_time": "2022-02-02T16:42:47.000Z",
+          "retweet_count": 0,
+          "favorite_count": 1
+        }
+      }
     }
   }
 }
