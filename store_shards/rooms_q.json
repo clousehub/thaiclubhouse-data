@@ -2463,6 +2463,25 @@
           "favorite_count": 0
         }
       }
+    },
+    "mJwv7W7Q": {
+      "sources": {
+        "https://twitter.com/InterviewHer/status/1489247167118143496": {
+          "created_time": "2022-02-03T14:39:28.000Z",
+          "retweet_count": 0,
+          "favorite_count": 3
+        },
+        "https://twitter.com/InterviewHer/status/1489251298772140032": {
+          "created_time": "2022-02-03T14:55:53.000Z",
+          "retweet_count": 0,
+          "favorite_count": 0
+        },
+        "https://twitter.com/InterviewHer/status/1489254024692248585": {
+          "created_time": "2022-02-03T15:06:43.000Z",
+          "retweet_count": 0,
+          "favorite_count": 2
+        }
+      }
     }
   }
 }
