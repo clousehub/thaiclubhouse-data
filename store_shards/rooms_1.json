@@ -1143,6 +1143,11 @@
       "sources": {
         "https://twitter.com/hidorangia/status/1489528661329907712": {
           "created_time": "2022-02-04T09:18:01.000Z",
+          "retweet_count": 1,
+          "favorite_count": 4
+        },
+        "https://twitter.com/nkhr_sthan/status/1489554514860736513": {
+          "created_time": "2022-02-04T11:00:45.000Z",
           "retweet_count": 0,
           "favorite_count": 2
         }
